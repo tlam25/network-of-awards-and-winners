@@ -1,1 +1,0 @@
-# network-of-awards-and-winners

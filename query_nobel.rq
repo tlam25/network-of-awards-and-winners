@@ -1,82 +1,77 @@
-# All Nobel-related prizes (Physics, Chemistry, Medicine, Literature, Peace, Economic Sciences)
-# All years (no date filter)
-# Shows: countries, occupations, fieldsOfWork, educatedAt, employers, memberOf, motivationEn
+# Relation: is_citizen_of, works_as, works_in_field, educated_at, employed_by, is_member_of, has_motivation_en
 SELECT ?laureate ?laureateLabel ?award ?awardLabel ?year
-       (GROUP_CONCAT(DISTINCT ?countryLabel;    separator=", ") AS ?countries)
-       (GROUP_CONCAT(DISTINCT ?occupationLabel; separator=", ") AS ?occupations)
-       (GROUP_CONCAT(DISTINCT ?fieldLabel;      separator=", ") AS ?fieldsOfWork)
-       (GROUP_CONCAT(DISTINCT ?eduLabel;        separator=", ") AS ?educatedAt)
-       (GROUP_CONCAT(DISTINCT ?empLabel;        separator=", ") AS ?employers)
-       (GROUP_CONCAT(DISTINCT ?memberLabel;     separator=", ") AS ?memberOf)
-       (GROUP_CONCAT(DISTINCT ?motTxt;          separator=" | ") AS ?motivationEn)
+       (GROUP_CONCAT(DISTINCT ?countryLabel;    separator=", ") AS ?is_citizen_of)
+       (GROUP_CONCAT(DISTINCT ?occupationLabel; separator=", ") AS ?works_as)
+       (GROUP_CONCAT(DISTINCT ?fieldLabel;      separator=", ") AS ?works_in_field)
+       (GROUP_CONCAT(DISTINCT ?eduLabel;        separator=", ") AS ?educated_at)
+       (GROUP_CONCAT(DISTINCT ?empLabel;        separator=", ") AS ?employed_by)
+       (GROUP_CONCAT(DISTINCT ?memberLabel;     separator=", ") AS ?is_member_of)
+       (GROUP_CONCAT(DISTINCT ?motTxt;          separator=" | ") AS ?has_motivation_en)
 WHERE {
-  # 6 hạng mục Nobel chính
   VALUES ?award {
     wd:Q38104  # Physics
     wd:Q44585  # Chemistry
     wd:Q80061  # Physiology or Medicine
     wd:Q37922  # Literature
     wd:Q35637  # Peace
-    wd:Q60110  # Economic Sciences
+    wd:Q47170    # Economic Sciences
   }
 
-  # Core: đúng statement trao giải (p:P166)
+  # Trao giải
   ?laureate p:P166 ?st .
   ?st ps:P166 ?award .
 
-  # Năm (nếu có trên qualifier P585)
+  # Năm (nếu có)
   OPTIONAL { ?st pq:P585 ?date . }
   BIND(IF(BOUND(?date), YEAR(?date), xsd:integer(0)) AS ?year)
 
-  # Motivation (tiếng Anh) ngay trên statement ?st
+  # Motivation (English)
   OPTIONAL {
     { ?st pq:P6208 ?motTxt . FILTER(LANG(?motTxt)="en") }
-    UNION
-    { ?st pq:P1686 ?motTxt . FILTER(LANG(?motTxt)="en") }
-    UNION
-    { ?st pq:P1478 ?motTxt . FILTER(LANG(?motTxt)="en") }
+    UNION { ?st pq:P1686 ?motTxt . FILTER(LANG(?motTxt)="en") }
+    UNION { ?st pq:P1478 ?motTxt . FILTER(LANG(?motTxt)="en") }
   }
 
-  # Countries
+  # is_citizen_of
   OPTIONAL {
     ?laureate wdt:P27 ?country .
     ?country rdfs:label ?countryLabel FILTER(LANG(?countryLabel)="en")
   }
 
-  # Occupations
+  # works_as
   OPTIONAL {
     ?laureate wdt:P106 ?occupation .
     ?occupation rdfs:label ?occupationLabel FILTER(LANG(?occupationLabel)="en")
   }
 
-  # Field of work
+  # works_in_field
   OPTIONAL {
     ?laureate wdt:P101 ?field .
     ?field rdfs:label ?fieldLabel FILTER(LANG(?fieldLabel)="en")
   }
 
-  # Educated at
+  # educated_at
   OPTIONAL {
     ?laureate wdt:P69 ?edu .
     ?edu rdfs:label ?eduLabel FILTER(LANG(?eduLabel)="en")
   }
 
-  # Employer
+  # employed_by
   OPTIONAL {
     ?laureate wdt:P108 ?emp .
     ?emp rdfs:label ?empLabel FILTER(LANG(?empLabel)="en")
   }
 
-  # Member of
+  # is_member_of
   OPTIONAL {
     ?laureate wdt:P463 ?member .
     ?member rdfs:label ?memberLabel FILTER(LANG(?memberLabel)="en")
   }
 
-  # Labels chính
+  # Labels
   OPTIONAL { ?laureate rdfs:label ?laureateLabel FILTER(LANG(?laureateLabel)="en") }
   OPTIONAL { ?award    rdfs:label ?awardLabel    FILTER(LANG(?awardLabel)="en") }
 }
 GROUP BY ?laureate ?laureateLabel ?award ?awardLabel ?year
-# ORDER BY ?year ?awardLabel   # nếu cần, bật sau (có thể làm chậm)
-# LIMIT 5000 OFFSET 0          # gợi ý phân trang để tránh timeout
+# ORDER BY ?year ?awardLabel
+# LIMIT 5000 OFFSET 0
