@@ -1,0 +1,96 @@
+# Relations: has_gender, has_family_name, born_on_date, died_on_date, is_citizen_of, educated_at, works_as, employed_by, holds_position, works_in_field, has_notable_work, is_member_of, has_motivation, has_doctoral_advisor, advised_doctoral_student,
+SELECT ?laureate ?laureateName ?award ?awardName ?year
+       (GROUP_CONCAT(DISTINCT ?famLabel;        separator=", ") AS ?has_family_name)
+       (GROUP_CONCAT(DISTINCT ?genderLabel;     separator=", ") AS ?has_gender)
+       (GROUP_CONCAT(DISTINCT ?birthLabel;      separator=", ") AS ?born_on_date)
+       (GROUP_CONCAT(DISTINCT ?deathLabel;      separator=", ") AS ?died_on_date)
+       (GROUP_CONCAT(DISTINCT ?countryLabel;    separator=", ") AS ?is_citizen_of)
+       (GROUP_CONCAT(DISTINCT ?eduLabel;        separator=", ") AS ?educated_at)
+       (GROUP_CONCAT(DISTINCT ?occupationLabel; separator=", ") AS ?works_as)
+       (GROUP_CONCAT(DISTINCT ?empLabel;        separator=", ") AS ?employed_by)
+       (GROUP_CONCAT(DISTINCT ?positionLabel;   separator=", ") AS ?holds_position)
+       (GROUP_CONCAT(DISTINCT ?fieldLabel;      separator=", ") AS ?works_in_field)
+       (GROUP_CONCAT(DISTINCT ?memberLabel;     separator=", ") AS ?is_member_of)
+       (GROUP_CONCAT(DISTINCT ?motTxt;          separator=" | ") AS ?has_motivation)
+       (GROUP_CONCAT(DISTINCT ?workLabel;       separator=", ") AS ?has_notable_work)
+       (GROUP_CONCAT(DISTINCT ?advisorLabel;    separator=", ") AS ?has_doctoral_advisor)
+       (GROUP_CONCAT(DISTINCT ?studentLabel;    separator=", ") AS ?advised_doctoral_student)
+
+WHERE {
+  VALUES ?award {
+    wd:Q38104  # Physics
+    wd:Q44585  # Chemistry
+    wd:Q80061  # Physiology or Medicine
+    wd:Q37922  # Literature
+    wd:Q35637  # Peace
+    wd:Q47170  # Economic Sciences
+  }
+
+  # Trao giải (không giới hạn loại thực thể)
+  ?laureate p:P166 ?st . ?st ps:P166 ?award .
+
+  # Loại bỏ Q56509417
+  FILTER(?laureate != wd:Q56509417)
+
+  # Năm (nếu có)
+  OPTIONAL { ?st pq:P585 ?date . }
+  BIND(IF(BOUND(?date), YEAR(?date), xsd:integer(0)) AS ?year)
+
+  # Motivation (English only)
+  OPTIONAL {
+    { ?st pq:P6208 ?motTxt . FILTER(LANG(?motTxt)="en") }
+    UNION { ?st pq:P1686 ?motTxt . FILTER(LANG(?motTxt)="en") }
+    UNION { ?st pq:P1478 ?motTxt . FILTER(LANG(?motTxt)="en") }
+  }
+
+  # has_family_name
+  OPTIONAL { ?laureate wdt:P734 ?fam . ?fam rdfs:label ?famLabel FILTER(LANG(?famLabel)="en") }
+
+  # has_gender
+  OPTIONAL { ?laureate wdt:P21 ?gender . ?gender rdfs:label ?genderLabel FILTER(LANG(?genderLabel)="en") }
+
+  # born_on_date
+  OPTIONAL { ?laureate wdt:P569 ?birthLabel . }
+
+  # died_on_date
+  OPTIONAL { ?laureate wdt:P570 ?deathLabel . }
+
+  # is_citizen_of
+  OPTIONAL { ?laureate wdt:P27 ?country . ?country rdfs:label ?countryLabel FILTER(LANG(?countryLabel)="en") }
+
+  # educated_at
+  OPTIONAL { ?laureate wdt:P69 ?edu . ?edu rdfs:label ?eduLabel FILTER(LANG(?eduLabel)="en") }
+
+  # works_as
+  OPTIONAL { ?laureate wdt:P106 ?occupation . ?occupation rdfs:label ?occupationLabel FILTER(LANG(?occupationLabel)="en") }
+
+  # employed_by
+  OPTIONAL { ?laureate wdt:P108 ?emp . ?emp rdfs:label ?empLabel FILTER(LANG(?empLabel)="en") }
+
+  # holds_position
+  OPTIONAL { ?laureate wdt:P39 ?position . ?position rdfs:label ?positionLabel FILTER(LANG(?positionLabel)="en") }
+
+  # works_in_field
+  OPTIONAL { ?laureate wdt:P101 ?field . ?field rdfs:label ?fieldLabel FILTER(LANG(?fieldLabel)="en") }
+
+  # is_member_of
+  OPTIONAL { ?laureate wdt:P463 ?member . ?member rdfs:label ?memberLabel FILTER(LANG(?memberLabel)="en") }
+
+  # has_notable_work
+  OPTIONAL { ?laureate wdt:P800 ?work . ?work rdfs:label ?workLabel FILTER(LANG(?workLabel)="en") }
+
+  # has_doctoral_advisor
+  OPTIONAL { ?laureate wdt:P184 ?advisor . ?advisor rdfs:label ?advisorLabel FILTER(LANG(?advisorLabel)="en") }
+
+  # advised_doctoral_student
+  OPTIONAL { ?laureate wdt:P185 ?student . ?student rdfs:label ?studentLabel FILTER(LANG(?studentLabel)="en") }
+
+  # Lấy nhãn trực tiếp cho laureate & award (tiếng Anh)
+  OPTIONAL { ?laureate rdfs:label ?laureateLabel . FILTER(LANG(?laureateLabel)="en") }
+  OPTIONAL { ?award    rdfs:label ?awardLabel    . FILTER(LANG(?awardLabel)="en") }
+
+  # Dự phòng tên nếu vẫn không có nhãn -> dùng QID
+  BIND(COALESCE(?laureateLabel, STRAFTER(STR(?laureate),"entity/")) AS ?laureateName)
+  BIND(COALESCE(?awardLabel,    STRAFTER(STR(?award),   "entity/")) AS ?awardName)
+}
+GROUP BY ?laureate ?laureateName ?award ?awardName ?year

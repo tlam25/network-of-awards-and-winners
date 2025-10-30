@@ -235,7 +235,7 @@ def main():
     print("\n--- Importing Nodes ---")
     import_nodes("Person", "Person.csv", ["name", "id", "family_name", "gender", "born_on_date", "died_on_date", "notable_work"])
     import_nodes("Award", "Award.csv", ["name"])
-    import_nodes("AwardStatement", "AwardStatement.csv", ["name", "awardYear"])
+    import_nodes("AwardStatement", "AwardStatement.csv", ["name", "year", "motivation"])
     import_nodes("Country", "Country.csv", ["name"])
     import_nodes("Occupation", "Occupation.csv", ["name"])
     import_nodes("Field", "Field.csv", ["name"])
@@ -245,7 +245,7 @@ def main():
     print("\n--- Importing Relationships ---")
     import_relationships()
 
-    export_graph_to_json("nobel_network_local.json")
+    export_graph_to_json("network-of-awards-and-winners/nobel_network_local.json")
 
     driver.close()
     total_time = time.time() - start_time
