@@ -1,1019 +1,1023 @@
-id,name
-Q76602,Gerhard Herzberg
-Q76606,Carl Bosch
-Q76600,Manfred Eigen
-Q70554,Emil Fischer
-Q76595,Kurt Alder
-Q73093,Paul Karrer
-Q76604,Hans Fischer
-Q76610,Heinrich Wieland
-Q76614,Friedrich Bergius
-Q76612,Johann Deisenhofer
-Q76613,Hans von Euler-Chelpin
-Q76616,Otto Diels
-Q76623,Robert Huber
-Q76624,Karl Ziegler
-Q76951,George de Hevesy
-Q77072,Richard Willstätter
-Q77086,Hartmut Michel
-Q77142,Adolf Windaus
-Q77171,Georg Wittig
-Q78480,Max Perutz
-Q78481,Richard Adolf Zsigmondy
-Q78482,Fritz Pregl
-Q78483,Richard Kuhn
-Q78510,Walter Kohn
-Q80907,Brian Kobilka
-Q80910,Robert Lefkowitz
-Q80956,Svante August Arrhenius
-Q102278,Christian B. Anfinsen
-Q102250,Peter Agre
-Q102266,Sidney Altman
-Q83501,Vladimir Prelog
-Q91410,Stefan Hell
-Q102291,Francis William Aston
-Q102379,Paul Berg
-Q105927,Ei-ichi Negishi
-Q105937,Wendell Meredith Stanley
-Q105949,Akira Suzuki
-Q106399,John Howard Northrop
-Q106624,Ahmed Zewail
-Q106471,Richard F. Heck
-Q102395,Paul D. Boyer
-Q102406,Herbert C. Brown
-Q102419,Derek Barton
-Q102804,Henri Moissan
-Q102822,Jacobus Henricus van 't Hoff
-Q102830,Frederick Soddy
-Q103835,Peter Debye
-Q104575,Paul Sabatier
-Q104582,Victor Grignard
-Q105572,Benjamin List
-Q106699,Martin Chalfie
-Q110930,Robert Curl
-Q110942,Alan MacDiarmid
-Q106733,Jerome Karle
-Q106738,John Fenn
-Q110957,Kurt Wüthrich
-Q110963,Koichi Tanaka
-Q135139,Paul Josef Crutzen
-Q7442,Carolyn Bertozzi
-Q7487,Dorothy Hodgkin
-Q7504,Irène Joliot-Curie
-Q107405,Lars Onsager
-Q106746,Richard Smalley
-Q106751,Alan J. Heeger
-Q106756,James B. Sumner
-Q106762,George Porter
-Q110935,William Lipscomb
-Q110947,William Standish Knowles
-Q110952,Stanford Moore
-Q135151,Donald J. Cram
-Q135154,John Cornforth
-Q135171,Elias James Corey
-Q157224,Kary Mullis
-Q179777,Harold Urey
-Q157239,Artturi Ilmari Virtanen
-Q157242,"Alexander R. Todd, Baron Todd"
-Q156492,William Howard Stein
-Q157210,Ryōji Noyori
-Q12658,Wilhelm Ostwald
-Q7426,Ada Yonath
-Q44111,Dan Shechtman
-Q110073,William Giauque
-Q57127,Otto Wallach
-Q150989,Frédéric Joliot-Curie
-Q122272,Richard R. Ernst
-Q19009,Edwin McMillan
-Q107422,Herbert A. Hauptman
-Q107690,Jean-Marie Lehn
-Q109559,Thomas A. Steitz
-Q111190,F. Sherwood Rowland
-Q135180,Thomas Cech
-Q157250,Harry Kroto
-Q157701,Jaroslav Heyrovský
-Q170676,Roger D. Kornberg
-Q183509,Ilya Prigogine
-Q189465,Theodore William Richards
-Q189803,Arthur Harden
-Q5327,Adolf Butenandt
-Q7186,Marie Curie
-Q9123,Ernest Rutherford
-Q190486,Willard Libby
-Q48986,Cyril Norman Hinshelwood
-Q48990,Nikolay Semyonov
-Q57125,Walther Nernst
-Q184286,Irving Langmuir
-Q202159,Richard R. Schrock
-Q204600,Norman Haworth
-Q194646,Louis E. Brus
-Q19045,Mario Molina
-Q33128,Vincent du Vigneaud
-Q110916,Hideki Shirakawa
-Q110925,Karl Barry Sharpless
-Q122996,Leopold Ružička
-Q123014,Alfred Werner
-Q151564,Frederick Sanger
-Q157212,Odd Hassel
-Q176351,Paul Flory
-Q190626,Aaron Klug
-Q192603,George Andrew Olah
-Q44594,Ernst Otto Fischer
-Q48956,Hermann Staudinger
-Q57075,Fritz Haber
-Q60061,Venkatraman Ramakrishnan
-Q60066,Gerhard Ertl
-Q49347,Melvin Calvin
-Q186391,Theodor Svedberg
-Q234145,Giulio Natta
-Q205345,Osamu Shimomura
-Q48973,Glenn T. Seaborg
-Q57078,Adolf von Baeyer
-Q1545000,Greg Winter
-Q237825,John Polanyi
-Q57065,Otto Hahn
-Q200470,Roger Y. Tsien
-Q202140,Robert H. Grubbs
-Q207992,Peter D. Mitchell
-Q211482,Roderick MacKinnon
-Q217486,Walter Gilbert
-Q232295,John Kendrew
-Q235184,John E. Walker
-Q235834,Ronald George Wreyford Norrish
-Q235983,Henry Taube
-Q43917,Eduard Buchner
-Q48979,Richard Laurence Millington Synge
-Q48977,Archer John Porter Martin
-Q48983,Linus Pauling
-Q49351,Robert Robinson
-Q56068,Jennifer Doudna
-Q202146,Yves Chauvin
-Q244998,Charles J. Pedersen
-Q273279,Roald Hoffmann
-Q217734,Kenichi Fukui
-Q239067,Rudolph A. Marcus
-Q243190,Yuan T. Lee
-Q233985,Luis Federico Leloir
-Q243196,Dudley R. Herschbach
-Q1687170,Jens Christian Skou
-Q17280087,Emmanuelle Charpentier
-Q6914509,Morten P. Meldal
-Q7151888,Paul L. Modrich
-Q4790366,Arieh Warshel
-Q224153,Robert Bruce Merrifield
-Q230652,Irwin Rose
-Q232289,Michael Smith
-Q232302,Avram Hershko
-Q232316,Robert Burns Woodward
-Q233205,Aaron Ciechanover
-Q376243,Fraser Stoddart
-Q903471,Martin Karplus
-Q1351105,Eric Betzig
-Q1387059,William E. Moerner
-Q1547368,Alexey Ekimov
-Q1678456,Richard Henderson
-Q3169751,Jean-Pierre Sauvage
-Q4701206,Akira Yoshino
-Q233026,Arne Tiselius
-Q906529,John B. Goodenough
-Q274128,Geoffrey Wilkinson
-Q11401680,Susumu Kitagawa
-Q15118973,Aziz Sancar
-Q41585344,Jacques Dubochet
-Q56868017,George Smith
-Q6832227,Michael Levitt
-Q89620738,John Michael Jumper
-Q233355,Robert S. Mulliken
-Q233973,John Pople
-Q285062,M. Stanley Whittingham
-Q743252,Omar M. Yaghi
-Q950726,William Ramsay
-Q1886068,Tomas Lindahl
-Q3022141,Demis Hassabis
-Q3259614,Ben Feringa
-Q5237001,David MacMillan
-Q15433043,Moungi Bawendi
-Q23073819,Richard Robson
-Q28833112,Joachim Frank
-Q3814528,David Baker
-Q4273363,Frances Arnold
-Q12830,Reinhard Selten
-Q1325,Friedrich Hayek
-Q18430,Joseph E. Stiglitz
-Q28542,Alvin Eliot Roth
-Q44061,Wassily Leontief
-Q47426,Milton Friedman
-Q102454,Paul Samuelson
-Q105962,Maurice Allais
-Q107264,Robert Lucas
-Q107441,Leonid Kantorovich
-Q107964,Thomas J. Sargent
-Q109570,Peter Diamond
-Q109582,Christophoros A. Pissarides
-Q109737,Christopher A. Sims
-Q110968,Tjalling Koopmans
-Q109721,Dale T. Mortensen
-Q132489,Amartya Sen
-Q128736,John Forbes Nash
-Q131112,Paul Krugman
-Q152452,Gunnar Myrdal
-Q153761,Elinor Ostrom
-Q192592,Kenneth Arrow
-Q192566,Edmund Phelps
-Q191020,Gary Becker
-Q192577,Simon Kuznets
-Q201795,Ben Bernanke
-Q157235,Robert Aumann
-Q157245,Michael Spence
-Q157255,Merton Miller
-Q157262,Leonid Hurwicz
-Q157268,Robert Solow
-Q173994,Jean Tirole
-Q176643,James Mirrlees
-Q179493,Bertil Ohlin
-Q181529,Herbert Simon
-Q183181,Jan Tinbergen
-Q184862,John Richard Hicks
-Q185871,Douglas Diamond
-Q187988,Ragnar Frisch
-Q188113,Ronald Coase
-Q222541,George Akerlof
-Q232062,Oliver E. Williamson
-Q204078,Angus Deaton
-Q232949,Roger Myerson
-Q233051,Eric Maskin
-Q295761,Lawrence Klein
-Q295647,Myron Scholes
-Q295653,Robert F. Engle
-Q312560,Daniel McFadden
-Q312585,Edward C. Prescott
-Q320578,Abhijit Banerjee
-Q206460,Thomas Schelling
-Q312561,James Heckman
-Q312575,Clive Granger
-Q295673,William Vickrey
-Q295717,Vernon L. Smith
-Q205353,James M. Buchanan
-Q205850,Franco Modigliani
-Q233947,Theodore Schultz
-Q233950,Daniel Kahneman
-Q235843,James Meade
-Q237821,Robert Fogel
-Q243193,Douglass North
-Q243534,George Stigler
-Q244739,Lloyd Shapley
-Q272510,John Harsanyi
-Q272508,Harry Markowitz
-Q272519,Arthur Lewis
-Q274111,William F. Sharpe
-Q287542,Robert C. Merton
-Q208124,Trygve Haavelmo
-Q210960,Gérard Debreu
-Q1386049,Lars Peter Hansen
-Q1461050,Simon Johnson
-Q377265,Robert B. Wilson
-Q432890,Oliver Hart
-Q211097,Finn E. Kydland
-Q211776,James Tobin
-Q219721,Robert Mundell
-Q219733,Richard Stone
-Q338151,Robert J. Shiller
-Q354897,Bengt Holmström
-Q359317,Eugene Fama
-Q371212,Richard Thaler
-Q376364,Philippe Aghion
-Q1635006,Michael Kremer
-Q2899100,Joel Mokyr
-Q7174757,Peter Howitt
-Q16730042,Guido Imbens
-Q19520018,James A. Robinson
-Q24565948,Philip H. Dybvig
-Q434509,Esther Duflo
-Q509262,Paul M. Romer
-Q562481,William Nordhaus
-Q718581,Daron Acemoğlu
-Q921499,Joshua Angrist
-Q1097475,Claudia Goldin
-Q1173928,David Card
-Q1359990,Paul Milgrom
-Q862,Joseph Brodsky
-Q5878,Gabriel García Márquez
-Q1403,Luigi Pirandello
-Q392,Bob Dylan
-Q765,Dario Fo
-Q8016,Winston Churchill
-Q8998,Mo Yan
-Q9364,Jean-Paul Sartre
-Q18143,Gao Xingjian
-Q6538,Günter Grass
-Q19185,George Bernard Shaw
-Q23434,Ernest Hemingway
-Q25351,Theodor Mommsen
-Q7176,Naguib Mahfouz
-Q33760,Bertrand Russell
-Q34189,Pablo Neruda
-Q25973,Hermann Hesse
-Q34670,Albert Camus
-Q7241,Rabindranath Tagore
-Q34743,Rudyard Kipling
-Q43440,Giosuè Carducci
-Q44183,William Golding
-Q43736,Yasunari Kawabata
-Q37060,José Saramago
-Q7728,Grazia Deledda
-Q34474,Aleksandr Solzhenitsyn
-Q37030,Thomas Mann
-Q37327,Samuel Beckett
-Q37767,T. S. Eliot
-Q39212,John Steinbeck
-Q42747,Heinrich Böll
-Q43293,J. M. Coetzee
-Q38049,Herta Müller
-Q40213,William Butler Yeats
-Q40874,Doris Lessing
-Q45970,Czesław Miłosz
-Q38392,William Faulkner
-Q41223,Boris Pasternak
-Q81685,François Mauriac
-Q42122,Tomas Tranströmer
-Q42552,Wisława Szymborska
-Q47561,Ivo Andrić
-Q39803,Mario Vargas Llosa
-Q40826,Knut Hamsun
-Q41042,Harold Pinter
-Q43523,Gerhart Hauptmann
-Q44107,Peter Handke
-Q44519,Selma Lagerlöf
-Q44593,V. S. Naipaul
-Q46405,Bjørnstjerne Bjørnson
-Q57074,Nelly Sachs
-Q47619,Nadine Gordimer
-Q75603,Miguel Ángel Asturias
-Q46602,Ivan Bunin
-Q83038,Salvatore Quasimodo
-Q80095,Kenzaburō Ōe
-Q80321,Halldór Laxness
-Q47755,Imre Kertész
-Q47243,Elfriede Jelinek
-Q47484,André Gide
-Q46739,Octavio Paz
-Q75612,Isaac Bashevis Singer
-Q76487,Paul Heyse
-Q80064,Elias Canetti
-Q80871,Gabriela Mistral
-Q41488,Wole Soyinka
-Q41502,Henryk Sienkiewicz
-Q42156,Henri Bergson
-Q42443,Anatole France
-Q82248,John Galsworthy
-Q83174,Eugenio Montale
-Q83184,Jacinto Benavente
-Q80889,Sigrid Undset
-Q42247,Sully Prudhomme
-Q47162,Romain Rolland
-Q93356,Seamus Heaney
-Q129187,Patrick White
-Q80900,Pearl S. Buck
-Q222944,Patrick Modiano
-Q83059,Saul Bellow
-Q93137,Pär Lagerkvist
-Q93157,Eugene O'Neill
-Q129155,Roger Martin du Gard
-Q129173,Verner von Heidenstam
-Q132695,Harry Martinson
-Q42037,Jean-Marie Gustave Le Clézio
-Q42596,Frédéric Mistral
-Q47695,Rudolf Christoph Eucken
-Q131318,Juan Ramón Jiménez
-Q225554,Henrik Pontoppidan
-Q274334,Svetlana Alexievich
-Q131326,Eyvind Johnson
-Q241248,Orhan Pamuk
-Q123469,Sinclair Lewis
-Q131549,Claude Simon
-Q317877,Abdulrazak Gurnah
-Q272855,Kazuo Ishiguro
-Q72334,Toni Morrison
-Q102483,Jaroslav Seifert
-Q121180,Władysław Reymont
-Q131487,Karl Adolph Gjellerup
-Q132701,Derek Walcott
-Q134641,Erik Axel Karlfeldt
-Q160478,Odysseas Elytis
-Q226525,Carl Spitteler
-Q234819,Alice Munro
-Q42398,Mikhail Sholokhov
-Q443868,Jon Fosse
-Q132723,Frans Eemil Sillanpää
-Q127349,José Echegaray
-Q132589,Camilo José Cela
-Q1153825,Annie Ernaux
-Q133042,Shmuel Yosef Agnon
-Q134644,Vicente Aleixandre
-Q159552,Johannes V. Jensen
-Q165823,Giorgos Seferis
-Q254032,Olga Tokarczuk
-Q512062,László Krasznahorkai
-Q2344210,Louise Glück
-Q5646626,Han Kang
-Q77081,Bert Sakmann
-Q77104,Fritz Albert Lipmann
-Q68118,"Earl Wilbur Sutherland, Jr."
-Q72194,Henry Hallett Dale
-Q76807,Max Delbrück
-Q75847,Harald zur Hausen
-Q76425,Emil von Behring
-Q76464,Otto Heinrich Warburg
-Q77126,Erwin Neher
-Q78501,Carl Ferdinand Cori
-Q80323,William P. Murphy
-Q80917,Shinya Yamanaka
-Q81218,John Gurdon
-Q77152,Werner Forssmann
-Q77160,Georges J. F. Köhler
-Q84405,Karl Landsteiner
-Q97270,Thomas C. Südhof
-Q83333,James D. Watson
-Q77174,Christiane Nüsslein-Volhard
-Q77173,Otto Loewi
-Q83598,Hermann Joseph Muller
-Q102034,Ronald Ross
-Q103598,Luc Montagnier
-Q105605,Jules Hoffmann
-Q107609,Christiaan Eijkman
-Q108880,Robert F. Furchgott
-Q108576,Daniel Carleton Gajdusek
-Q108602,Susumu Tonegawa
-Q106547,Paul Lauterbur
-Q78478,Robert Bárány
-Q78479,Julius Wagner-Jauregg
-Q78496,Konrad Lorenz
-Q103844,Françoise Barré-Sinoussi.
-Q104592,Bruce Beutler
-Q104600,Jack Szostak
-Q104607,Andrew Huxley
-Q104913,Robert Edwards
-Q105494,Ralph Steinman
-Q105830,Baruch Samuel Blumberg
-Q107462,Har Gobind Khorana
-Q108891,Robert W. Holley
-Q108896,Hamilton Smith
-Q107402,Rosalyn Sussman Yalow
-Q137106,Howard Florey
-Q116064,Rolf M. Zinkernagel
-Q123280,Francis Crick
-Q190501,Henrik Dam
-Q192282,Joseph Murray
-Q155380,Stanley B. Prusiner
-Q155525,César Milstein
-Q109726,Edmond H. Fischer
-Q109731,Edwin G. Krebs
-Q172254,Élie Metchnikoff
-Q152187,August Krogh
-Q152760,Jean Dausset
-Q109553,Renato Dulbecco
-Q141147,Andrew Schally
-Q150526,Santiago Ramón y Cajal
-Q150630,Camillo Golgi
-Q155375,Archibald Hill
-Q156482,Corneille Heymans
-Q170342,Svante Pääbo
-Q182964,Niels Ryberg Finsen
-Q184659,Maurice Wilkins
-Q185007,Rita Levi-Montalcini
-Q177681,Thomas Hunt Morgan
-Q155529,Eric Kandel
-Q156480,Hugo Theorell
-Q192651,Allvar Gullstrand
-Q110060,Marshall Warren Nirenberg
-Q189488,Willem Einthoven
-Q155371,Charles Brenton Huggins
-Q208670,Robin Warren
-Q211787,Jules Bordet
-Q199654,Barbara McClintock
-Q200136,Linda B. Buck
-Q110974,James Black
-Q110101,Edward Calvin Kendall
-Q110106,Julius Axelrod
-Q153890,Niko Tinbergen
-Q180350,Frederick Banting
-Q180468,Albert Szent-Györgyi
-Q185777,Alexis Carrel
-Q189006,Charles Louis Alphonse Laveran
-Q193550,Frank Macfarlane Burnet
-Q193650,Alan Lloyd Hodgkin
-Q207719,Martin Evans
-Q217722,Ragnar Granit
-Q233957,Severo Ochoa
-Q233965,Charles Nicolle
-Q218311,François Jacob
-Q202136,Barry Marshall
-Q37193,Robert Koch
-Q233976,Frederick Hopkins
-Q115478,Emil Theodor Kocher
-Q44597,Feodor Felix Konrad Lynen
-Q4517,Bernard Katz
-Q26321,Elizabeth Blackburn
-Q204733,Gerty Cori
-Q115490,Tadeusz Reichstein
-Q115470,Walter Rudolf Hess
-Q115475,Paul Hermann Müller
-Q202152,Andrew Fire
-Q115448,Daniel Bovet
-Q211940,Richard Axel
-Q214209,Peter Medawar
-Q214851,Charles Richet
-Q218823,Joshua Lederberg
-Q219716,Paul Nurse
-Q223309,André Lwoff
-Q223542,Allan McLeod Cormack
-Q233943,Albert Claude
-Q235651,Philip Showalter Hench
-Q35698,Konrad Emil Bloch
-Q35703,Gertrude B. Elion
-Q37064,Alexander Fleming
-Q219718,George Emil Palade
-Q232024,John James Rickard Macleod
-Q243536,Howard Temin
-Q243601,Peter Mansfield
-Q42985,Ivan Pavlov
-Q205667,Salvador Luria
-Q206455,Craig Mello
-Q232299,Stanley Cohen
-Q232305,Roger Sperry
-Q271424,Joseph L. Goldstein
-Q115495,Werner Arber
-Q213504,Charles Scott Sherrington
-Q215574,Mario Capecchi
-Q230612,Edward Adelbert Doisy
-Q234590,Christian de Duve
-Q234701,Baruj Benacerraf
-Q234949,David Baltimore
-Q237499,Edward Tatum
-Q26322,Carol Greider
-Q46928,Max Theiler
-Q57089,Paul Ehrlich
-Q234463,Sydney Brenner
-Q216318,Oliver Smithies
-Q216324,Johannes Fibiger
-Q6796222,May-Britt Moser
-Q231292,Edgar Douglas Adrian
-Q231402,Jacques Monod
-Q295700,Rodney Robert Porter
-Q295706,Daniel Nathans
-Q296423,Alfred G. Gilman
-Q57132,Otto Fritz Meyerhof
-Q57191,Hans Krebs
-Q60060,Karl von Frisch
-Q60108,Günter Blobel
-Q295666,George Davis Snell
-Q295678,Arthur Kornberg
-Q232308,Selman Abraham Waksman
-Q237142,Ulf von Euler
-Q237160,Bernardo Houssay
-Q243532,Joseph Erlanger
-Q271532,John Sulston
-Q271703,Alfred Hershey
-Q271757,André Frédéric Cournand
-Q8056214,Yoshinori Ohsumi
-Q17502433,Shimon Sakaguchi
-Q21061212,William C. Campbell
-Q22669757,Charles M. Rice
-Q60031,Martin Rodbell
-Q295684,Michael Stuart Brown
-Q295691,Harold E. Varmus
-Q21061207,Satoshi Ōmura
-Q57128,Albrecht Kossel
-Q298045,Arvid Carlsson
-Q298707,Francis Peyton Rous
-Q740638,Randy Schekman
-Q242169,Roger Guillemin
-Q983858,Victor Ambros
-Q1174906,David Julius
-Q273219,António Egas Moniz
-Q245000,George Minot
-Q271421,Torsten Nils Wiesel
-Q295696,Sune Bergström
-Q238716,Georg von Békésy
-Q238739,George Beadle
-Q271766,Gerald Edelman
-Q273201,Herbert Spencer Gasser
-Q295659,H. Robert Horvitz
-Q301438,Eric F. Wieschaus
-Q309820,Louis Ignarro
-Q309876,Niels Kaj Jerne
-Q6140731,James P. Allison
-Q28212107,Fred Ramsdell
-Q60322501,Ardem Patapoutian
-Q88608402,Drew Weissman
-Q57192,Gerhard Domagk
-Q57568,Hans Spemann
-Q58054,Ernst Chain
-Q274123,Edward B. Lewis
-Q295644,David H. Hubel
-Q273769,Godfrey Hounsfield
-Q295768,Bengt I. Samuelsson
-Q462843,Tu Youyou
-Q504021,Gary Ruvkun
-Q1545025,Gregg L. Semenza
-Q114564137,Mary E. Brunkow
-Q273223,John Eccles
-Q273238,George Whipple
-Q295724,George Wald
-Q295869,Lee Hartwell
-Q295999,Ferid Murad
-Q309814,Peter C. Doherty
-Q309816,Richard Roberts
-Q309879,Haldan Keffer Hartline
-Q309977,Tim Hunt
-Q311358,J. Michael Bishop
-Q444270,James Rothman
-Q1297741,Michael Rosbash
-Q1927895,Michael Houghton
-Q1929672,Michael W. Young
-Q88608397,Katalin Karikó
-Q2075967,Peter J. Ratcliffe
-Q309885,Frederick Chapman Robbins
-Q309971,John Vane
-Q2395341,Tasuku Honjo
-Q5341373,Edvard Moser
-Q1701279,John O'Keefe
-Q309979,Paul Greengard
-Q310131,Thomas Huckle Weller
-Q310487,George H. Hitchings
-Q310485,E. Donnall Thomas
-Q312963,Dickinson W. Richards
-Q312961,John Franklin Enders
-Q312977,Phillip Sharp
-Q1603351,William G. Kaelin
-Q1686435,Jeffrey C. Hall
-Q5677307,Harvey J. Alter
-Q66107,Henry Kissinger
-Q103955,Gustav Stresemann
-Q78488,Alfred Hermann Fried
-Q997,Andrei Sakharov
-Q458,European Union
-Q115095,Institut de Droit International
-Q118263,Ales Bialiatski
-Q107037,Leymah Roberta Gbowee
-Q122368,Élie Ducommun
-Q72292,Fridtjof Nansen
-Q130873,Menachem Begin
-Q104622,Tawakkol Karman
-Q132551,Office of the United Nations High Commissioner for Refugees
-Q128604,Lester B. Pearson
-Q131152,Shirin Ebadi
-Q76358,Carl von Ossietzky
-Q133308,Mohamed ElBaradei
-Q151414,George Marshall
-Q154824,Norman Borlaug
-Q184565,Charles G. Dawes
-Q159726,John Mott
-Q170208,Quakers
-Q190894,Henri La Fontaine
-Q151813,F. W. de Klerk
-Q76696,Ludwig Quidde
-Q157655,Mairead Maguire
-Q157690,Betty Williams
-Q155415,Léon Jouhaux
-Q189841,Randal Cremer
-Q188567,Grameen Bank
-Q188620,Rigoberta Menchú
-Q152437,Alva Myrdal
-Q158850,Dominique Pire
-Q159723,Nathan Söderblom
-Q179458,Charles Albert Gobat
-Q179871,Eisaku Satō
-Q179888,Aristide Briand
-Q180409,Frédéric Passy
-Q180989,Jane Addams
-Q187052,Human Rights Watch
-Q188999,Austen Chamberlain
-Q211856,"Philip Noel-Baker, Baron Noel-Baker"
-Q171183,Intergovernmental Panel on Climate Change
-Q212955,Albert John Mvumbi Luthuli
-Q213500,Ralph Bunche
-Q216872,Tobias Asser
-Q193009,Frank B. Kellogg
-Q193630,John Hume
-Q252420,International Peace Bureau
-Q271517,Nicholas Murray Butler
-Q464677,American Friends Service Committee
-Q547940,International Campaign to Abolish Nuclear Weapons
-Q1069175,International Federation of Red Cross and Red Crescent Societies
-Q191016,Fredrik Bajer
-Q192556,David Trimble
-Q192618,Klas Pontus Arnoldson
-Q215139,Emily Greene Balch
-Q232873,René Cassin
-Q233969,Le Duc Tho
-Q234001,Carlos Filipe Ximenes Belo
-Q238731,Paul-Henri-Benjamin d'Estournelles de Constant
-Q244395,Seán MacBride
-Q245385,International Physicians for the Prevention of Nuclear War
-Q439564,María Corina Machado
-Q8027,Martin Luther King Jr.
-Q272224,Norman Angell
-Q193672,Carlos Saavedra Lamas
-Q7178,International Red Cross and Red Crescent Movement
-Q217706,Léon Bourgeois
-Q1254,Kofi Annan
-Q1187542,Denis Mukwege
-Q202049,Auguste Beernaert
-Q219575,United Nations peacekeeping
-Q219982,Joseph Rotblat
-Q273607,Ferdinand Buisson
-Q8023,Nelson Mandela
-Q5987345,International Committee of the Red Cross
-Q6761526,Maria Ressa
-Q202979,Cordell Hull
-Q315143,John Boyd Orr
-Q220619,Elihu Root
-Q743558,Nansen International Office for Refugees
-Q206505,Adolfo Pérez Esquivel
-Q208665,Arthur Henderson
-Q203843,Alfonso García Robles
-Q204344,World Food Programme
-Q206446,Christian Lous Lange
-Q677499,Quaker Peace and Social Witness
-Q740308,UNICEF
-Q1823418,Dmitri Muratov
-Q1989908,Japan Confederation of A- and H-Bomb Sufferers Organizations
-Q3442375,Kailash Satyarthi
-Q4967771,Narges Mohammadi
-Q21078159,Tunisian National Dialogue Quartet
-Q11665,José Ramos-Horta
-Q76,Barack Obama
-Q22007112,Nadia Murad Basee
-Q211239,Jody Williams
-Q1267,Dag Hammarskjöld
-Q1065,United Nations
-Q12086,Ernesto Teodoro Moneta
-Q19673,Al Gore
-Q50365049,Abiy Ahmed
-Q54129,International Labour Organization
-Q34211,Yasser Arafat
-Q325523,International Campaign to Ban Landmines
-Q381282,Pugwash Conferences on Science and World Affairs
-Q842490,Organisation for the Prohibition of Chemical Weapons
-Q851563,Memorial
-Q2514,Willy Brandt
-Q12091,Henry Dunant
-Q12702,Robert Cecil
-Q29230,Martti Ahtisaari
-Q34060,Yizhak Rabin
-Q36740,Aung San Suu Kyi
-Q43033,Desmond Tutu
-Q53620,Hjalmar Branting
-Q17293,Tenzin Gyatso
-Q49325,Albert Schweitzer
-Q114452906,Center for Civil Liberties
-Q42013,Anwar Sadat
-Q45785,Kim Dae-jung
-Q49344,Óscar Arias Sánchez
-Q18391,Elie Wiesel
-Q23685,Jimmy Carter
-Q32732,Malala Yousafzai
-Q34296,Woodrow Wilson
-Q41617,Liu Xiaobo
-Q43179,Ellen Johnson Sirleaf
-Q43969,Muhammad Yunus
-Q49330,Doctors Without Borders
-Q18456,Bertha von Suttner
-Q30487,Mikhail Gorbachev
-Q57311,Juan Manuel Santos
-Q33866,Theodore Roosevelt
-Q42970,Amnesty International
-Q41984,International Atomic Energy Agency
-Q30547,Mother Teresa
-Q46795,Wangari Muta Maathai
-Q57410,Shimon Peres
-Q71016,Herbert Kroemer
-Q71015,Horst Ludwig Störmer
-Q71013,Theodor W. Hänsch
-Q71022,Ernst Ruska
-Q65807,Reinhard Genzel
-Q65989,Wolfgang Pauli
-Q71023,Alfred Kastler
-Q71024,Klaus von Klitzing
-Q70532,Hans Georg Dehmelt
-Q78610,Anton Zeilinger
-Q79000,Pieter Zeeman
-Q76766,Gerd Binnig
-Q78520,Victor Francis Hess
-Q76797,J. Hans D. Jensen
-Q76970,Pavel Cherenkov
-Q92894,Geoffrey Hinton
-Q73058,Willard Boyle
-Q103854,Aage Bohr
-Q80884,James Chadwick
-Q76373,George E. Smith
-Q82563,Leon Cooper
-Q106494,Konstantin Novoselov
-Q104104,Andre Geim
-Q80905,Donald Arthur Glaser
-Q83297,"John Strutt, 3rd Baron Rayleigh"
-Q76462,Wolfgang Ketterle
-Q76474,Walther Bothe
-Q76687,Georg Bednorz
-Q107419,Norman Foster Ramsey
-Q122298,Karl Alexander Müller
-Q104651,John C. Mather
-Q148109,Subrahmanyan Chandrasekhar
-Q106454,Adam Riess
-Q123026,Charles Édouard Guillaume
-Q131729,William Lawrence Bragg
-Q83331,Louis de Broglie
-Q83552,Alexander Prokhorov
-Q83557,Nikolay Basov
-Q86970,Ferenc Krausz
-Q104668,Vitaly Ginzburg
-Q104779,Simon van der Meer
-Q106949,Saul Perlmutter
-Q123022,Felix Bloch
-Q107407,Hugh David Politzer
-Q107416,Martin Lewis Perl
-Q130975,Robert A. Millikan
-Q131721,Johannes Diderik van der Waals
-Q107420,Sheldon Glashow
-Q123029,Heinrich Rohrer
-Q133222,Clinton Davisson
-Q151746,François Englert
-Q153194,Edward Victor Appleton
-Q124013,Didier Queloz
-Q133267,Lev Landau
-Q155794,Hans Bethe
-Q109588,Serge Haroche
-Q107423,Ben Roy Mottelson
-Q107450,Frank Wilczek
-Q109370,Klaus Hasselmann
-Q123975,Michel Mayor
-Q133232,Gabriel Lippmann
-Q133846,George Paget Thomson
-Q153178,Georges Charpak
-Q155786,Dennis Gabor
-Q155790,Eugene Wigner
-Q156286,Russell Alan Hulse
-Q153201,John Robert Schrieffer
-Q127234,Albert A. Michelson
-Q133747,William Henry Bragg
-Q170741,Manne Siegbahn
-Q171034,Robert Wilson
-Q178103,C. F. Powell
-Q163415,William Shockley
-Q155777,Hideki Yukawa
-Q130113,Robert Hofstadter
-Q127944,Arthur Holly Compton
-Q134085,Jean Perrin
-Q153210,Jack Steinberger
-Q155759,Igor Tamm
-Q155773,Masatoshi Koshiba
-Q153219,Albert Fert
-Q160522,Charles Glover Barkla
-Q162900,Charles Thomson Rees Wilson
-Q160518,Gustaf Dalén
-Q169366,Carl David Anderson
-Q155781,Louis Néel
-Q169577,Ernest Lawrence
-Q178344,Luis Walter Alvarez
-Q937,Albert Einstein
-Q179282,Steven Weinberg
-Q179572,George F. Smoot
-Q187822,Jerome Isaac Friedman
-Q188120,Yoichiro Nambu
-Q186497,Willis Lamb
-Q7085,Niels Bohr
-Q172877,Arno Allan Penzias
-Q181363,Brian David Josephson
-Q165969,Isidor Isaac Rabi
-Q169330,Owen Willans Richardson
-Q172118,Percy Williams Bridgman
-Q172466,Steven Chu
-Q172840,Murray Gell-Mann
-Q172844,Pyotr Kapitsa
-Q179852,Leo Esaki
-Q949,John Bardeen
-Q16389,Charles K. Kao
-Q28189,Abdus Salam
-Q181369,Chen-ning Yang
-Q188128,Alexei Abrikosov
-Q183655,Owen Chamberlain
-Q183679,Tsung-Dao Lee
-Q183270,Edward Mills Purcell
-Q184499,Patrick Blackett
-Q184563,Shin'ichirō Tomonaga
-Q190503,Arthur Leonard Schawlow
-Q189987,Nicolaas Bloembergen
-Q189990,Antony Hewish
-Q8753,Enrico Fermi
-Q173028,Emilio G. Segrè
-Q186465,Julian Schwinger
-Q175519,Raymond Davis Jr.
-Q182031,Jack Kilby
-Q188293,Frits Zernike
-Q189485,Nevill Francis Mott
-Q189741,Melvin Schwartz
-Q190697,Claude Cohen-Tannoudji
-Q190770,Philip W. Anderson
-Q190745,James Rainwater
-Q190756,William Daniel Phillips
-Q183279,Zhores Alferov
-Q192106,Burton Richter
-Q192112,Peter Higgs
-Q36488,Guglielmo Marconi
-Q192708,Robert Coleman Richardson
-Q9130,Erwin Schrödinger
-Q184571,Polykarp Kusch
-Q192715,Samuel C. C. Ting
-Q192712,Kai Siegbahn
-Q183631,Ernest Walton
-Q184566,Charles Hard Townes
-Q186481,Riccardo Giacconi
-Q187199,Carlo Rubbia
-Q189997,Robert B. Laughlin
-Q190495,Henry Way Kendall
-Q190766,Martin Ryle
-Q191922,Frederick Reines
-Q9021,Max Planck
-Q184577,Walter Houser Brattain
-Q192718,Anthony James Leggett
-Q192685,Joseph Hooton Taylor
-Q202149,Martinus J. G. Veltman
-Q555849,John Clarke
-Q556543,Gérard Mourou
-Q37463,Pierre Curie
-Q193503,Kenneth G. Wilson
-Q47480,Paul Dirac
-Q184592,Gerard 't Hooft
-Q187224,Pierre-Gilles de Gennes
-Q192688,Ivar Giæver
-Q192689,Bertram Brockhouse
-Q192695,Leon M. Lederman
-Q192703,Ilya Frank
-Q193496,James Cronin
-Q201470,Richard E. Taylor
-Q323320,Kip S. Thorne
-Q364997,Alain Aspect
-Q201506,Clifford Shull
-Q201853,David Lee
-Q41269,Henri Becquerel
-Q1673706,Isamu Akasaki
-Q206390,John L. Hall
-Q206405,Douglas Osheroff
-Q1700920,Michael Kosterlitz
-Q2128461,Rainer Weiss
-Q1002250,Duncan Haldane
-Q1235614,Giorgio Parisi
-Q35149,Wilhelm Röntgen
-Q710597,Arthur B. McDonald
-Q493956,Andrea M. Ghez
-Q193655,John Hasbrouck Van Vleck
-Q193803,Roger Penrose
-Q202138,Daniel C. Tsui
-Q202164,Makoto Kobayashi
-Q205954,Eric Allin Cornell
-Q391237,John Hopfield
-Q726394,David J. Thouless
-Q44286,Rudolf Mössbauer
-Q46120,William Alfred Fowler
-Q54945,Hannes Alfvén
-Q206379,Carl Wieman
-Q201452,Brian Schmidt
-Q47285,J. J. Thomson
-Q41688,Hendrik Lorentz
-Q57020342,Pierre Agostini
-Q57070,Gustav Ludwig Hertz
-Q1365270,John Clauser
-Q730065,Shuji Nakamura
-Q57068,Wilhelm Wien
-Q206499,Val Logsdon Fitch
-Q728331,Jim Peebles
-Q11538917,Takaaki Kajita
-Q15900993,Barry C. Barish
-Q26703310,Michel Devoret
-Q39246,Richard Feynman
-Q40262,David Gross
-Q57067,Max von Laue
-Q57120,Peter Grünberg
-Q57227,Wolfgang Paul
-Q61045,David J. Wineland
-Q202168,Toshihide Maskawa
-Q57063,Philipp Lenard
-Q565544,Anne L'Huillier
-Q3675789,Syukuro Manabe
-Q57072,Otto Stern
-Q708472,Arthur Ashkin
-Q629583,Sheldon Cooper
-Q11443689,Hiroshi Amano
-Q28976188,John M. Martinis
-Q56855591,Donna Strickland
-Q40904,Werner Heisenberg
-Q57066,James Franck
-Q57092,Johannes Stark
-Q57100,Maria Goeppert Mayer
-Q58978,Max Born
-Q62891,Heike Kamerlingh Onnes
-Q64188,Roy J. Glauber
-Q62897,John Cockcroft
-Q60429,Chandrasekhara Venkata Raman
-Q57077,Ferdinand Braun
+born_on_date,died_on_date,family_name,gender,id,name,notable_work
+1949-01-30,,Agre,male,Q102250,Peter Agre,
+1939-05-07,2022-04-05,Altman,male,Q102266,Sidney Altman,
+1916-03-26,1995-05-14,Anfinsen,male,Q102278,Christian B. Anfinsen,
+1877-09-01,1945-11-20,Aston,male,Q102291,Francis William Aston,mass spectrometry
+1926-06-30,2023-02-15,Berg,male,Q102379,Paul Berg,
+1918-07-31,2018-06-02,Boyer,male,Q102395,Paul D. Boyer,
+1912-05-22,2004-12-19,Brown,male,Q102406,Herbert C. Brown,
+1918-09-08,1998-03-16,Barton,male,Q102419,Derek Barton,
+1852-09-28,1907-02-20,Moissan,male,Q102804,Henri Moissan,
+1852-08-30,1911-03-01,Van 't Hoff,male,Q102822,Jacobus Henricus van 't Hoff,
+1877-09-02,1956-09-22,Soddy,male,Q102830,Frederick Soddy,
+1884-03-24,1966-11-02,Debije,male,Q103835,Peter Debye,"Debye length, Debye–Hückel equation"
+1854-11-05,1941-08-14,Sabatier,male,Q104575,Paul Sabatier,"Sabatier nickel, Sabatier reaction"
+1871-05-06,1935-12-13,Grignard,male,Q104582,Victor Grignard,
+1968-01-11,,List,male,Q105572,Benjamin List,asymmetric organocatalysis
+1935-07-14,2021-06-06,Negishi,male,Q105927,Ei-ichi Negishi,
+1904-08-16,1971-06-15,Stanley,male,Q105937,Wendell Meredith Stanley,
+1930-09-12,,Suzuki,male,Q105949,Akira Suzuki,
+1891-07-05,1987-05-27,Northrop,male,Q106399,John Howard Northrop,
+1931-08-15,2015-10-09,Heck,male,Q106471,Richard F. Heck,
+1946-02-26,2016-08-02,Zewail,male,Q106624,Ahmed Zewail,
+1947-01-15,,Chalfie,male,Q106699,Martin Chalfie,
+1918-06-18,2013-06-06,Karle,male,Q106733,Jerome Karle,
+1917-06-15,2010-12-10,Fenn,male,Q106738,John Fenn,
+1943-06-06,2005-10-28,Smalley,male,Q106746,Richard Smalley,
+1936-01-22,,Heeger,male,Q106751,Alan J. Heeger,
+1887-11-19,1955-08-12,Sumner,male,Q106756,James B. Sumner,
+1920-12-06,2002-08-31,Porter,male,Q106762,George Porter,
+1903-11-27,1976-10-05,Onsager,male,Q107405,Lars Onsager,
+1917-02-14,2011-10-23,Hauptman,male,Q107422,Herbert A. Hauptman,
+1939-09-30,,Lehn,male,Q107690,Jean-Marie Lehn,
+1940-08-23,2018-10-09,Steitz,male,Q109559,Thomas A. Steitz,
+1895-05-12,1982-03-28,Giauque,male,Q110073,William Giauque,
+1936-08-20,,Shirakawa,male,Q110916,Hideki Shirakawa,
+1941-04-28,,Sharpless,male,Q110925,Karl Barry Sharpless,
+1933-08-23,2022-07-03,Curl,male,Q110930,Robert Curl,
+1919-12-09,2011-04-14,Lipscomb,male,Q110935,William Lipscomb,
+1927-04-14,2007-02-07,MacDiarmid,male,Q110942,Alan MacDiarmid,
+1917-06-01,2012-06-13,Knowles,male,Q110947,William Standish Knowles,
+1913-09-04,1982-08-23,Moore,male,Q110952,Stanford Moore,
+1938-10-04,,,male,Q110957,Kurt Wüthrich,
+1959-08-03,,Tanaka,male,Q110963,Koichi Tanaka,
+1927-06-28,2012-03-10,Rowland,male,Q111190,F. Sherwood Rowland,
+1951-07-04,,Kitagawa,male,Q11401680,Susumu Kitagawa,
+1933-08-14,2021-06-04,Ernst,male,Q122272,Richard R. Ernst,
+1887-09-13,1976-09-26,Ruzicka,male,Q122996,Leopold Ružička,
+1866-12-12,1919-11-15,Inostroza,male,Q123014,Alfred Werner,
+1853-09-02,1932-04-04,Ostwald,male,Q12658,Wilhelm Ostwald,"law of dilution, Ostwald process, Ostwald ripening, Ostwald Rule of Stages, Energeticism"
+1960-01-13,,Betzig,male,Q1351105,Eric Betzig,
+1933-12-03,2021-01-28,Crutzen,male,Q135139,Paul Josef Crutzen,
+1919-04-22,2001-06-17,Cram,male,Q135151,Donald J. Cram,
+1917-09-07,2013-12-08,Cornforth,male,Q135154,John Cornforth,
+1928-07-12,,Corey,male,Q135171,Elias James Corey,
+1947-12-08,,Cech,male,Q135180,Thomas Cech,
+1953-06-24,,Moerner,male,Q1387059,William E. Moerner,
+1900-03-19,1958-08-14,Joliot-Curie,male,Q150989,Frédéric Joliot-Curie,
+1946-09-08,,Sancar,male,Q15118973,Aziz Sancar,
+1918-08-13,2013-11-19,Sanger,male,Q151564,Frederick Sanger,
+1961-03-15,,,male,Q15433043,Moungi Bawendi,
+1951-04-14,,Winter,male,Q1545000,Greg Winter,
+1945-02-28,,Yekimov,male,Q1547368,Alexey Ekimov,
+1911-06-25,1980-02-02,Stein,male,Q156492,William Howard Stein,
+1938-09-03,,Noyori,male,Q157210,Ryōji Noyori,
+1897-05-17,1981-05-11,,male,Q157212,Odd Hassel,
+1944-12-28,2019-08-07,Mullis,male,Q157224,Kary Mullis,
+1895-01-15,1973-11-11,Virtanen,male,Q157239,Artturi Ilmari Virtanen,
+1907-10-02,1997-01-10,Todd,male,Q157242,"Alexander R. Todd, Baron Todd",
+1939-10-07,2016-04-30,Kroto,male,Q157250,Harry Kroto,
+1890-12-20,1967-03-27,Heyrovský,male,Q157701,Jaroslav Heyrovský,
+1945-07-19,,Henderson,male,Q1678456,Richard Henderson,
+1918-10-08,2018-05-28,Skou,male,Q1687170,Jens Christian Skou,
+1947-04-24,,Kornberg,male,Q170676,Roger D. Kornberg,
+1968-12-11,,"Petitfrere, Charpentier",female,Q17280087,Emmanuelle Charpentier,
+1910-06-19,1985-09-08,Flory,male,Q176351,Paul Flory,Principles of Polymer Chemistry
+1893-04-29,1981-01-05,Urey,male,Q179777,Harold Urey,
+1917-01-25,2003-05-28,Prigogine,male,Q183509,Ilya Prigogine,
+1881-01-31,1957-08-16,Langmuir,male,Q184286,Irving Langmuir,Langmuir probe
+1884-08-30,1971-02-25,Svedberg,male,Q186391,Theodor Svedberg,
+1938-01-28,,Lindahl,male,Q1886068,Tomas Lindahl,
+1868-01-31,1928-04-02,Richards,male,Q189465,Theodore William Richards,
+1865-10-12,1940-06-17,Harden,male,Q189803,Arthur Harden,
+1907-09-18,1991-09-07,McMillan,male,Q19009,Edwin McMillan,
+1943-03-19,2020-10-07,"Pasquél, Molina",male,Q19045,Mario Molina,
+1908-12-17,1980-09-08,Libby,male,Q190486,Willard Libby,
+1926-08-11,2018-11-20,Klug,male,Q190626,Aaron Klug,
+1927-05-22,2017-03-08,Oláh,male,Q192603,George Andrew Olah,
+1943-08-10,,Brus,male,Q194646,Louis E. Brus,
+1952-02-01,2016-08-24,Qian,male,Q200470,Roger Y. Tsien,
+1942-02-27,2021-12-19,Grubbs,male,Q202140,Robert H. Grubbs,
+1930-10-10,2015-01-27,Chauvin,male,Q202146,Yves Chauvin,
+1945-01-04,,Schrock,male,Q202159,Richard R. Schrock,
+1883-03-19,1950-03-19,Haworth,male,Q204600,Norman Haworth,
+1928-08-27,2018-10-19,Shimomura,male,Q205345,Osamu Shimomura,
+1920-09-29,1992-04-10,Mitchell,male,Q207992,Peter D. Mitchell,
+1956-02-19,,MacKinnon,male,Q211482,Roderick MacKinnon,
+1932-03-21,,Gilbert,male,Q217486,Walter Gilbert,
+1918-10-04,1998-01-09,Fukui,male,Q217734,Kenichi Fukui,
+1921-07-15,2006-05-14,Merrifield,male,Q224153,Robert Bruce Merrifield,
+1926-07-16,2015-06-02,Rose,male,Q230652,Irwin Rose,
+1937-06-04,,Robson,male,Q23073819,Richard Robson,
+1932-04-26,2000-10-04,Smith,male,Q232289,Michael Smith,
+1917-03-24,1997-08-23,Kendrew,male,Q232295,John Kendrew,
+1937-12-31,,Hershko,male,Q232302,Avram Hershko,
+1917-04-10,1979-07-08,Woodward,male,Q232316,Robert Burns Woodward,
+1902-08-10,1971-10-29,Tiselius,male,Q233026,Arne Tiselius,
+1947-10-01,,Ciechanover,male,Q233205,Aaron Ciechanover,
+1896-06-07,1986-10-31,Mulliken,male,Q233355,Robert S. Mulliken,molecular orbital theory
+1925-10-31,2004-03-15,Pople,male,Q233973,John Pople,
+1906-09-06,1987-12-02,,male,Q233985,Luis Federico Leloir,
+1903-02-26,1979-05-02,Natta,male,Q234145,Giulio Natta,
+1941-01-07,,Walker,male,Q235184,John E. Walker,
+1897-11-09,1978-06-07,,male,Q235834,Ronald George Wreyford Norrish,
+1915-11-30,2005-11-16,Taube,male,Q235983,Henry Taube,
+1929-01-23,,"Polányi, Polanyi",male,Q237825,John Polanyi,
+1923-07-21,,Marcus,male,Q239067,Rudolph A. Marcus,
+1936-11-19,,Li,male,Q243190,Yuan T. Lee,
+1932-06-18,,Herschbach,male,Q243196,Dudley R. Herschbach,
+1904-10-03,1989-10-26,Pedersen,male,Q244998,Charles J. Pedersen,
+1937-07-18,,Hoffmann,male,Q273279,Roald Hoffmann,
+1921-07-14,1996-09-26,Wilkinson,male,Q274128,Geoffrey Wilkinson,organometallic chemistry
+1941-12-22,,Whittingham,male,Q285062,M. Stanley Whittingham,lithium-ion battery
+1940-09-12,,Frank,male,Q28833112,Joachim Frank,
+1976-07-27,,Hassabis,male,Q3022141,Demis Hassabis,
+1944-10-21,,Sauvage,male,Q3169751,Jean-Pierre Sauvage,
+1951-05-18,,Feringa,male,Q3259614,Ben Feringa,
+1901-05-18,1978-12-11,,male,Q33128,Vincent du Vigneaud,
+1942-05-24,2024-12-30,Stoddart,male,Q376243,Fraser Stoddart,mechanically interlocked molecular architectures
+1962-10-06,,Baker,male,Q3814528,David Baker,
+1942-06-08,,Dubochet,male,Q41585344,Jacques Dubochet,
+1956-07-25,,Arnold,female,Q4273363,Frances Arnold,
+1860-05-20,1917-08-13,Buchner,male,Q43917,Eduard Buchner,
+1941-01-24,,,male,Q44111,Dan Shechtman,
+1918-11-10,2007-07-23,Fischer,male,Q44594,Ernst Otto Fischer,organometallic chemistry
+1948-01-30,,Yoshino,male,Q4701206,Akira Yoshino,
+1940-11-20,,Warshel,male,Q4790366,Arieh Warshel,
+1881-03-23,1965-09-08,Staudinger,male,Q48956,Hermann Staudinger,
+1912-04-19,1999-02-25,"Seaborg, Sjöberg",male,Q48973,Glenn T. Seaborg,
+1910-03-01,2002-07-28,Martin,male,Q48977,Archer John Porter Martin,
+1914-10-28,1994-08-18,Synge,male,Q48979,Richard Laurence Millington Synge,
+1901-02-28,1994-08-18,Pauling,male,Q48983,Linus Pauling,
+1897-06-19,1967-10-09,Hinshelwood,male,Q48986,Cyril Norman Hinshelwood,
+1896-04-15,1986-09-25,Semyonov,male,Q48990,Nikolay Semyonov,
+1911-04-08,1997-01-08,Calvin,male,Q49347,Melvin Calvin,
+1886-09-13,1975-02-08,Robinson,male,Q49351,Robert Robinson,
+1968-03-16,,MacMillan,male,Q5237001,David MacMillan,asymmetric organocatalysis
+1903-03-24,1995-01-18,Butenandt,male,Q5327,Adolf Butenandt,
+1964-02-19,,Doudna,female,Q56068,Jennifer Doudna,Jennifer Doudna: We can now edit our DNA. But let's do it wisely
+1941-03-10,,Smith,male,Q56868017,George Smith,phage display
+1879-03-08,1968-07-28,Hahn,male,Q57065,Otto Hahn,
+1868-12-09,1934-01-29,Haber,male,Q57075,Fritz Haber,"Haber-Bosch process, chemical weapon"
+1835-10-31,1917-08-20,Baeyer,male,Q57078,Adolf von Baeyer,
+1864-06-25,1941-11-18,Nernst,male,Q57125,Walther Nernst,
+1847-03-27,1931-02-26,Wallach,male,Q57127,Otto Wallach,Wallach rearrangement
+1952-01-01,,,male,Q60061,Venkatraman Ramakrishnan,
+1936-10-10,,Ertl,male,Q60066,Gerhard Ertl,
+1947-05-09,,Levitt,male,Q6832227,Michael Levitt,
+1954-01-16,,Meldal,male,Q6914509,Morten P. Meldal,
+1852-10-09,1919-07-15,Fischer,male,Q70554,Emil Fischer,
+1946-06-13,,Modrich,male,Q7151888,Paul L. Modrich,
+1867-11-07,1934-07-04,"Skłodowska, Skłodowska-Curie, Curie",female,Q7186,Marie Curie,Treatise on Radioactivity
+1889-04-21,1971-06-18,Karrer,male,Q73093,Paul Karrer,
+1939-06-22,,Yonath,female,Q7426,Ada Yonath,
+1965-02-09,,Yaghi,male,Q743252,Omar M. Yaghi,
+1966-10-10,,Bertozzi,female,Q7442,Carolyn Bertozzi,
+1910-05-12,1994-07-29,"Crowfoot, Hodgkin",female,Q7487,Dorothy Hodgkin,
+1897-09-12,1956-03-17,Joliot-Curie,female,Q7504,Irène Joliot-Curie,
+1902-07-10,1958-06-20,Alder,male,Q76595,Kurt Alder,
+1927-05-09,2019-02-06,Eigen,male,Q76600,Manfred Eigen,
+1904-12-25,1999-03-03,Herzberg,male,Q76602,Gerhard Herzberg,
+1881-07-27,1945-03-31,Fischer,male,Q76604,Hans Fischer,
+1874-08-27,1940-04-26,Bosch,male,Q76606,Carl Bosch,
+1877-06-04,1957-08-05,Wieland,male,Q76610,Heinrich Wieland,
+1943-09-30,,Deisenhofer,male,Q76612,Johann Deisenhofer,
+1873-02-15,1964-11-06,von Euler-Chelpin,male,Q76613,Hans von Euler-Chelpin,
+1884-10-11,1949-03-30,Bergius,male,Q76614,Friedrich Bergius,
+1876-01-23,1954-03-07,Diels,male,Q76616,Otto Diels,
+1937-02-20,,Huber,male,Q76623,Robert Huber,
+1898-11-26,1973-08-12,Ziegler,male,Q76624,Karl Ziegler,
+1885-08-01,1966-07-05,Hevesy,male,Q76951,George de Hevesy,
+1872-08-13,1942-08-03,Willstätter,male,Q77072,Richard Willstätter,
+1948-07-18,,,male,Q77086,Hartmut Michel,
+1876-12-25,1959-06-09,Windaus,male,Q77142,Adolf Windaus,
+1897-06-16,1987-08-26,Wittig,male,Q77171,Georg Wittig,
+1914-05-19,2002-02-06,Perutz,male,Q78480,Max Perutz,Is Science Necessary? Essays on Science and Scientists
+1865-04-01,1929-09-23,Zsigmondy,male,Q78481,Richard Adolf Zsigmondy,
+1869-09-03,1930-12-13,Pregl,male,Q78482,Fritz Pregl,
+1900-12-03,1967-07-31,Kuhn,male,Q78483,Richard Kuhn,
+1923-03-09,2016-04-19,Kohn,male,Q78510,Walter Kohn,density functional theory
+1955-05-30,,Kobilka,male,Q80907,Brian Kobilka,
+1943-04-15,,Lefkowitz,male,Q80910,Robert Lefkowitz,
+1859-02-19,1927-10-02,Arrhenius,male,Q80956,Svante August Arrhenius,
+1906-07-23,1998-01-07,Prelog,male,Q83501,Vladimir Prelog,
+1985-01-01,,Jumper,male,Q89620738,John Michael Jumper,AlphaFold
+1930-03-15,2024-12-28,Karplus,male,Q903471,Martin Karplus,
+1922-07-25,2023-06-25,Goodenough,male,Q906529,John B. Goodenough,
+1871-08-30,1937-10-19,Rutherford,male,Q9123,Ernest Rutherford,
+1962-12-23,,Hell,male,Q91410,Stefan Hell,
+1852-10-02,1916-07-23,Ramsay,male,Q950726,William Ramsay,
+1915-05-15,2009-12-13,Samuelson,male,Q102454,Paul Samuelson,
+1911-05-31,2010-10-09,Allais,male,Q105962,Maurice Allais,
+1937-09-15,2023-05-15,Lucas,male,Q107264,Robert Lucas,
+1912-01-19,1986-04-07,Kantorowicz,male,Q107441,Leonid Kantorovich,"Kantorovich theorem, Szász–Mirakjan–Kantorovich operator, Kantorovich inequality"
+1943-07-19,,Sargent,male,Q107964,Thomas J. Sargent,
+1940-04-29,,Diamond,male,Q109570,Peter Diamond,
+1948-02-20,,,male,Q109582,Christophoros A. Pissarides,
+1939-02-02,2014-01-09,Mortensen,male,Q109721,Dale T. Mortensen,
+1942-10-21,,Sims,male,Q109737,Christopher A. Sims,"vector autoregression, fiscal theory of the price level"
+1946-05-14,,Goldin,female,Q1097475,Claudia Goldin,
+1910-08-28,1985-02-26,Koopmans,male,Q110968,Tjalling Koopmans,Koopmans' theorem
+1956-01-01,,Card,male,Q1173928,David Card,
+1930-10-05,2016-08-23,Selten,male,Q12830,Reinhard Selten,
+1928-06-13,2015-05-23,Nash,male,Q128736,John Forbes Nash,"Nash equilibrium, Nash embedding theorem, Hilbert's nineteenth problem, Nash functions, Nash–Moser theorem, Nash blowing-up, Nash–Kuiper theorem, Nash-Williams theorem"
+1953-02-28,,Krugman,male,Q131112,Paul Krugman,
+1933-11-03,,Sen,male,Q132489,Amartya Sen,Development as Freedom
+1899-05-08,1992-03-23,Hayek,male,Q1325,Friedrich Hayek,"The Road to Serfdom, Law, Legislation and Liberty, The Constitution of Liberty, The Fatal Conceit"
+1948-04-20,,Milgrom,male,Q1359990,Paul Milgrom,
+1952-10-26,,Hansen,male,Q1386049,Lars Peter Hansen,
+1963-01-16,,Johnson,male,Q1461050,Simon Johnson,
+1898-12-06,1987-05-17,Myrdal,male,Q152452,Gunnar Myrdal,
+1933-08-07,2012-06-12,"Ostrom, Awan",female,Q153761,Elinor Ostrom,
+1930-06-08,,Aumann,male,Q157235,Robert Aumann,
+1943-11-07,,Spence,male,Q157245,Michael Spence,
+1923-05-16,2000-06-03,Miller,male,Q157255,Merton Miller,
+1917-08-21,2008-06-24,Hurwicz,male,Q157262,Leonid Hurwicz,
+1924-08-23,2023-12-21,Solow,male,Q157268,Robert Solow,Neoclassical growth model
+1964-11-12,,Kremer,male,Q1635006,Michael Kremer,
+1963-09-03,,Imbens,male,Q16730042,Guido Imbens,
+1953-08-09,,Tirole,male,Q173994,Jean Tirole,
+1936-07-05,2018-08-29,Mirrlees,male,Q176643,James Mirrlees,
+1899-04-23,1979-08-03,Ohlin,male,Q179493,Bertil Ohlin,
+1916-06-15,2001-02-09,Simon,male,Q181529,Herbert Simon,"bounded rationality, Administrative Behavior"
+1903-04-12,1994-06-09,Tinbergen,male,Q183181,Jan Tinbergen,Tinbergen theory
+1943-02-09,,Stiglitz,male,Q18430,Joseph E. Stiglitz,
+1904-04-08,1989-05-20,Hicks,male,Q184862,John Richard Hicks,
+1953-10-25,,Diamond,male,Q185871,Douglas Diamond,
+1895-03-03,1973-01-31,Frisch,male,Q187988,Ragnar Frisch,
+1910-12-29,2013-09-02,,male,Q188113,Ronald Coase,
+1930-12-02,2014-05-03,Becker,male,Q191020,Gary Becker,
+1933-07-26,,Phelps,male,Q192566,Edmund Phelps,
+1901-04-30,1985-07-08,Kuznets,male,Q192577,Simon Kuznets,
+1921-08-23,2017-02-21,Arrow,male,Q192592,Kenneth Arrow,
+1960-02-27,,Robinson,male,Q19520018,James A. Robinson,
+1953-12-13,,Bernanke,male,Q201795,Ben Bernanke,
+1945-10-19,,Deaton,male,Q204078,Angus Deaton,
+1919-10-03,2013-01-09,Buchanan,male,Q205353,James M. Buchanan,
+1918-06-18,2003-09-25,Modigliani,male,Q205850,Franco Modigliani,
+1921-04-14,2016-12-13,Schelling,male,Q206460,Thomas Schelling,
+1911-12-13,1999-07-28,Haavelmo,male,Q208124,Trygve Haavelmo,
+1921-07-04,2004-12-31,Debreu,male,Q210960,Gérard Debreu,
+1943-12-01,,Kydland,male,Q211097,Finn E. Kydland,real business cycle theory
+1918-03-05,2002-03-11,Tobin,male,Q211776,James Tobin,
+1932-10-24,2021-04-04,Mundell,male,Q219721,Robert Mundell,
+1913-08-30,1991-12-06,Stone,male,Q219733,Richard Stone,
+1940-06-17,,Akerlof,male,Q222541,George Akerlof,
+1932-09-27,2020-05-21,Williamson,male,Q232062,Oliver E. Williamson,bounded rationality
+1951-03-29,,Myerson,male,Q232949,Roger Myerson,
+1950-12-12,,Maskin,male,Q233051,Eric Maskin,
+1902-04-30,1998-02-26,Schultz,male,Q233947,Theodore Schultz,
+1934-03-05,2024-03-27,Kahneman,male,Q233950,Daniel Kahneman,
+1907-06-23,1995-12-22,Meade,male,Q235843,James Meade,
+1926-07-01,2013-06-11,Fogel,male,Q237821,Robert Fogel,
+1920-11-05,2015-11-23,North,male,Q243193,Douglass North,
+1911-01-17,1991-12-01,Stigler,male,Q243534,George Stigler,
+1923-06-02,2016-03-12,Shapley,male,Q244739,Lloyd Shapley,
+1955-05-22,,Dybvig,male,Q24565948,Philip H. Dybvig,
+1927-08-24,2023-06-22,Markowitz,male,Q272508,Harry Markowitz,modern portfolio theory
+1920-05-29,2000-08-09,Harsányi,male,Q272510,John Harsanyi,
+1915-01-23,1991-06-15,Lewis,male,Q272519,Arthur Lewis,
+1934-06-16,,Sharpe,male,Q274111,William F. Sharpe,
+"1951-12-18, 1951-12-19",,Roth,male,Q28542,Alvin Eliot Roth,
+1944-07-31,,,male,Q287542,Robert C. Merton,Black–Scholes model
+1946-07-26,,Mokyr,male,Q2899100,Joel Mokyr,
+1941-07-01,,Scholes,male,Q295647,Myron Scholes,
+"1942-11-10, 1941-01-01",,Engle,male,Q295653,Robert F. Engle,
+1914-06-21,1996-10-11,Vickrey,male,Q295673,William Vickrey,
+1927-01-01,,Smith,male,Q295717,Vernon L. Smith,
+1920-09-14,2013-10-20,Klein,male,Q295761,Lawrence Klein,
+1937-07-29,,McFadden,male,Q312560,Daniel McFadden,
+1944-04-19,,Heckman,male,Q312561,James Heckman,
+1934-09-04,2009-05-27,Granger,male,Q312575,Clive Granger,
+1940-12-26,2022-11-06,Prescott,male,Q312585,Edward C. Prescott,real business cycle theory
+1961-02-21,,Banerjee,male,Q320578,Abhijit Banerjee,
+1946-03-29,,Shiller,male,Q338151,Robert J. Shiller,
+1949-04-18,,Holmström,male,Q354897,Bengt Holmström,
+1939-02-14,,Fama,male,Q359317,Eugene Fama,"Fama–French three-factor model, efficient-market hypothesis"
+1945-09-12,,Thaler,male,Q371212,Richard Thaler,
+1956-08-17,,Aghion,male,Q376364,Philippe Aghion,
+1937-05-16,,Wilson,male,Q377265,Robert B. Wilson,
+1948-10-09,,"D'Arcy, Hart",male,Q432890,Oliver Hart,
+1972-10-25,,Duflo,female,Q434509,Esther Duflo,
+1906-08-05,1999-02-05,Leontyev,male,Q44061,Wassily Leontief,
+1912-07-31,2006-11-16,Friedman,male,Q47426,Milton Friedman,
+1955-11-06,,Romer,male,Q509262,Paul M. Romer,
+1941-05-31,,Nordhaus,male,Q562481,William Nordhaus,
+1946-05-31,,Howitt,male,Q7174757,Peter Howitt,
+1967-09-03,,Acemoğlu,male,Q718581,Daron Acemoğlu,
+1960-09-18,,Angrist,male,Q921499,Joshua Angrist,
+1901-09-23,1986-01-10,Seifert,male,Q102483,Jaroslav Seifert,
+1940-09-01,,"Ernaux, Duchesne",female,Q1153825,Annie Ernaux,"La Place, The Years, Cleaned Out"
+1867-05-07,1925-12-05,,male,Q121180,Władysław Reymont,"The Peasants, The Promised Land"
+1885-02-07,1951-01-10,Lewis,male,Q123469,Sinclair Lewis,"Babbitt, It Can't Happen Here"
+1832-04-19,1916-09-14,Echegaray,male,Q127349,José Echegaray,
+1881-03-23,1958-08-22,Martin du Gard,male,Q129155,Roger Martin du Gard,"The Thibaults, Jean Barois"
+1859-07-06,1940-05-20,von Heidenstam,male,Q129173,Verner von Heidenstam,
+1912-05-28,"1990-09-29, 1990-09-30",White,male,Q129187,Patrick White,Voss
+1880-12-23,1958-05-29,Jiménez,male,Q131318,Juan Ramón Jiménez,
+1900-07-29,1976-08-25,Johnson,male,Q131326,Eyvind Johnson,
+1857-06-02,1919-10-11,Gjellerup,male,Q131487,Karl Adolph Gjellerup,
+1913-10-10,2005-07-06,Simon,male,Q131549,Claude Simon,Hommage à Piero della Francesca
+1916-05-11,2002-01-17,Cela,male,Q132589,Camilo José Cela,"The Hive, Journey to the Alcarria, Pabellón de reposo, The Family of Pascual Duarte, Del Miño al Bidasoa"
+1887-05-31,1975-09-20,Léger,male,Q132684,Saint-John Perse,"Anabase, Praises, Amers"
+1904-05-06,1978-02-11,Martinson,male,Q132695,Harry Martinson,
+1930-01-23,2017-03-17,Walcott,male,Q132701,Derek Walcott,"Dream on Monkey Mountain, The Capeman, Omeros"
+1888-09-16,1964-06-03,Sillanpää,male,Q132723,Frans Eemil Sillanpää,
+1887-08-08,1970-02-17,,male,Q133042,Shmuel Yosef Agnon,"Tel ou tel, Days of Awe, Samuch ve-Nir'eh, The Bridal Canopy, Invité pour la Nuit, Those Were the Days, Une histoire simple"
+1864-07-20,1931-04-08,Karlfeldt,male,Q134641,Erik Axel Karlfeldt,
+1898-04-26,1984-12-14,Aleixandre,male,Q134644,Vicente Aleixandre,
+1867-06-28,1936-12-10,Pirandello,male,Q1403,Luigi Pirandello,"Six Characters in Search of an Author, Henry IV, The Turn, Il fu Mattia Pascal, Novels for a year, One, No one and One Hundred Thousand, Clothing The Naked, L'Esclusa, Ma non è una cosa seria"
+1873-01-20,1950-11-25,Jensen,male,Q159552,Johannes V. Jensen,"The Fall of the King, Digte, The Long Journey, Stories from Himmerland"
+1911-11-02,1996-03-18,,male,Q160478,Odysseas Elytis,Axion Esti
+1900-03-13,1971-09-20,,male,Q165823,Giorgos Seferis,
+1940-01-04,,Gao,male,Q18143,Gao Xingjian,"Soul Mountain, The Other Shore"
+1856-07-26,1950-11-02,Shaw,male,Q19185,George Bernard Shaw,"Mrs. Warren's Profession, Pygmalion, Saint Joan, Caesar and Cleopatra"
+1945-07-30,,Modiano,male,Q222944,Patrick Modiano,"Dora Bruder, La Place de l'Étoile, Les Boulevards de ceinture, Missing Person, Un pedigree, Villa Triste"
+1857-07-24,1943-08-21,Pontoppidan,male,Q225554,Henrik Pontoppidan,
+1845-04-24,1924-12-29,Spitteler,male,Q226525,Carl Spitteler,"Olympian Spring, Unser Schweizer Standpunkt"
+1899-07-21,1961-07-02,Hemingway,male,Q23434,Ernest Hemingway,"The Old Man and the Sea, A Farewell to Arms, The Sun Also Rises, The Short Happy Life of Francis Macomber, Hills Like White Elephants, The Snows of Kilimanjaro"
+1943-04-22,2023-10-13,Glück,female,Q2344210,Louise Glück,"Averno, The Wild Iris, Faithful and Virtuous Night, Meadowlands"
+1931-07-10,2024-05-13,"Laidlaw, Munro",female,Q234819,Alice Munro,"Too Much Happiness, Dear Life, Something I've Been Meaning to Tell You"
+1952-06-07,,Pamuk,male,Q241248,Orhan Pamuk,"The New Life, The Black Book, My Name Is Red, Istanbul: Memories and the City, The Museum of Innocence, Cevdet Bey and His Sons, Snow, The White Castle, Nights of Plague"
+1817-11-30,1903-11-01,Mommsen,male,Q25351,Theodor Mommsen,"Corpus Inscriptionum Latinarum, The History of Rome"
+1962-01-29,,Tokarczuk,female,Q254032,Olga Tokarczuk,"House of Day, House of Night, Primeval and Other Times, Anna in the Tombs of the World, Playing on Many Drums, The Wardrobe, Flights, Drive Your Plow Over the Bones of the Dead, The Lost Soul, The Books of Jacob"
+1877-07-02,1962-08-09,Hesse,male,Q25973,Hermann Hesse,"Steppenwolf, Siddhartha, Peter Camenzind, Demian, The Glass Bead Game, Narcissus and Goldmund"
+1954-11-08,,Ishiguro,male,Q272855,Kazuo Ishiguro,"When We Were Orphans, The Remains of the Day, A Pale View of Hills, Klara and the Sun, Never Let Me Go, An Artist of the Floating World"
+1948-05-31,,Alyeksiyevich,female,Q274334,Svetlana Alexievich,"War's Unwomanly Face, The Last Witnesses, Voices from Chernobyl, Second-Hand Time, Zinky Boys: Soviet Voices from a Forgotten War"
+1948-12-20,,Gurnah,male,Q317877,Abdulrazak Gurnah,"Desertion, Gravel Heart, By the Sea, The Last Gift, Pilgrims Way, Admiring Silence, Dottie, Memory of Departure, Paradise"
+1872-05-18,1970-02-02,Russell,male,Q33760,Bertrand Russell,"A History of Western Philosophy, Introduction to Mathematical Philosophy, Principia Mathematica, Power: A New Social Analysis, Marriage and Morals, The Problems of Philosophy, The Principles of Mathematics, Wisdow of the West, The Autobiography of Bertrand Russell, Proposed Roads to Freedom, Justice in war time, In Praise of Idleness and Other Essays, Human Knowledge: Its Scope and Limits, My Philosophical Development, Human society in ethics and politics"
+1904-07-12,1973-09-23,"Reyes, Neruda",male,Q34189,Pablo Neruda,"Canto General, Crepusculario, Splendor and Death of Joaquin Murieta, Twenty Love Poems and a Song of Despair, Arte de pájaros, Residence on Earth"
+1918-12-11,2008-08-03,,male,Q34474,Aleksandr Solzhenitsyn,"One Day in the Life of Ivan Denisovich, The Gulag Archipelago, The First Circle, Cancer Ward, Two Hundred Years Together"
+1913-11-07,1960-01-04,Camus,male,Q34670,Albert Camus,"The Stranger, The Plague, A Happy Death, L'homme révolté, The Myth of Sisyphus, Albert Camus, María Casares. Correspondence (1944-1959), Neither Victims Nor Executioners, Caligula, The Fall"
+1865-12-30,1936-01-18,Kipling,male,Q34743,Rudyard Kipling,"The Jungle Book, Kim, The Second Jungle Book, Gunga Din, Just So Stories, If—"
+1875-06-06,1955-08-12,Mann,male,Q37030,Thomas Mann,"The Holy Sinner, Lotte in Weimar: The Beloved Returns, The Magic Mountain, Confessions of Felix Krull, The Clown, Buddenbrooks, Little Herr Friedemann, Doctor Faustus, Joseph and His Brothers, Anekdote, The Black Swan, That man is my brother, Death in Venice, Reflections of an Unpolitical Man, The Road to the Churchyard, The Will to Happiness, Listen, Germany!, Germany and the Germans, The Transposed Heads, Tobias Mindernickel, Mario and the Magician, Luischen, Railway Accident, The Problem of Freedom, The Child Prodigy, Royal Highness, Die Lösung der Judenfrage, The Wardrobe, The Coming Victory of Democracy, The Tables of the Law, Tristan, The German Republic, The Fight between Jappe and the Do Escobar, The Blood of the Walsungs, Gladius Dei, A Man and His Dog, Disorder and Early Sorrow, Tonio Kröger, Disillusionment, Fiorenza, Gefallen"
+1922-11-16,2010-06-18,Saramago,male,Q37060,José Saramago,"Blindness, The Elephant's Journey, Death with Interruptions, Seeing, The Gospel According to Jesus Christ, Cain"
+1906-04-13,1989-12-22,Beckett,male,Q37327,Samuel Beckett,"Waiting for Godot, Malone Dies, The Unnamable, How It Is, Krapp's Last Tape, Watt, Molloy, Endgame, Murphy"
+1888-09-26,1965-01-04,Eliot,male,Q37767,T. S. Eliot,"The Waste Land, Four Quartets"
+1953-08-17,,Müller,female,Q38049,Herta Müller,"The Hunger Angel, Nadirs, The Passport, The Land of Green Plums"
+1897-09-25,1962-07-06,Faulkner,male,Q38392,William Faulkner,"The Sound and the Fury, Light in August, Absalom, Absalom!, A Rose for Emily, As I Lay Dying"
+1941-05-24,,Dylan,male,Q392,Bob Dylan,"Blood on the Tracks, Blowin' in the Wind, Subterranean Homesick Blues, Blonde on Blonde, Like a Rolling Stone, Highway 61 Revisited, Bringing It All Back Home"
+1902-02-27,1968-12-20,Steinbeck,male,Q39212,John Steinbeck,"The Grapes of Wrath, East of Eden, Of Mice and Men"
+1936-03-28,2025-04-13,Vargas,male,Q39803,Mario Vargas Llosa,"The Time of the Hero, The Green House, Conversation in The Cathedral"
+"1865-03-13, 1865-06-13",1939-01-28,Butler Yeats,male,Q40213,William Butler Yeats,
+1859-08-04,1952-02-19,Hamsun,male,Q40826,Knut Hamsun,"Hunger, Growth of the Soil"
+1919-10-22,2013-11-17,"Wisdom, Tayler, Lessing",female,Q40874,Doris Lessing,"The Golden Notebook, The Grass Is Singing, The Cleft, The Memoirs of a Survivor, The Good Terrorist, A Ripple from the Storm"
+1930-10-10,2008-12-24,Pinter,male,Q41042,Harold Pinter,"The Caretaker, The Room, The Dumb Waiter, The Birthday Party"
+1890-02-10,1960-05-30,Pasternak,male,Q41223,Boris Pasternak,Doctor Zhivago
+1934-07-13,,,male,Q41488,Wole Soyinka,"The Interpreters, The Lion and the Jewel, Season of Anomy, Chronicles from the Land of the Happiest People on Earth, Harmattan Haze on an African Spring"
+1846-05-05,1916-11-15,,male,Q41502,Henryk Sienkiewicz,"Quo Vadis, With Fire and Sword, The Knights of the Cross, In Desert and Wilderness, Janko Muzykant, Fire in the Steppe, The Deluge"
+1940-04-13,,Le Clézio,male,Q42037,Jean-Marie Gustave Le Clézio,"Désert, Le Procès-Verbal"
+1931-04-15,2015-03-26,Tranströmer,male,Q42122,Tomas Tranströmer,"The Sorrow Gondola, Baltics, For the Living and the Dead"
+1859-10-18,1941-01-04,Bergson,male,Q42156,Henri Bergson,
+1839-03-16,1907-09-07,Prudhomme,male,Q42247,Sully Prudhomme,
+1905-05-24,1984-02-21,Sholokhov,male,Q42398,Mikhail Sholokhov,"And Quiet Flows the Don, Tales of the Don, The New Land, Fate of a Man"
+1844-04-16,1924-10-12,Thibault,male,Q42443,Anatole France,"Thaïs, The Gods Are Athirst, The Red Lily"
+1923-07-02,2012-02-01,Szymborska,female,Q42552,Wisława Szymborska,Cat in an Empty Apartment
+1830-09-08,1914-03-25,Mistral,male,Q42596,Frédéric Mistral,"Mirèio, Lou Pouèmo dóu Rose, Lou Tresor dóu Felibrige, Calendau, Lis Isclo d'Or"
+1917-12-21,1985-07-16,Böll,male,Q42747,Heinrich Böll,"And where were you, Adam?, Reports on the Nation's Disposition, The Lost Honour of Katharina Blum, The Train Was on Time, Those Without Traces, The Balek Scales, Black Sheep, Doctor Murkes total silence, And Never Said a Word, Zimpren Station, The Silent Angel, The Bread of Those Early Years, A Soldier's Legacy, The Clown, Billiards at Half-past Nine, Stranger, Bear Word to the Spartans We…, What's to Become of the Boy?, When War Broke Out, When the War was Over, Group Portrait with Lady, House without Guardians, Domestic Disturbance, Valley of Thundering Hooves, Irish Journal, Cross Without Love, Christmas Not Just Once a Year, End of a Mission, Distance to the Troop, Women in a river landscape. A novel in dialogues and soliloquies, The Safety Net"
+1940-02-09,,Coetzee,male,Q43293,J. M. Coetzee,Life & Times of Michael K
+1835-07-27,1907-02-16,Carducci,male,Q43440,Giosuè Carducci,
+1862-11-15,1946-06-06,Hauptmann,male,Q43523,Gerhart Hauptmann,"The Weavers, The Rats, The Assumption of Hannele"
+1899-06-11,1972-04-16,Kawabata,male,Q43736,Yasunari Kawabata,"The Old Capital, Thousand Cranes, The House of the Sleeping Beauties, The Sound of the Mountain, The Dancing Girl of Izu, Snow Country"
+1942-12-06,,Handke,male,Q44107,Peter Handke,"The Goalie's Anxiety at the Penalty Kick, Offending the Audience, Short Letter, Long Farewell, A Sorrow Beyond Dreams, The Left-Handed Woman, The Moravian Night"
+1911-09-19,1993-06-19,Golding,male,Q44183,William Golding,"Lord of the Flies, To the Ends of the Earth"
+1959-09-29,,Fosse,male,Q443868,Jon Fosse,"Olav's Dreams, Weariness, I Am the Wind, Melancholy II, Dream of Autumn, Nightsongs, The Name, Melancholy, Morning and Evening, Wakefulness"
+1858-11-20,1940-03-16,Lagerlöf,female,Q44519,Selma Lagerlöf,"The Wonderful Adventures of Nils, Jerusalem, Gösta Berlings Saga"
+1932-08-17,2018-08-11,,male,Q44593,V. S. Naipaul,"A Bend in the River, In a Free State, A House for Mr Biswas, The Enigma of Arrival, The Mystic Masseur"
+1911-06-30,2004-08-14,Miłosz,male,Q45970,Czesław Miłosz,"The Captive Mind, Ocalenie, A Treatise on Poetry, Campo di Fiori, Piosenka o końcu świata"
+1832-12-08,1910-04-26,Bjørnson,male,Q46405,Bjørnstjerne Bjørnson,
+1870-10-22,1953-11-08,Bunin,male,Q46602,Ivan Bunin,"The Gentleman from San Francisco, The Village, The Life of Arseniev, Dark Avenues"
+1914-03-31,1998-04-19,Paz,male,Q46739,Octavio Paz,
+1866-01-29,1944-12-30,Rolland,male,Q47162,Romain Rolland,"Jean-Christophe, The life of Toistoi, Péguy"
+1946-10-20,,Jelinek,female,Q47243,Elfriede Jelinek,"The Children of the Dead, The Piano Teacher, Women as Lovers, Wonderful, Wonderful Times"
+1869-11-22,1951-02-19,Gide,male,Q47484,André Gide,"Les Caves du Vatican, Strait is the Gate, The Immoralist, The Counterfeiters, La Symphonie Pastorale, Corydon, The Fruits of the Earth, Si le grain ne meurt, La Séquestrée de Poitiers, Retour de L'U.R.S.S., Travels in the Congo"
+1892-10-10,1975-03-13,Andrić,male,Q47561,Ivo Andrić,"Bosnian Chronicle, The Bridge on the Drina, Most na Žepi, Devil's Yard, O priči i pričanju, Omerpaša Latas, Ex Ponto, Jelena, the Woman Who Is Not"
+1923-11-20,2014-07-13,Gordimer,female,Q47619,Nadine Gordimer,"The Pickup, The Conservationist, A Sport of Nature, Burger's Daughter, Get a Life, July's People"
+1846-01-05,1926-09-15,Eucken,male,Q47695,Rudolf Christoph Eucken,
+1929-11-09,2016-03-31,Kertész,male,Q47755,Imre Kertész,"Fatelessness, Liquidation"
+1862-08-29,1949-05-06,Maeterlinck,male,Q49747,Maurice Maeterlinck,"Monna Vanna, Pelléas and Mélisande, The Blue Bird, Serres Chaudes, Intruder, The Death of Tintagiles, The Treasure of the Humble, Interior, Princess Maleine, The Blind"
+1954-01-05,,Krasznahorkai,male,Q512062,László Krasznahorkai,"The Melancholy of Resistance, Satantango, Destruction and Sorrow Beneath the Heavens, Baron Wenckheim's Homecoming, The World Goes On, Chasing Homer, Seiobo There Below, War & War"
+1970-11-27,,Han,female,Q5646626,Han Kang,"Greek Lessons, The White Book, We Do Not Part, Human Acts, The Vegetarian"
+1891-12-10,1970-05-12,Sachs,female,Q57074,Nelly Sachs,
+1927-03-06,2014-04-17,García,male,Q5878,Gabriel García Márquez,"One Hundred Years of Solitude, Chronicle of a Death Foretold, The Autumn of the Patriarch, No One Writes to the Colonel, Love in the Time of Cholera, The Story of a Shipwrecked Sailor"
+1927-10-16,2015-04-13,Grass,male,Q6538,Günter Grass,"What Must Be Said, Crabwalk, Dog Years, Cat and Mouse, The Call of the Toad, Last dances, The Rat, The Tin Drum"
+1911-12-11,2006-08-30,Mahfouz,male,Q7176,Naguib Mahfouz,"Miramar, Children of Gebelawi, The Thief and the Dogs, The Mirage, Mirrors (novel), Respected Sir, Adrift on the Nile, Wedding Song, The Beggar, The Beginning and the End, The Day the Leader was Killed, The Harafish, The Journey of Ibn Fattouma, The Search, Midaq Alley, Akhenaten, Dweller in Truth, Karnak Café, Autumn Quail, Dreams of departure, Stories from Our Neighbourhood, Arabian Nights and Days, Cairo Trilogy, Khufu's Wisdom, Rhadopis of Nubia"
+1931-02-18,2019-08-05,Morrison,female,Q72334,Toni Morrison,"Beloved, The Bluest Eye, Love, Sula, Home, Paradise, Tar Baby, Jazz, Song of Solomon, A Mercy, God Help the Child"
+1861-05-07,1941-08-07,Tagore,male,Q7241,Rabindranath Tagore,"Gitanjali, Valmikipratibha, Jogajog, Stray Birds, Postmaster, Shesher Kabita, Ghare-Bhaire, Dak Ghar, The Home and the World, Noukadubi, Gora, Hungry Stones, Bhanusimha Thakurer Padabali, Kabuliwala, Chaturanga, Nastanirh, Raja"
+1899-10-19,1974-06-09,Asturias,male,Q75603,Miguel Ángel Asturias,"Leyendas de Guatemala, Mulata de tal"
+1904-07-14,1991-07-24,Singer,male,Q75612,Isaac Bashevis Singer,"The Magician of Lublin, Gimpel the Fool"
+1830-03-15,1914-04-02,Heyse,male,Q76487,Paul Heyse,
+1926-03-24,2016-10-13,Fo,male,Q765,Dario Fo,"Mistero Buffo, The Pope and the Witch, Trumpets and Raspberries, Can't Pay? Won't Pay!, Accidental Death of an Anarchist, Archangels Don't Play Pinball, The Two-Headed Anomaly, Elizabeth: Almost by Chance a Woman"
+1871-09-27,1936-08-15,Deledda,female,Q7728,Grazia Deledda,"Canne al vento, The Mother, Ashes, Elias Portolu"
+1905-07-25,1994-08-14,Canetti,male,Q80064,Elias Canetti,"Auto-da-Fé, Crowds and Power, Tongue Set Free"
+1935-01-31,2023-03-03,Ōe,male,Q80095,Kenzaburō Ōe,"The Silent Cry, A Personal Matter"
+1874-11-30,1965-01-24,Churchill,male,Q8016,Winston Churchill,"The Second World War, A History of the English-Speaking Peoples, A Traveller in War-Time"
+1902-04-23,1998-02-08,Guðjónsson,male,Q80321,Halldór Laxness,
+1889-04-07,1957-01-10,Mistral,female,Q80871,Gabriela Mistral,
+1882-05-20,1949-06-10,Undset,female,Q80889,Sigrid Undset,"Kristin Lavransdatter, The Master of Hestviken, Jenny"
+1892-06-26,1973-03-06,"Buck, Walsh, Sydenstricker",female,Q80900,Pearl S. Buck,"Imperial Woman, The Good Earth, Peony, The Big Wave, The Exile, The Living Reed, Dragon Seed, A House Divided, China Sky, East Wind: West Wind, Fighting Angel, Letter from Peking, Sons"
+1885-10-11,1970-09-01,Mauriac,male,Q81685,François Mauriac,"Les Mal-aimés, Maltaverne, passage du malin, Questions of Precedence, Asmodée, Genitrix, Les arbres et les pierres, Thérèse Desqueyroux, Ce qui était perdu, Destins, L'Agneau, L'Enfant chargé de chaînes, La Chair et le Sang, Un adolescent d'autrefois, La Fin de la nuit, A Woman of Pharisees, La Robe prétexte, Le Désert de l'amour, Le Feu sur la terre, Le Fleuve de feu, Le mystère Frontenac, Vipers' Tangle, The Dark Angels, Les Chemins de la mer"
+1867-08-14,1933-01-31,Galsworthy,male,Q82248,John Galsworthy,"The Forsyte Saga, Justice, The Silver Box, Strife, Saint's Progress"
+1901-08-20,1968-06-14,Quasimodo,male,Q83038,Salvatore Quasimodo,"Ed è subito sera, Lirici greci, Oboe sommerso, Odore di Eucalyptus ed altri versi, Poesie, Il falso e il vero verde"
+"1915-06-10, 1915-07-10",2005-04-05,"Bellow, Bellows",male,Q83059,Saul Bellow,"Herzog, The Adventures of Augie March, Henderson the Rain King"
+1896-10-12,1981-09-12,Montale,male,Q83174,Eugenio Montale,"La bufera e altro, Le occasioni, Ossi di seppia, Satura, Xenia, Auto da fé, Dinard butterfly"
+1866-08-12,1954-07-14,Benavente,male,Q83184,Jacinto Benavente,
+1940-05-24,1996-01-28,Brodsky,male,Q862,Joseph Brodsky,Gorbunov and Gorchakov
+1955-02-17,,"Mo, Guan",male,Q8998,Mo Yan,"Red Sorghum, Big Breasts and Wide Hips, The Republic of Wine, Life and Death Are Wearing Me Out, Sandalwood Death, The Herbivorous Family, Pow!"
+1891-05-23,1974-07-11,Lagerkvist,male,Q93137,Pär Lagerkvist,
+1888-10-16,1953-11-27,O'Neill,male,Q93157,Eugene O'Neill,"Mourning Becomes Electra, All God's Chillun Got Wings"
+1939-04-13,2013-08-30,Heaney,male,Q93356,Seamus Heaney,"Death of a Naturalist, District and Circle, Human Chain"
+1905-06-21,1980-04-15,Sartre,male,Q9364,Jean-Paul Sartre,
+1857-05-13,1932-09-16,Ross,male,Q102034,Ronald Ross,
+1932-08-18,2022-02-08,Montagnier,male,Q103598,Luc Montagnier,
+1947-07-30,,"Sinoussi, Barré",female,Q103844,Françoise Barré-Sinoussi.,
+1957-12-29,,Beutler,male,Q104592,Bruce Beutler,
+1952-11-09,,Szostak,male,Q104600,Jack Szostak,
+1917-11-22,2012-05-30,Huxley,male,Q104607,Andrew Huxley,
+1925-09-27,2013-04-10,Edwards,male,Q104913,Robert Edwards,
+1943-01-14,2011-09-30,Steinman,male,Q105494,Ralph Steinman,
+1941-08-02,,Hoffmann,male,Q105605,Jules Hoffmann,
+1925-07-28,2011-04-05,Blumberg,male,Q105830,Baruch Samuel Blumberg,
+1929-05-06,2007-03-27,Lauterbur,male,Q106547,Paul Lauterbur,magnetic resonance imaging
+1921-07-19,2011-05-30,Yalow,female,Q107402,Rosalyn Sussman Yalow,
+1922-01-09,2011-11-09,,male,Q107462,Har Gobind Khorana,
+1858-08-11,1930-11-05,Eijkman,male,Q107609,Christiaan Eijkman,
+1923-09-09,2008-12-12,Gajdusek,male,Q108576,Daniel Carleton Gajdusek,
+1939-09-06,,Tonegawa,male,Q108602,Susumu Tonegawa,
+1916-06-04,2009-05-19,Furchgott,male,Q108880,Robert F. Furchgott,
+1922-01-28,1993-02-11,,male,Q108891,Robert W. Holley,
+1931-08-23,2025-10-25,"Hamilton, Smith",male,Q108896,Hamilton Smith,
+1914-02-22,2012-02-19,Dulbecco,male,Q109553,Renato Dulbecco,
+1920-04-06,2021-08-27,Fischer,male,Q109726,Edmond H. Fischer,
+1918-06-06,2009-12-21,Krebs,male,Q109731,Edwin G. Krebs,
+1927-04-10,2010-01-15,Nirenberg,male,Q110060,Marshall Warren Nirenberg,standard genetic code
+1886-03-08,1972-05-04,Kendall,male,Q110101,Edward Calvin Kendall,
+1912-05-30,2004-12-29,Axelrod,male,Q110106,Julius Axelrod,
+1924-06-14,2010-03-21,Black,male,Q110974,James Black,
+1961-01-01,,Brunkow,female,Q114564137,Mary E. Brunkow,
+1907-03-23,1992-04-08,Bovet,male,Q115448,Daniel Bovet,
+1881-03-17,1973-08-12,Hess,male,Q115470,Walter Rudolf Hess,
+1899-01-12,1965-10-12,Müller,male,Q115475,Paul Hermann Müller,
+1841-08-25,1917-07-27,Kocher,male,Q115478,Emil Theodor Kocher,
+1897-07-20,1996-08-01,Reichstein,male,Q115490,Tadeusz Reichstein,
+1929-06-03,,Arber,male,Q115495,Werner Arber,
+1944-01-06,,Zinkernagel,male,Q116064,Rolf M. Zinkernagel,
+1955-11-04,,Julius,male,Q1174906,David Julius,
+1916-06-08,2004-07-28,Crick,male,Q123280,Francis Crick,Life Itself: Its Origin and Nature
+1944-03-07,,Rosbash,male,Q1297741,Michael Rosbash,
+1898-09-24,1968-02-21,Florey,male,Q137106,Howard Florey,
+1926-11-30,2024-10-17,Schally,male,Q141147,Andrew Schally,
+1852-05-01,1934-10-17,Ramón,male,Q150526,Santiago Ramón y Cajal,
+1843-07-07,1926-01-21,Golgi,male,Q150630,Camillo Golgi,
+1874-11-15,1949-09-13,Krogh,male,Q152187,August Krogh,
+1916-10-19,2009-06-06,Dausset,male,Q152760,Jean Dausset,
+1907-04-15,1988-12-21,Tinbergen,male,Q153890,Niko Tinbergen,
+1956-07-12,,Semenza,male,Q1545025,Gregg L. Semenza,
+1901-09-22,1997-01-12,Huggins,male,Q155371,Charles Brenton Huggins,
+1886-09-26,1977-06-03,Hill,male,Q155375,Archibald Hill,
+1942-05-28,,Prusiner,male,Q155380,Stanley B. Prusiner,
+1927-10-08,2002-03-24,Milstein,male,Q155525,César Milstein,
+1929-11-07,,Kandel,male,Q155529,Eric Kandel,The age of the unconscious
+1903-07-06,1982-08-15,Theorell,male,Q156480,Hugo Theorell,
+1892-03-28,1968-07-18,Heymans,male,Q156482,Corneille Heymans,
+1957-11-23,,Kaelin,male,Q1603351,William G. Kaelin,
+1945-05-03,,Hall,male,Q1686435,Jeffrey C. Hall,
+1939-11-18,,O'Keefe,male,Q1701279,John O'Keefe,
+1955-04-20,,Pääbo,male,Q170342,Svante Pääbo,
+1845-05-15,1916-07-15,Mechnikov,male,Q172254,Élie Metchnikoff,
+1951-01-19,,Sakaguchi,male,Q17502433,Shimon Sakaguchi,
+1866-09-25,1945-12-04,Morgan,male,Q177681,Thomas Hunt Morgan,
+1891-11-14,1941-02-21,Banting,male,Q180350,Frederick Banting,
+1893-09-16,1986-10-22,Györgyi,male,Q180468,Albert Szent-Györgyi,
+1860-12-15,1904-09-24,Finsen,male,Q182964,Niels Ryberg Finsen,
+1916-12-15,2004-10-05,Wilkins,male,Q184659,Maurice Wilkins,
+1909-04-22,2012-12-30,Levi-Montalcini,female,Q185007,Rita Levi-Montalcini,
+1873-06-28,1944-11-05,Carrel,male,Q185777,Alexis Carrel,"Man, The Unknown"
+1845-06-18,1922-05-18,Laveran,male,Q189006,Charles Louis Alphonse Laveran,
+1860-05-21,1927-09-29,Einthoven,male,Q189488,Willem Einthoven,
+1895-02-21,1976-04-17,Dam,male,Q190501,Henrik Dam,
+1919-04-01,2012-11-26,Murray,male,Q192282,Joseph Murray,
+1862-06-05,1930-07-28,Gullstrand,male,Q192651,Allvar Gullstrand,
+1949-01-01,,Houghton,male,Q1927895,Michael Houghton,
+1949-03-28,,Young,male,Q1929672,Michael W. Young,
+1899-09-03,1985-08-31,Burnet,male,Q193550,Frank Macfarlane Burnet,
+1914-02-05,1998-12-20,Hodgkin,male,Q193650,Alan Lloyd Hodgkin,
+"1902-01-01, 1902-06-16","1992-01-01, 1992-09-02","McClintock, McClinton",female,Q199654,Barbara McClintock,
+1947-01-29,,Buck,female,Q200136,Linda B. Buck,
+1951-09-30,,Marshall,male,Q202136,Barry Marshall,
+1959-04-27,,Fire,male,Q202152,Andrew Fire,
+1896-08-15,1957-10-26,"Radnitz, Cori",female,Q204733,Gerty Cori,
+1912-08-13,1991-02-06,Luria,male,Q205667,Salvador Luria,
+1960-10-18,,Mello,male,Q206455,Craig Mello,
+1954-05-14,,Ratcliffe,male,Q2075967,Peter J. Ratcliffe,
+1941-01-01,,Evans,male,Q207719,Martin Evans,
+1937-06-11,2024-07-23,,male,Q208670,Robin Warren,
+1935-07-12,,Ōmura,male,Q21061207,Satoshi Ōmura,Ivermectin
+1930-06-28,,Campbell,male,Q21061212,William C. Campbell,
+1870-06-13,1961-04-06,Bordet,male,Q211787,Jules Bordet,
+1946-07-02,,Axel,male,Q211940,Richard Axel,
+1857-11-27,1952-03-04,Sherrington,male,Q213504,Charles Scott Sherrington,
+1915-02-28,1987-10-02,Medawar,male,Q214209,Peter Medawar,
+1850-08-26,1935-12-04,Richet,male,Q214851,Charles Richet,
+1937-10-06,,Capecchi,male,Q215574,Mario Capecchi,
+1925-06-23,2017-01-10,Smithies,male,Q216318,Oliver Smithies,
+1867-04-23,1928-01-30,Fibiger,male,Q216324,Johannes Fibiger,
+1900-10-30,1991-03-12,Granit,male,Q217722,Ragnar Granit,
+1920-06-17,2013-04-20,Jacob,male,Q218311,François Jacob,
+1925-05-23,2008-02-02,Lederberg,male,Q218823,Joshua Lederberg,
+1949-01-25,,Nurse,male,Q219716,Paul Nurse,
+1912-11-19,2008-10-07,Palade,male,Q219718,George Emil Palade,
+1902-05-08,1994-09-30,Lwoff,male,Q223309,André Lwoff,
+1924-02-23,1998-05-07,Cormack,male,Q223542,Allan McLeod Cormack,
+1952-08-25,,Rice,male,Q22669757,Charles M. Rice,
+1893-11-13,1986-10-23,Doisy,male,Q230612,Edward Adelbert Doisy,vitamin K
+1889-11-30,1977-08-04,Adrian,male,Q231292,Edgar Douglas Adrian,
+1910-02-09,1976-05-31,Monod,male,Q231402,Jacques Monod,"Monod equation, Chance and Necessity"
+1876-09-06,1935-03-16,,male,Q232024,John James Rickard Macleod,
+1922-11-17,2020-02-05,Cohen,male,Q232299,Stanley Cohen,
+1913-08-20,1994-04-17,Sperry,male,Q232305,Roger Sperry,
+1888-07-22,1973-08-16,Waksman,male,Q232308,Selman Abraham Waksman,
+"1898-08-23, 1898-08-24, 1899-08-21, 1899-08-24",1983-05-22,Claude,male,Q233943,Albert Claude,
+1905-09-24,1993-11-01,Ochoa,male,Q233957,Severo Ochoa,
+1866-09-21,1936-02-28,Nicolle,male,Q233965,Charles Nicolle,
+1861-06-20,1947-05-16,Hopkins,male,Q233976,Frederick Hopkins,
+1927-01-13,2019-04-05,Brenner,male,Q234463,Sydney Brenner,
+1917-10-02,2013-05-04,,male,Q234590,Christian de Duve,
+1920-10-29,2011-08-02,Benacerraf,male,Q234701,Baruj Benacerraf,
+1938-03-07,2025-09-06,Baltimore,male,Q234949,David Baltimore,
+1896-02-28,1965-03-30,Hench,male,Q235651,Philip Showalter Hench,
+1905-02-07,1983-03-09,von Euler,male,Q237142,Ulf von Euler,
+1887-04-10,1971-09-21,Houssay,male,Q237160,Bernardo Houssay,
+1909-12-14,1975-11-05,Tatum,male,Q237499,Edward Tatum,
+1899-06-03,1972-06-13,"Békésy, von Békésy",male,Q238716,Georg von Békésy,
+1903-10-22,1989-06-09,Beadle,male,Q238739,George Beadle,
+1942-01-27,,Honjo,male,Q2395341,Tasuku Honjo,
+1924-01-11,2024-02-21,Guillemin,male,Q242169,Roger Guillemin,
+1874-01-05,1965-12-05,Erlanger,male,Q243532,Joseph Erlanger,
+1934-12-10,1994-02-09,Temin,male,Q243536,Howard Temin,
+1933-10-09,2017-02-08,Mansfield,male,Q243601,Peter Mansfield,
+1885-12-02,1950-02-25,Minot,male,Q245000,George Minot,
+1948-11-26,,Blackburn,female,Q26321,Elizabeth Blackburn,
+1961-04-15,,Greider,female,Q26322,Carol Greider,
+1924-06-03,,Wiesel,male,Q271421,Torsten Nils Wiesel,
+1940-04-18,,Goldstein,male,Q271424,Joseph L. Goldstein,
+1942-03-27,2018-03-06,,male,Q271532,John Sulston,
+1908-12-04,1997-05-22,Hershey,male,Q271703,Alfred Hershey,
+1895-09-24,1988-02-19,Cournand,male,Q271757,André Frédéric Cournand,
+1929-07-01,2014-05-17,Edelman,male,Q271766,Gerald Edelman,
+1888-07-05,1963-05-11,Gasser,male,Q273201,Herbert Spencer Gasser,
+1874-11-29,1955-12-13,"Egas, Moniz",male,Q273219,António Egas Moniz,
+1903-01-27,1997-05-02,Eccles,male,Q273223,John Eccles,
+1878-08-28,1976-02-01,Whipple,male,Q273238,George Whipple,
+1919-08-28,2004-08-12,,male,Q273769,Godfrey Hounsfield,
+1918-05-20,2004-07-21,Lewis,male,Q274123,Edward B. Lewis,
+1960-12-04,,Ramsdell,male,Q28212107,Fred Ramsdell,
+1926-02-27,2013-09-22,Hubel,male,Q295644,David H. Hubel,
+1947-05-08,,Horvitz,male,Q295659,H. Robert Horvitz,
+1903-12-19,1996-06-06,Snell,male,Q295666,George Davis Snell,
+1918-03-03,2007-10-26,Kornberg,male,Q295678,Arthur Kornberg,
+1941-04-13,,Brown,male,Q295684,Michael Stuart Brown,
+1939-12-18,,Varmus,male,Q295691,Harold E. Varmus,
+1916-01-10,2004-08-15,Bergström,male,Q295696,Sune Bergström,
+1917-10-08,1985-09-06,Porter,male,Q295700,Rodney Robert Porter,
+1928-10-30,1999-11-16,Nathans,male,Q295706,Daniel Nathans,
+1906-11-18,1997-04-12,Wald,male,Q295724,George Wald,
+1934-05-21,2024-07-05,Samuelsson,male,Q295768,Bengt I. Samuelsson,
+1939-10-30,,Hartwell,male,Q295869,Lee Hartwell,
+1936-09-14,2023-09-04,Murad,male,Q295999,Ferid Murad,
+1941-07-01,2015-12-23,Gilman,male,Q296423,Alfred G. Gilman,
+1923-01-25,2018-06-29,Carlsson,male,Q298045,Arvid Carlsson,
+1879-10-05,1970-02-16,Rous,male,Q298707,Francis Peyton Rous,
+1947-06-08,,Wieschaus,male,Q301438,Eric F. Wieschaus,
+1940-10-15,,Doherty,male,Q309814,Peter C. Doherty,
+1943-09-06,,Roberts,male,Q309816,Richard Roberts,
+1941-05-31,,Ignarro,male,Q309820,Louis Ignarro,
+1911-12-23,1994-10-07,Jerne,male,Q309876,Niels Kaj Jerne,
+1903-12-22,1983-03-17,,male,Q309879,Haldan Keffer Hartline,
+1916-08-25,2003-08-04,Robbins,male,Q309885,Frederick Chapman Robbins,
+1927-03-29,2004-11-19,Vane,male,Q309971,John Vane,
+1943-02-19,,Hunt,male,Q309977,Tim Hunt,
+1925-12-11,2019-04-13,Greengard,male,Q309979,Paul Greengard,
+1915-06-15,2008-08-23,Weller,male,Q310131,Thomas Huckle Weller,
+1920-03-15,2012-10-20,Thomas,male,Q310485,E. Donnall Thomas,
+1905-04-18,1998-02-27,,male,Q310487,George H. Hitchings,
+1936-02-22,,Bishop,male,Q311358,J. Michael Bishop,
+1897-02-10,1985-09-08,Enders,male,Q312961,John Franklin Enders,
+1895-10-30,1973-02-23,Richards,male,Q312963,Dickinson W. Richards,
+1944-06-06,,Sharp,male,Q312977,Phillip Sharp,
+1912-01-21,2000-10-15,Bloch,male,Q35698,Konrad Emil Bloch,
+1918-01-23,1999-02-21,Elion,female,Q35703,Gertrude B. Elion,
+1881-08-06,1955-03-11,Fleming,male,Q37064,Alexander Fleming,
+1843-12-11,1910-05-27,Koch,male,Q37193,Robert Koch,Koch's postulates
+1849-09-26,1936-02-27,Pavlov,male,Q42985,Ivan Pavlov,
+1950-11-03,,Rothman,male,Q444270,James Rothman,
+1911-04-06,1979-08-06,Lynen,male,Q44597,Feodor Felix Konrad Lynen,
+1911-03-26,2003-04-20,Katz,male,Q4517,Bernard Katz,
+1930-12-30,,Tu,female,Q462843,Tu Youyou,
+1899-01-30,1972-08-11,Theiler,male,Q46928,Max Theiler,
+1952-03-26,,Ruvkun,male,Q504021,Gary Ruvkun,
+1962-04-27,,Moser,male,Q5341373,Edvard Moser,
+1935-09-12,,Alter,male,Q5677307,Harvey J. Alter,
+1854-03-14,1915-08-20,Ehrlich,male,Q57089,Paul Ehrlich,
+1853-09-16,1927-07-05,Kossel,male,Q57128,Albrecht Kossel,
+1884-04-12,1951-10-06,Meyerhof,male,Q57132,Otto Fritz Meyerhof,
+1900-08-25,1981-11-22,Krebs,male,Q57191,Hans Krebs,"tricarboxylic acid cycle, glyoxylate cycle, urea cycle"
+1895-10-30,1964-04-24,Domagk,male,Q57192,Gerhard Domagk,
+1869-06-27,1941-09-12,Spemann,male,Q57568,Hans Spemann,
+1906-06-19,1979-08-12,Chain,male,Q58054,Ernst Chain,
+1925-12-01,1998-12-07,Rodbell,male,Q60031,Martin Rodbell,
+1886-11-20,1982-06-12,von Frisch,male,Q60060,Karl von Frisch,
+1936-05-21,2018-02-18,Blobel,male,Q60108,Günter Blobel,
+1967-10-02,,Patapoutian,male,Q60322501,Ardem Patapoutian,
+1948-08-07,,Allison,male,Q6140731,James P. Allison,
+1963-01-04,,Moser,female,Q6796222,May-Britt Moser,
+1915-11-19,1974-03-09,Sutherland,male,Q68118,"Earl Wilbur Sutherland, Jr.",
+1875-06-09,1968-07-23,Dale,male,Q72194,Henry Hallett Dale,
+1948-12-30,,Shekman,male,Q740638,Randy Schekman,
+1936-03-11,2023-05-29,Hausen,male,Q75847,Harald zur Hausen,
+1854-03-15,1917-03-31,,male,Q76425,Emil von Behring,
+1883-10-08,1970-08-01,Warburg,male,Q76464,Otto Heinrich Warburg,
+1906-09-04,1981-03-09,Delbrück,male,Q76807,Max Delbrück,
+1942-06-12,,,male,Q77081,Bert Sakmann,
+1899-06-12,1986-07-24,,male,Q77104,Fritz Albert Lipmann,
+1944-03-20,,Neher,male,Q77126,Erwin Neher,
+1904-08-29,1979-06-01,Forßmann,male,Q77152,Werner Forssmann,
+1946-04-17,1995-03-01,Köhler,male,Q77160,Georges J. F. Köhler,
+1873-06-03,1961-12-25,,male,Q77173,Otto Loewi,
+1942-10-20,,"Nüsslein, Volhard",female,Q77174,Christiane Nüsslein-Volhard,
+1876-04-22,1936-04-08,Bárány,male,Q78478,Robert Bárány,
+1857-03-07,1940-09-27,Wagner-Jauregg,male,Q78479,Julius Wagner-Jauregg,
+1903-11-07,1989-02-27,Lorenz,male,Q78496,Konrad Lorenz,"On Aggression, Behind the Mirror: A Search for a Natural History of Human Knowledge, Civilized Man's Eight Deadly Sins"
+1896-12-05,1984-10-20,Cori,male,Q78501,Carl Ferdinand Cori,
+1892-02-06,1987-10-09,Murphy,male,Q80323,William P. Murphy,
+1945-02-09,,Ōsumi,male,Q8056214,Yoshinori Ohsumi,
+1962-09-04,,Yamanaka,male,Q80917,Shinya Yamanaka,
+1933-10-02,2025-10-07,Gurdon,male,Q81218,John Gurdon,
+1928-04-06,,Watson,male,Q83333,James D. Watson,"The Double Helix, Molecular Biology of the Gene"
+1890-12-21,1967-04-05,Muller,male,Q83598,Hermann Joseph Muller,X-ray
+1868-06-14,1943-06-26,Landsteiner,male,Q84405,Karl Landsteiner,blood type
+1955-01-17,,Karikó,female,Q88608397,Katalin Karikó,
+1959-09-07,,,male,Q88608402,Drew Weissman,
+1955-12-22,,Südhof,male,Q97270,Thomas C. Südhof,
+1953-12-01,,Ambros,male,Q983858,Victor Ambros,
+1878-05-10,1929-10-03,Stresemann,male,Q103955,Gustav Stresemann,
+1979-02-07,,Karman,female,Q104622,Tawakkol Karman,
+,,,,Q1065,United Nations,
+,,,,Q1069175,International Federation of Red Cross and Red Crescent Societies,
+1972-02-01,,,female,Q107037,Leymah Roberta Gbowee,"Women of Liberia Mass Action for Peace, Pray the Devil Back to Hell"
+,,,,Q114452906,Center for Civil Liberties,
+,,,,Q115095,Institut de Droit International,
+1949-12-26,,Ramos,male,Q11665,José Ramos-Horta,
+1962-09-25,,Bialiacki,male,Q118263,Ales Bialiatski,
+1955-03-01,,,male,Q1187542,Denis Mukwege,
+1833-09-20,1918-01-30,Moneta,male,Q12086,Ernesto Teodoro Moneta,
+1828-05-08,1910-10-30,Dunant,male,Q12091,Henry Dunant,"Notice sur la régence de Tunis, A Memory of Solferino"
+1833-02-19,1906-12-07,Ducommun,male,Q122368,Élie Ducommun,
+1938-04-08,2018-08-18,Annan,male,Q1254,Kofi Annan,
+1905-07-29,1961-09-18,Hammarskjöld,male,Q1267,Dag Hammarskjöld,
+1864-09-14,1958-11-24,Cecil,male,Q12702,Robert Cecil,
+1897-04-23,1972-12-27,Pearson,male,Q128604,Lester B. Pearson,
+1913-08-16,1992-03-09,Begin,male,Q130873,Menachem Begin,
+1947-06-21,,Ebadi,female,Q131152,Shirin Ebadi,
+,,,,Q132551,Office of the United Nations High Commissioner for Refugees,
+1942-06-17,,,male,Q133308,Mohamed ElBaradei,
+1880-12-31,1959-10-16,Marshall,male,Q151414,George Marshall,
+1936-03-18,2021-11-11,de Klerk,male,Q151813,F. W. de Klerk,
+1902-01-31,1986-02-01,Myrdal,female,Q152437,Alva Myrdal,
+1914-03-25,2009-09-12,Borlaug,male,Q154824,Norman Borlaug,
+1879-07-01,1954-04-28,,male,Q155415,Léon Jouhaux,
+1944-01-27,,Maguire,female,Q157655,Mairead Maguire,
+1943-05-22,2020-03-17,Williams,female,Q157690,Betty Williams,
+1910-02-10,1969-01-30,Pire,male,Q158850,Dominique Pire,
+1866-01-15,1931-07-12,Söderblom,male,Q159723,Nathan Söderblom,
+1865-05-25,1955-01-31,Mott,male,Q159726,John Mott,
+,,,,Q170208,Quakers,
+,,,,Q171183,Intergovernmental Panel on Climate Change,
+1935-07-06,,,male,Q17293,Tenzin Gyatso,Universal Responsibility and the Good Heart
+1843-05-21,1914-03-16,Gobat,male,Q179458,Charles Albert Gobat,
+1901-03-27,1975-06-03,Satō,male,Q179871,Eisaku Satō,
+1862-03-28,1932-03-07,Briand,male,Q179888,Aristide Briand,
+1822-05-20,1912-06-12,Passy,male,Q180409,Frédéric Passy,
+1860-09-06,1935-05-22,Addams,female,Q180989,Jane Addams,
+"1961-10-29, 1961-10-30",,Muratov,male,Q1823418,Dmitri Muratov,
+1928-09-30,2016-07-02,Wiesel,male,Q18391,Elie Wiesel,Night
+1843-06-09,1914-06-21,Suttner,female,Q18456,Bertha von Suttner,
+1865-08-27,1951-04-23,"Dawes, Gates",male,Q184565,Charles G. Dawes,
+,,,,Q187052,Human Rights Watch,
+,,,,Q188567,Grameen Bank,
+1959-01-09,,Menchu,female,Q188620,Rigoberta Menchú,
+1863-10-16,1937-03-16,Chamberlain,male,Q188999,Austen Chamberlain,
+1828-03-18,1908-07-22,Cremer,male,Q189841,Randal Cremer,
+1854-04-22,1943-05-14,La Fontaine,male,Q190894,Henri La Fontaine,
+1837-04-21,1922-01-22,Bajer,male,Q191016,Fredrik Bajer,
+1944-10-15,2022-07-25,Trimble,male,Q192556,David Trimble,
+1844-10-21,1916-02-20,Arnoldson,male,Q192618,Klas Pontus Arnoldson,
+1856-12-22,1937-12-21,Kellogg,male,Q193009,Frank B. Kellogg,
+1937-01-18,2020-08-03,Hume,male,Q193630,John Hume,
+1878-11-01,1959-05-05,Saavedra,male,Q193672,Carlos Saavedra Lamas,
+1948-03-31,,Gore,male,Q19673,Al Gore,
+,,,,Q1989908,Japan Confederation of A- and H-Bomb Sufferers Organizations,
+1829-07-26,1912-10-06,Beernaert,male,Q202049,Auguste Beernaert,
+1871-10-02,1955-07-23,Hull,male,Q202979,Cordell Hull,
+1911-03-20,1991-09-02,García,male,Q203843,Alfonso García Robles,
+,,,,Q204344,World Food Programme,
+1869-09-17,1938-12-11,Lange,male,Q206446,Christian Lous Lange,
+1931-11-26,,Pérez,male,Q206505,Adolfo Pérez Esquivel,
+1863-09-13,1935-10-20,Henderson,male,Q208665,Arthur Henderson,
+,,,,Q21078159,Tunisian National Dialogue Quartet,
+1950-10-09,,Williams,female,Q211239,Jody Williams,International Campaign to Ban Landmines
+1889-11-01,1982-10-08,Baker,male,Q211856,"Philip Noel-Baker, Baron Noel-Baker",
+1898-01-01,1967-07-21,Luthuli,male,Q212955,Albert John Mvumbi Luthuli,Let My People Go
+1904-08-07,1971-12-09,Bunche,male,Q213500,Ralph Bunche,
+1867-01-08,1961-01-09,Balch,female,Q215139,Emily Greene Balch,
+1838-04-28,"1913-07-29, 1913-06-29",Asser,male,Q216872,Tobias Asser,
+1851-05-29,1925-09-29,Bourgeois,male,Q217706,Léon Bourgeois,
+,,,,Q219575,United Nations peacekeeping,
+1908-11-04,2005-08-31,,male,Q219982,Joseph Rotblat,
+1993-03-10,,,female,Q22007112,Nadia Murad Basee,The Last Girl (memoir)
+1845-02-15,1937-02-07,,male,Q220619,Elihu Root,
+1843-05-21,1918-02-08,Renault,male,Q230814,Louis Renault,
+1887-10-05,1976-02-20,Cassin,male,Q232873,René Cassin,Universal Declaration of Human Rights
+1911-10-14,1990-10-13,Lê,male,Q233969,Le Duc Tho,
+1948-02-03,,,male,Q234001,Carlos Filipe Ximenes Belo,
+1924-10-01,2024-12-29,Carter,male,Q23685,Jimmy Carter,
+1852-11-22,1924-05-15,"Balluet, de Constant, d'Estournelles",male,Q238731,Paul-Henri-Benjamin d'Estournelles de Constant,
+1904-01-26,1988-01-15,MacBride,male,Q244395,Seán MacBride,
+,,,,Q245385,International Physicians for the Prevention of Nuclear War,
+1913-12-18,1992-10-08,Brandt,male,Q2514,Willy Brandt,
+,,,,Q252420,International Peace Bureau,
+1862-04-02,1947-12-07,Butler,male,Q271517,Nicholas Murray Butler,
+1872-12-26,1967-10-07,Angell,male,Q272224,Norman Angell,
+1841-12-20,1932-02-16,Buisson,male,Q273607,Ferdinand Buisson,
+1937-06-23,2023-10-16,Ahtisaari,male,Q29230,Martti Ahtisaari,
+1931-03-02,2022-08-30,Gorbachev,male,Q30487,Mikhail Gorbachev,
+1910-08-26,1997-09-05,,female,Q30547,Mother Teresa,
+1880-09-23,1971-06-25,Orr,male,Q315143,John Boyd Orr,
+,,,,Q325523,International Campaign to Ban Landmines,
+1997-07-12,,Yousafzai,female,Q32732,Malala Yousafzai,
+1858-10-27,1919-01-06,Roosevelt,male,Q33866,Theodore Roosevelt,"African game trails : an account of the African wanderings of an American hunter-naturalist, Hunting trips of a ranchman, sketches of sport on the northern cattle plains;, The wilderness hunter; an account of the big game of the United States and its chase with horse, hound, and rifle;"
+1922-03-01,1995-11-04,Rabin,male,Q34060,Yizhak Rabin,
+1929-08-04,2004-11-11,Arafat,male,Q34211,Yasser Arafat,
+1856-12-28,1924-02-03,Wilson,male,Q34296,Woodrow Wilson,
+1954-01-11,,,male,Q3442375,Kailash Satyarthi,
+1945-06-19,,,female,Q36740,Aung San Suu Kyi,Freedom from Fear
+,,,,Q381282,Pugwash Conferences on Science and World Affairs,
+1955-12-28,2017-07-13,Liu,male,Q41617,Liu Xiaobo,
+,,,,Q41984,International Atomic Energy Agency,
+1918-12-25,1981-10-06,Sadat,male,Q42013,Anwar Sadat,
+,,,,Q42970,Amnesty International,
+1931-10-07,2021-12-26,Tutu,male,Q43033,Desmond Tutu,
+1938-10-29,,"Johnson, Sirleaf",female,Q43179,Ellen Johnson Sirleaf,
+1967-10-07,,Machado,female,Q439564,María Corina Machado,
+1940-06-28,,Yunus,male,Q43969,Muhammad Yunus,
+1943-09-29,,Wałęsa,male,Q444,Lech Wałęsa,
+1924-01-06,2009-08-18,Kim,male,Q45785,Kim Dae-jung,
+,,,,Q458,European Union,
+,,,,Q464677,American Friends Service Committee,
+1940-04-01,2011-09-25,,female,Q46795,Wangari Muta Maathai,
+1875-01-14,1965-09-04,Schweitzer,male,Q49325,Albert Schweitzer,The Quest of the Historical Jesus
+,,,,Q49330,Doctors Without Borders,
+1941-09-13,,Arias,male,Q49344,Óscar Arias Sánchez,
+1972-04-21,,Mohammadi,female,Q4967771,Narges Mohammadi,
+1976-08-15,,Ahmed,male,Q50365049,Abiy Ahmed,
+1860-11-23,1925-02-24,Branting,male,Q53620,Hjalmar Branting,
+,,,,Q54129,International Labour Organization,
+,,,,Q547940,International Campaign to Abolish Nuclear Weapons,
+1951-08-10,,Santos,male,Q57311,Juan Manuel Santos,
+1923-08-02,2016-09-28,Peres,male,Q57410,Shimon Peres,
+,,,,Q5987345,International Committee of the Red Cross,
+1923-05-27,2023-11-29,Kissinger,male,Q66107,Henry Kissinger,
+1963-10-02,,Aycardo,female,Q6761526,Maria Ressa,
+,,,,Q677499,Quaker Peace and Social Witness,
+,,,,Q7178,International Red Cross and Red Crescent Movement,
+1861-10-10,1930-05-13,Nansen,male,Q72292,Fridtjof Nansen,
+,,,,Q740308,UNICEF,
+,,,,Q743558,Nansen International Office for Refugees,
+1961-08-04,,Obama,male,Q76,Barack Obama,A Promised Land
+1889-10-03,1938-05-04,Ossietzky,male,Q76358,Carl von Ossietzky,
+1858-03-23,1941-03-05,Quidde,male,Q76696,Ludwig Quidde,Nobel Peace Prize
+1864-11-11,1921-05-05,Fried,male,Q78488,Alfred Hermann Fried,
+1918-07-18,2013-12-05,Mandela,male,Q8023,Nelson Mandela,Long Walk to Freedom
+1929-01-15,1968-04-04,King,male,Q8027,Martin Luther King Jr.,
+,,,,Q842490,Organisation for the Prohibition of Chemical Weapons,
+,,,,Q851563,Memorial,
+1921-05-21,1989-12-14,Sakharov,male,Q997,Andrei Sakharov,
+1951-09-14,,Haldane,male,Q1002250,Duncan Haldane,
+1922-06-19,2009-09-08,Bohr,male,Q103854,Aage Bohr,Nuclear Structure
+1958-10-21,,,male,Q104104,Andre Geim,
+1946-08-07,,Mather,male,Q104651,John C. Mather,
+1916-10-04,2009-11-08,Ginzburg,male,Q104668,Vitaly Ginzburg,
+1925-11-24,2011-03-04,van der Meer,male,Q104779,Simon van der Meer,
+1969-12-16,,Riess,male,Q106454,Adam Riess,
+1974-08-23,,Novoselov,male,Q106494,Konstantin Novoselov,
+1959-09-22,,Perlmutter,male,Q106949,Saul Perlmutter,
+1949-08-31,,Politzer,male,Q107407,Hugh David Politzer,quantum chromodynamics
+1927-06-24,2014-09-30,Perl,male,Q107416,Martin Lewis Perl,
+1915-08-27,2011-11-04,Ramsey,male,Q107419,Norman Foster Ramsey,
+1932-12-05,,Glashow,male,Q107420,Sheldon Glashow,string theory
+1926-07-09,2022-05-13,Mottelson,male,Q107423,Ben Roy Mottelson,Nuclear Structure
+1951-05-15,,Wilczek,male,Q107450,Frank Wilczek,quantum chromodynamics
+1931-10-25,,Hasselmann,male,Q109370,Klaus Hasselmann,
+1944-09-11,,Haroche,male,Q109588,Serge Haroche,
+1960-09-11,,Amano,male,Q11443689,Hiroshi Amano,
+1959-03-09,,Kajita,male,Q11538917,Takaaki Kajita,
+1927-04-20,2023-01-09,Müller,male,Q122298,Karl Alexander Müller,superconductivity
+1905-10-23,1983-09-10,Bloch,male,Q123022,Felix Bloch,nuclear magnetic resonance
+1861-02-15,1938-06-13,Guillaume,male,Q123026,Charles Édouard Guillaume,
+1933-06-06,2013-05-16,Rohrer,male,Q123029,Heinrich Rohrer,
+1948-08-04,,Paris,male,Q1235614,Giorgio Parisi,
+1942-01-12,,Mayor,male,Q123975,Michel Mayor,
+1966-02-23,,Queloz,male,Q124013,Didier Queloz,
+1852-12-19,1931-05-09,,male,Q127234,Albert A. Michelson,
+1892-09-10,1962-03-15,Compton,male,Q127944,Arthur Holly Compton,Compton effect
+1915-02-05,1990-11-17,Hofstadter,male,Q130113,Robert Hofstadter,
+1868-03-22,1953-12-19,Millikan,male,Q130975,Robert A. Millikan,
+1837-11-23,1923-03-08,van der Waals,male,Q131721,Johannes Diderik van der Waals,"van der Waals equation, van der Waals radius"
+1890-03-31,1971-07-01,Bragg,male,Q131729,William Lawrence Bragg,X-ray diffraction
+1881-10-22,1958-02-01,Davisson,male,Q133222,Clinton Davisson,
+1845-08-16,1921-07-13,Lippmann,male,Q133232,Gabriel Lippmann,
+1908-01-22,1968-04-01,Landau,male,Q133267,Lev Landau,"Landau–Levich problem, Landau–Squire jet, Darrieus–Landau instability, Course of Theoretical Physics, Landau theory, Landau quantization, Landau–Yang theorem, Landau–Lifshitz model, Landau–Hopf theory of turbulence, Landau pole, Landau distribution, Landau–Pomeranchuk–Migdal effect, Landau–Zener formula, Landau–Lifshitz–Gilbert equation, Ginzburg–Landau–Abrikosov–Gor'kov theory, Landau damping"
+1862-07-02,1942-03-12,Bragg,male,Q133747,William Henry Bragg,X-ray diffraction
+1892-05-03,1975-09-10,Thomson,male,Q133846,George Paget Thomson,
+1870-09-30,1942-04-17,Perrin,male,Q134085,Jean Perrin,"Les Atomes, Œuvres scientifiques de Jean Perrin"
+1942-12-01,,Clauser,male,Q1365270,John Clauser,CHSH inequality
+1910-10-19,1995-08-21,Chandrasekhar,male,Q148109,Subrahmanyan Chandrasekhar,"Chandrasekhar–Fermi method, Chandrasekhar–Page equations, Batchelor–Chandrasekhar equation, Chandrasekhar–Wentzel lemma, Chandrasekhar-Kendall function, Chandrasekhar polarization, Chandrasekhar's X- and Y-function, Chandrasekhar's H-function, Chandrasekhar's white dwarf equation, Emden–Chandrasekhar equation, Chandrasekhar virial equations, Chandrasekhar potential energy tensor, dynamical friction, Chandrasekhar number, Schönberg–Chandrasekhar limit, Chandrasekhar limit"
+1932-11-06,,Englert,male,Q151746,François Englert,
+1924-08-01,2010-09-29,Charpak,male,Q153178,Georges Charpak,
+1892-09-06,1965-04-21,Appleton,male,Q153194,Edward Victor Appleton,
+1931-05-31,2019-07-27,,male,Q153201,John Robert Schrieffer,
+1921-05-25,2020-12-12,Steinberger,male,Q153210,Jack Steinberger,
+1938-03-07,,Fert,male,Q153219,Albert Fert,
+1895-07-08,1971-04-12,Tamm,male,Q155759,Igor Tamm,"Frank–Tamm formula, Cherenkov radiation"
+1926-09-19,2020-11-12,Koshiba,male,Q155773,Masatoshi Koshiba,
+1907-01-23,1981-09-08,"Yukawa, Ogawa",male,Q155777,Hideki Yukawa,"Yukawa potential, Yukawa interaction, pion"
+1904-11-22,2000-11-17,Néel,male,Q155781,Louis Néel,
+1900-06-05,1979-02-08,Gábor,male,Q155786,Dennis Gabor,
+1902-11-17,1995-01-01,Wigner,male,Q155790,Eugene Wigner,Wigner's theorem
+1906-07-02,2005-03-06,Bethe,male,Q155794,Hans Bethe,"Bethe strings, Mott–Bethe formula, Bethe–Feynman formula, ""Bethe-Tait"" accident, Bethe formula, Bethe ansatz, Bethe lattice, Bethe-Slater curve"
+1950-11-28,,Hulse,male,Q156286,Russell Alan Hulse,
+1936-01-27,,Barish,male,Q15900993,Barry C. Barish,Gravitaatioaalto
+1869-11-30,1937-12-09,Dalén,male,Q160518,Gustaf Dalén,
+1877-06-07,1944-10-23,,male,Q160522,Charles Glover Barkla,X-ray crystallography
+1869-02-14,1959-11-15,Wilson,male,Q162900,Charles Thomson Rees Wilson,
+1910-02-13,1989-08-12,,male,Q163415,William Shockley,
+1933-11-04,2018-09-23,"Kao, Gao",male,Q16389,Charles K. Kao,
+1898-07-29,1988-01-11,Rabi,male,Q165969,Isidor Isaac Rabi,
+1929-01-30,2021-04-01,Akasaki,male,Q1673706,Isamu Akasaki,
+1879-04-26,1959-02-15,Richardson,male,Q169330,Owen Willans Richardson,
+1905-09-03,1991-01-11,Anderson,male,Q169366,Carl David Anderson,
+1901-08-08,1958-08-27,Lawrence,male,Q169577,Ernest Lawrence,
+1943-06-22,,Kosterlitz,male,Q1700920,Michael Kosterlitz,
+1886-12-03,1978-09-24,Siegbahn,male,Q170741,Manne Siegbahn,X-ray spectroscopy
+1936-01-10,,Wilson,male,Q171034,Robert Wilson,
+1882-04-21,1961-08-20,Bridgman,male,Q172118,Percy Williams Bridgman,
+1948-02-28,,Zhu,male,Q172466,Steven Chu,
+1929-09-15,2019-05-24,Gell-Mann,male,Q172840,Murray Gell-Mann,
+1894-07-08,1984-04-08,Kapica,male,Q172844,Pyotr Kapitsa,
+1933-04-26,2024-01-22,Penzias,male,Q172877,Arno Allan Penzias,cosmic microwave background
+1905-02-01,1989-04-22,Segre,male,Q173028,Emilio G. Segrè,
+1914-10-14,2006-05-31,Davis,male,Q175519,Raymond Davis Jr.,
+1903-12-05,1969-08-09,Powell,male,Q178103,C. F. Powell,
+1911-06-13,1988-09-01,Alvarez,male,Q178344,Luis Walter Alvarez,
+1933-05-03,2021-07-23,Weinberg,male,Q179282,Steven Weinberg,
+1945-02-20,2025-09-18,Smoot,male,Q179572,George F. Smoot,
+1925-03-12,,Esaki,male,Q179852,Leo Esaki,
+1940-01-04,,Josephson,male,Q181363,Brian David Josephson,Josephson effect
+1922-10-01,2025-10-18,Yang,male,Q181369,Chen-ning Yang,
+1923-11-08,2005-06-20,Kilby,male,Q182031,Jack Kilby,
+1912-08-30,1997-03-07,Purcell,male,Q183270,Edward Mills Purcell,Electricity and Magnetism
+1930-03-15,2019-03-01,Alfyorov,male,Q183279,Zhores Alferov,
+1903-10-06,1995-06-25,Walton,male,Q183631,Ernest Walton,
+1920-07-10,2006-02-28,Chamberlain,male,Q183655,Owen Chamberlain,
+1926-11-24,2024-08-04,Li,male,Q183679,Tsung-Dao Lee,"Lee–Yang theorem, Lee–Yang theory, CUSPEA"
+1897-11-18,1974-07-13,Blackett,male,Q184499,Patrick Blackett,
+1906-03-31,1979-07-08,Tomonaga,male,Q184563,Shin'ichirō Tomonaga,"interaction picture, Luttinger liquid, Story of Spin, quantum electrodynamics"
+1915-07-28,2015-01-27,Townes,male,Q184566,Charles Hard Townes,maser
+1911-01-26,1993-03-20,Kusch,male,Q184571,Polykarp Kusch,
+1902-02-10,1987-10-13,Brattain,male,Q184577,Walter Houser Brattain,
+1946-07-05,,Hooft,male,Q184592,Gerard 't Hooft,
+1918-02-12,1994-07-16,Schwinger,male,Q186465,Julian Schwinger,"Schwinger effect, Schwinger variational principle, Schwinger limit, Schwinger's quantum action principle, Schwinger function, Schwinger parametrization, Schwinger boson, Schwinger–Dyson equation, KMS state, Schwinger model, Lippmann–Schwinger equation, Rarita–Schwinger equation"
+1931-10-06,2018-12-09,Giacconi,male,Q186481,Riccardo Giacconi,
+1913-07-12,2008-05-15,Lamb,male,Q186497,Willis Lamb,
+1934-03-31,,Rubbia,male,Q187199,Carlo Rubbia,
+1932-10-24,2007-05-18,Gennes,male,Q187224,Pierre-Gilles de Gennes,
+1930-03-28,,Friedman,male,Q187822,Jerome Isaac Friedman,
+1921-01-18,2015-07-05,Nanbu,male,Q188120,Yoichiro Nambu,
+1928-06-25,2017-03-29,Abrikosov,male,Q188128,Alexei Abrikosov,condensed matter physics
+1888-07-16,1966-03-10,Zernike,male,Q188293,Frits Zernike,phase contrast microscopy
+1905-09-30,1996-08-08,Mott,male,Q189485,Nevill Francis Mott,
+1932-11-02,2006-08-28,Schwartz,male,Q189741,Melvin Schwartz,
+1920-03-11,2017-09-05,Bloembergen,male,Q189987,Nicolaas Bloembergen,
+1924-05-11,2021-09-13,Hewish,male,Q189990,Antony Hewish,
+1950-11-01,,Laughlin,male,Q189997,Robert B. Laughlin,Effet Hall quantique
+1926-12-09,1999-02-15,Kendall,male,Q190495,Henry Way Kendall,
+1921-05-05,1999-04-28,Schawlow,male,Q190503,Arthur Leonard Schawlow,
+1933-04-01,,Cohen-Tannoudji,male,Q190697,Claude Cohen-Tannoudji,
+1917-12-09,1986-05-31,Rainwater,male,Q190745,James Rainwater,
+1948-11-05,,Phillips,male,Q190756,William Daniel Phillips,
+1918-09-27,1984-10-14,Ryle,male,Q190766,Martin Ryle,
+1923-12-13,2020-03-29,Anderson,male,Q190770,Philip W. Anderson,
+1918-03-16,1998-08-26,Reines,male,Q191922,Frederick Reines,neutrino
+1931-03-22,2018-07-18,Richter,male,Q192106,Burton Richter,
+1929-05-29,2024-04-08,Higgs,male,Q192112,Peter Higgs,Higgs boson
+1941-03-29,,Taylor,male,Q192685,Joseph Hooton Taylor,
+1929-04-05,2025-06-20,Giæver,male,Q192688,Ivar Giæver,solid-state physics
+1918-07-15,2003-10-13,Brockhouse,male,Q192689,Bertram Brockhouse,
+1922-07-15,2018-10-03,Lederman,male,Q192695,Leon M. Lederman,
+1908-10-23,1990-06-22,Frank,male,Q192703,Ilya Frank,
+1937-06-26,2013-02-19,Richardson,male,Q192708,Robert Coleman Richardson,
+1918-04-20,2007-07-20,Siegbahn,male,Q192712,Kai Siegbahn,
+1936-01-27,,Ting,male,Q192715,Samuel C. C. Ting,
+1938-03-26,,Leggett,male,Q192718,Anthony James Leggett,
+1931-09-29,2016-08-25,Cronin,male,Q193496,James Cronin,
+1936-06-08,2013-06-15,Wilson,male,Q193503,Kenneth G. Wilson,critical phenomena
+1899-03-13,1980-10-27,Vleck,male,Q193655,John Hasbrouck Van Vleck,
+1931-08-08,,Penrose,male,Q193803,Roger Penrose,"The Road to Reality, Diósi–Penrose model, Penrose–Lucas argument, Moore–Penrose inverse, Fashion, Faith, and Fantasy in the New Physics of the Universe, Newman–Penrose formalism, Shadows of the Mind, Penrose–Hawking singularity theorems, The Emperor's New Mind, Penrose diagram, The Nature of Space and Time, Riemannian Penrose inequality, Penrose transform, Penrose interpretation, Andromeda paradox, Cycles of Time, Terrell rotation, Penrose process, Penrose tiling, twistor theory, Penrose stairs, Penrose triangle"
+1967-02-24,,Schmidt,male,Q201452,Brian Schmidt,
+1929-11-02,2018-02-22,Taylor,male,Q201470,Richard E. Taylor,
+1915-09-23,2001-03-31,Shull,male,Q201506,Clifford Shull,
+1931-01-20,,Lee,male,Q201853,David Lee,
+1939-02-28,,Cui,male,Q202138,Daniel C. Tsui,
+1931-06-27,2021-01-04,Veltman,male,Q202149,Martinus J. G. Veltman,
+1944-04-07,,Kobayashi,male,Q202164,Makoto Kobayashi,
+1940-02-07,2021-07-23,Masukawa,male,Q202168,Toshihide Maskawa,
+1961-12-19,,Cornell,male,Q205954,Eric Allin Cornell,
+1951-03-26,,Wieman,male,Q206379,Carl Wieman,
+1934-08-21,,Hall,male,Q206390,John L. Hall,
+1945-08-01,,Osheroff,male,Q206405,Douglas Osheroff,
+1923-03-10,"2015-02-04, 2015-02-05",Fitch,male,Q206499,Val Logsdon Fitch,
+1932-09-29,2025-08-25,Weiss,male,Q2128461,Rainer Weiss,
+1953-03-05,,Devoret,male,Q26703310,Michel Devoret,
+1926-01-29,1996-11-21,Salam,male,Q28189,Abdus Salam,
+1958-01-01,,Martinis,male,Q28976188,John M. Martinis,
+1940-06-01,,Thorne,male,Q323320,Kip S. Thorne,
+1845-03-27,1923-02-10,Röntgen,male,Q35149,Wilhelm Röntgen,X-ray
+1874-04-25,1937-07-20,Marconi,male,Q36488,Guglielmo Marconi,
+1947-06-15,,Aspect,male,Q364997,Alain Aspect,
+1931-09-21,,Manabe,male,Q3675789,Syukuro Manabe,general circulation model
+1859-05-15,1906-04-19,Curie,male,Q37463,Pierre Curie,"radioactivity, piezoelectricity"
+1933-07-15,,Hopfield,male,Q391237,John Hopfield,
+1918-05-11,1988-02-15,Feynman,male,Q39246,Richard Feynman,"Feynman diagram, Feynman point, Hellmann–Feynman theorem, The Feynman Lectures on Physics, Feynman parametrization, The Character of Physical Law, Bethe–Feynman formula, Feynman checkerboard, reverse sprinkler, Feynman-Stueckelberg interpretation, Cargo Cult Science, Feynman–Kac formula, Feynman slash notation, “Surely You're Joking, Mr. Feynman!”, Wheeler–Feynman absorber theory"
+1941-02-19,,Gross,male,Q40262,David Gross,
+1901-12-05,1976-02-01,Heisenberg,male,Q40904,Werner Heisenberg,"uncertainty principle, Kramers–Heisenberg formula, Heisenberg group, isospin"
+1852-12-15,1908-08-25,Becquerel,male,Q41269,Henri Becquerel,natural radioactivity
+1853-07-18,1928-02-04,Lorentz,male,Q41688,Hendrik Lorentz,
+1929-01-31,2011-09-14,Mößbauer,male,Q44286,Rudolf Mössbauer,
+1911-08-09,1995-03-14,Fowler,male,Q46120,William Alfred Fowler,
+1856-12-18,1940-08-30,Thomson,male,Q47285,J. J. Thomson,plum pudding model
+1902-08-08,1984-10-20,,male,Q47480,Paul Dirac,"Kapitsa–Dirac effect, Dirac adjoint, reduced Planck constant, Dirac large numbers hypothesis, Dirac fermion, Abraham-Lorentz-Dirac force, Dirac bracket, Dirac sea, Dirac measure, Dirac spinor, Complete Fermi–Dirac integral, Dirac operator, Dirac comb, Dirac equation, Dirac delta function, Fermi–Dirac statistics"
+1965-06-16,,Ghez,female,Q493956,Andrea M. Ghez,
+1908-05-30,1995-04-02,Alfvén,male,Q54945,Hannes Alfvén,"The Great Computer. A Vision, The End of Man?"
+1942-02-10,,Clarke,male,Q555849,John Clarke,
+1944-06-22,,Mourou,male,Q556543,Gérard Mourou,
+1958-08-16,,"L'Huillier, Wahlström",female,Q565544,Anne L'Huillier,
+1959-05-27,,Strickland,female,Q56855591,Donna Strickland,
+1941-07-23,,Agostini,male,Q57020342,Pierre Agostini,
+1862-06-07,1947-05-20,"Lénárd, von Lenard",male,Q57063,Philipp Lenard,
+1882-08-26,1964-05-21,Franck,male,Q57066,James Franck,
+1879-10-09,1960-04-24,Laue,male,Q57067,Max von Laue,"X-ray, Laue equations"
+1864-01-13,1928-08-30,Wien,male,Q57068,Wilhelm Wien,black body
+1887-07-22,1975-10-30,Hertz,male,Q57070,Gustav Ludwig Hertz,Franck–Hertz experiment
+1888-02-17,1969-08-17,Stern,male,Q57072,Otto Stern,Stern–Gerlach experiment
+1850-06-06,1918-04-20,Braun,male,Q57077,Ferdinand Braun,
+1874-04-15,1957-06-21,Stark,male,Q57092,Johannes Stark,Stark effect
+1906-06-28,1972-02-20,"Goeppert, Göppert, Mayer",female,Q57100,Maria Goeppert Mayer,nuclear shell model
+1939-05-18,2018-04-07,Grünberg,male,Q57120,Peter Grünberg,
+1913-08-10,1993-12-07,Paul,male,Q57227,Wolfgang Paul,quadrupole ion trap
+1882-12-11,1970-01-05,Born,male,Q58978,Max Born,"probability amplitude, Born-Oppenheimer approximation"
+1888-11-07,1970-11-21,,male,Q60429,Chandrasekhara Venkata Raman,Raman scattering
+1944-02-24,,Wineland,male,Q61045,David J. Wineland,
+1853-09-21,1926-02-21,Kamerlingh Onnes,male,Q62891,Heike Kamerlingh Onnes,superconductivity
+1897-05-27,1967-09-18,Cockcroft,male,Q62897,John Cockcroft,
+1980-02-26,,Cooper,male,Q629583,Sheldon Cooper,
+1925-09-01,2018-12-26,Glauber,male,Q64188,Roy J. Glauber,
+1952-03-24,,Genzel,male,Q65807,Reinhard Genzel,
+1900-04-25,1958-12-15,Pauli,male,Q65989,Wolfgang Pauli,"Pauli exclusion principle, Pauli effect, Pauli group, Pauli–Villars regularization, Pauli matrices, Pauli equation, Pauli–Lubanski pseudovector"
+1922-09-09,2017-03-07,Dehmelt,male,Q70532,Hans Georg Dehmelt,
+1922-09-02,2020-09-21,Ashkin,male,Q708472,Arthur Ashkin,
+1885-10-07,1962-11-18,Bohr,male,Q7085,Niels Bohr,"Bohr model, correspondence principle"
+1941-10-30,,Hänsch,male,Q71013,Theodor W. Hänsch,
+1949-04-06,,Störmer,male,Q71015,Horst Ludwig Störmer,
+1928-08-25,2024-03-08,Kroemer,male,Q71016,Herbert Kroemer,
+1906-12-25,1988-05-27,Ruska,male,Q71022,Ernst Ruska,
+1902-05-03,1984-01-07,Kastler,male,Q71023,Alfred Kastler,"optical pumping, Nuclear acoustic resonance"
+1943-06-28,,von Klitzing,male,Q71024,Klaus von Klitzing,
+1943-08-29,,,male,Q710597,Arthur B. McDonald,
+1934-09-21,2019-04-06,Thouless,male,Q726394,David J. Thouless,
+1935-04-25,,Peebles,male,Q728331,Jim Peebles,
+1954-05-22,,Nakamura,male,Q730065,Shuji Nakamura,blue light-emitting diode
+1924-08-19,2011-05-07,Boyle,male,Q73058,Willard Boyle,
+1930-05-10,2025-05-28,Smith,male,Q76373,George E. Smith,
+1957-10-21,,Ketterle,male,Q76462,Wolfgang Ketterle,
+1891-01-08,1957-02-08,Bothe,male,Q76474,Walther Bothe,
+1950-05-16,,Bednorz,male,Q76687,Georg Bednorz,superconductivity
+1947-07-20,,Binnig,male,Q76766,Gerd Binnig,
+1907-06-25,1973-02-11,Jensen,male,Q76797,J. Hans D. Jensen,
+1904-07-28,1990-01-06,Cherenkov,male,Q76970,Pavel Cherenkov,
+1883-06-24,1964-12-17,Hess,male,Q78520,Victor Francis Hess,
+1945-05-20,,Zeilinger,male,Q78610,Anton Zeilinger,
+1865-05-25,1943-10-09,Zeeman,male,Q79000,Pieter Zeeman,Zeeman effect
+1891-10-20,1974-07-24,Chadwick,male,Q80884,James Chadwick,
+1926-09-21,2013-02-28,Glaser,male,Q80905,Donald Arthur Glaser,
+1930-02-28,2024-10-23,Cooper,male,Q82563,Leon Cooper,"Cooper pair, BCM theory, BCS theory"
+1842-11-12,1919-06-30,Strutt,male,Q83297,"John Strutt, 3rd Baron Rayleigh","Rayleigh wave, argon, Rayleigh scattering, Rayleigh–Bénard convection"
+1892-08-15,1987-03-19,de Broglie,male,Q83331,Louis de Broglie,matter wave
+1916-07-11,2002-01-08,Prokhorov,male,Q83552,Alexander Prokhorov,
+1922-12-14,2001-07-01,Basov,male,Q83557,Nikolay Basov,
+1962-05-17,,Krausz,male,Q86970,Ferenc Krausz,
+1901-09-29,1954-11-28,Fermi,male,Q8753,Enrico Fermi,"Fermi paradox, Fermi–Dirac statistics, Fermi–Pasta–Ulam–Tsingou problem, Fermi's golden rule, Fermi problem, Fermi contact interaction, Fermi's interaction, Thomas–Fermi model"
+1858-04-23,1947-10-04,Planck,male,Q9021,Max Planck,"Planck constant, Planck's law"
+1887-08-12,1961-01-04,Schrödinger,male,Q9130,Erwin Schrödinger,"Schrödinger's cat, Schrödinger equation"
+1947-12-06,,Hinton,male,Q92894,Geoffrey Hinton,
+1879-03-14,1955-04-18,Einstein,male,Q937,Albert Einstein,"quantum mechanics, general relativity, photoelectric effect, mass–energy equivalence, special relativity, Planck constant, theory of relativity, Einstein field equations, unified field theory, stimulated emission, theory of Brownian Motion"
+1908-05-23,1991-01-30,Bardeen,male,Q949,John Bardeen,

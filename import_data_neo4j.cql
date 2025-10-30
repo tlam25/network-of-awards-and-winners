@@ -1,9 +1,15 @@
+// --- Xóa toàn bộ dữ liệu cũ ---
 MATCH (n) DETACH DELETE n;
 
 // --- Import Person nodes ---
 LOAD CSV WITH HEADERS FROM 'file:///Person.csv' AS row
 MERGE (p:Person {name: row.name})
-SET p.id = row.id;
+SET p.id = row.id,
+    p.family_name = row.family_name,
+    p.gender = row.gender,
+    p.born_on_date = row.born_on_date,
+    p.died_on_date = row.died_on_date,
+    p.notable_work = row.notable_work;
 
 // --- Import Award nodes ---
 LOAD CSV WITH HEADERS FROM 'file:///Award.csv' AS row
@@ -16,7 +22,7 @@ MERGE (as:AwardStatement {name: row.name})
 SET as.year = row.year,
     as.motivation = row.motivation;
 
-// --- Import Country, Occupation, Field, Organization, MemberOrg ---
+// --- Import other entity nodes ---
 LOAD CSV WITH HEADERS FROM 'file:///Country.csv' AS row
 MERGE (:Country {name: row.name});
 
@@ -29,56 +35,61 @@ MERGE (:Field {name: row.name});
 LOAD CSV WITH HEADERS FROM 'file:///Organization.csv' AS row
 MERGE (:Organization {name: row.name});
 
-LOAD CSV WITH HEADERS FROM 'file:///MemberOrg.csv' AS row
-MERGE (:MemberOrg {name: row.name});
+LOAD CSV WITH HEADERS FROM 'file:///Position.csv' AS row
+MERGE (:Position {name: row.name});
 
 
 // --- Import relationships ---
 LOAD CSV WITH HEADERS FROM 'file:///Relations.csv' AS row
-CALL (row) {
-  // Person -[RECEIVED]-> AwardStatement
+CALL {
   WITH row
+  // Person -[RECEIVED]-> AwardStatement
   WHERE row.relation = 'RECEIVED'
   MATCH (p:Person {name: row.start_id})
   MATCH (a:AwardStatement {name: row.end_name})
   MERGE (p)-[:RECEIVED]->(a)
   RETURN 0 AS dummy
+
   UNION
 
-  // AwardStatement -[INSTANCE_OF]-> Award
+  // AwardStatement -[IS_INSTANCE_OF]-> Award
   WITH row
-  WHERE row.relation = 'INSTANCE_OF'
+  WHERE row.relation = 'IS_INSTANCE_OF'
   MATCH (as:AwardStatement {name: row.start_id})
   MATCH (a:Award {name: row.end_name})
-  MERGE (as)-[:INSTANCE_OF]->(a)
+  MERGE (as)-[:IS_INSTANCE_OF]->(a)
   RETURN 0 AS dummy
+
   UNION
 
-  // Person -[CITIZEN_OF]-> Country
+  // Person -[IS_CITIZEN_OF]-> Country
   WITH row
-  WHERE row.relation = 'CITIZEN_OF'
+  WHERE row.relation = 'IS_CITIZEN_OF'
   MATCH (p:Person {name: row.start_id})
   MATCH (c:Country {name: row.end_name})
-  MERGE (p)-[:CITIZEN_OF]->(c)
+  MERGE (p)-[:IS_CITIZEN_OF]->(c)
   RETURN 0 AS dummy
+
   UNION
 
-  // Person -[OCCUPATION]-> Occupation
+  // Person -[WORKS_AS]-> Occupation
   WITH row
-  WHERE row.relation = 'OCCUPATION'
+  WHERE row.relation = 'WORKS_AS'
   MATCH (p:Person {name: row.start_id})
   MATCH (o:Occupation {name: row.end_name})
-  MERGE (p)-[:OCCUPATION]->(o)
+  MERGE (p)-[:WORKS_AS]->(o)
   RETURN 0 AS dummy
+
   UNION
 
-  // Person -[FIELD_OF_WORK]-> Field
+  // Person -[WORKS_IN_FIELD]-> Field
   WITH row
-  WHERE row.relation = 'FIELD_OF_WORK'
+  WHERE row.relation = 'WORKS_IN_FIELD'
   MATCH (p:Person {name: row.start_id})
   MATCH (f:Field {name: row.end_name})
-  MERGE (p)-[:FIELD_OF_WORK]->(f)
+  MERGE (p)-[:WORKS_IN_FIELD]->(f)
   RETURN 0 AS dummy
+
   UNION
 
   // Person -[EDUCATED_AT]-> Organization
@@ -88,23 +99,35 @@ CALL (row) {
   MATCH (org:Organization {name: row.end_name})
   MERGE (p)-[:EDUCATED_AT]->(org)
   RETURN 0 AS dummy
+
   UNION
 
-  // Person -[EMPLOYED_AT]-> Organization
+  // Person -[EMPLOYED_BY]-> Organization
   WITH row
-  WHERE row.relation = 'EMPLOYED_AT'
+  WHERE row.relation = 'EMPLOYED_BY'
   MATCH (p:Person {name: row.start_id})
   MATCH (org:Organization {name: row.end_name})
-  MERGE (p)-[:EMPLOYED_AT]->(org)
+  MERGE (p)-[:EMPLOYED_BY]->(org)
   RETURN 0 AS dummy
+
   UNION
 
-  // Person -[MEMBER_OF]-> MemberOrg
+  // Person -[IS_MEMBER_OF]-> Organization
   WITH row
-  WHERE row.relation = 'MEMBER_OF'
+  WHERE row.relation = 'IS_MEMBER_OF'
   MATCH (p:Person {name: row.start_id})
-  MATCH (m:MemberOrg {name: row.end_name})
-  MERGE (p)-[:MEMBER_OF]->(m)
+  MATCH (m:Organization {name: row.end_name})
+  MERGE (p)-[:IS_MEMBER_OF]->(m)
+  RETURN 0 AS dummy
+
+  UNION
+
+  // Person -[HOLDS_POSITION]-> Position
+  WITH row
+  WHERE row.relation = 'HOLDS_POSITION'
+  MATCH (p:Person {name: row.start_id})
+  MATCH (pos:Position {name: row.end_name})
+  MERGE (p)-[:HOLDS_POSITION]->(pos)
   RETURN 0 AS dummy
 }
 RETURN count(*) AS imported;
