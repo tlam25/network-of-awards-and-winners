@@ -1,0 +1,88 @@
+================================================================================
+GRAPH RANKING RESULTS
+Generated: 2025-12-03 12:31:41
+================================================================================
+
+Graph: 1022 nodes, 277924 edges
+Top N: 20
+
+================================================================================
+TOP PAGERANK
+================================================================================
+Measures importance based on quality of connections.
+Higher score = more influential in the network.
+
+  1. Q937                 Albert Einstein                          0.002345
+  2. Q103835              Peter Debye                              0.002157
+  3. Q57066               James Franck                             0.002116
+  4. Q48973               Glenn T. Seaborg                         0.002058
+  5. Q127234              Albert A. Michelson                      0.002027
+  6. Q7085                Niels Bohr                               0.002017
+  7. Q9123                Ernest Rutherford                        0.002014
+  8. Q9021                Max Planck                               0.002012
+  9. Q179777              Harold Urey                              0.002005
+ 10. Q273279              Roald Hoffmann                           0.002003
+ 11. Q184566              Charles Hard Townes                      0.001986
+ 12. Q213504              Charles Scott Sherrington                0.001978
+ 13. Q48983               Linus Pauling                            0.001941
+ 14. Q107690              Jean-Marie Lehn                          0.001901
+ 15. Q57067               Max von Laue                             0.001890
+ 16. Q18430               Joseph E. Stiglitz                       0.001878
+ 17. Q130975              Robert A. Millikan                       0.001874
+ 18. Q179282              Steven Weinberg                          0.001869
+ 19. Q172840              Murray Gell-Mann                         0.001865
+ 20. Q58978               Max Born                                 0.001865
+
+================================================================================
+TOP DEGREE CENTRALITY
+================================================================================
+Measures number of direct connections.
+Higher score = more connections to other nodes.
+
+  1. Q937                 Albert Einstein                          0.815867
+  2. Q213504              Charles Scott Sherrington                0.806072
+  3. Q273279              Roald Hoffmann                           0.801175
+  4. Q103835              Peter Debye                              0.796278
+  5. Q57066               James Franck                             0.796278
+  6. Q127234              Albert A. Michelson                      0.791381
+  7. Q71013               Theodor W. Hänsch                        0.789422
+  8. Q58978               Max Born                                 0.788443
+  9. Q48973               Glenn T. Seaborg                         0.786484
+ 10. Q60108               Günter Blobel                            0.786484
+ 11. Q184286              Irving Langmuir                          0.785504
+ 12. Q77104               Fritz Albert Lipmann                     0.785504
+ 13. Q233957              Severo Ochoa                             0.784525
+ 14. Q76807               Max Delbrück                             0.784525
+ 15. Q83598               Hermann Joseph Muller                    0.784525
+ 16. Q376243              Fraser Stoddart                          0.783546
+ 17. Q48983               Linus Pauling                            0.783546
+ 18. Q155529              Eric Kandel                              0.783546
+ 19. Q271421              Torsten Nils Wiesel                      0.782566
+ 20. Q192718              Anthony James Leggett                    0.782566
+
+================================================================================
+TOP BETWEENNESS CENTRALITY
+================================================================================
+Measures bridging role between communities.
+Higher score = more paths pass through this node.
+
+  1. Q187052              Human Rights Watch                       0.011191
+  2. Q244395              Seán MacBride                            0.008339
+  3. Q34670               Albert Camus                             0.006815
+  4. Q376364              Philippe Aghion                          0.006517
+  5. Q49325               Albert Schweitzer                        0.006229
+  6. Q34743               Rudyard Kipling                          0.006146
+  7. Q7176                Naguib Mahfouz                           0.006142
+  8. Q9364                Jean-Paul Sartre                         0.005984
+  9. Q37327               Samuel Beckett                           0.005933
+ 10. Q1187542             Denis Mukwege                            0.005926
+ 11. Q42552               Wisława Szymborska                       0.005861
+ 12. Q42747               Heinrich Böll                            0.005654
+ 13. Q2514                Willy Brandt                             0.005606
+ 14. Q272855              Kazuo Ishiguro                           0.005459
+ 15. Q131549              Claude Simon                             0.005422
+ 16. Q34189               Pablo Neruda                             0.005376
+ 17. Q107037              Leymah Roberta Gbowee                    0.005114
+ 18. Q153178              Georges Charpak                          0.005095
+ 19. Q82248               John Galsworthy                          0.005054
+ 20. Q211239              Jody Williams                            0.004975

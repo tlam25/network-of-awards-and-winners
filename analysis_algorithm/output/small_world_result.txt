@@ -1,0 +1,34 @@
+================================================================================
+SMALL-WORLD ANALYSIS RESULTS
+Generated: 2025-12-03 11:46:42
+================================================================================
+
+Full graph: 1022 nodes, 277924 edges
+Largest connected component: 999 nodes, 277924 edges
+
+================================================================================
+NETWORK METRICS
+================================================================================
+
+Average shortest path length: 1.4959
+  → Measures how many steps it takes to go from one node to another
+  → Lower value = more tightly connected network
+
+Average clustering coefficient: 0.8582
+  → Measures how much nodes tend to cluster together
+  → Higher value = more local communities/triangles
+
+================================================================================
+RANDOM GRAPH COMPARISON
+================================================================================
+
+Random graph (same n=999, m=277924):
+  Average shortest path: 1.4425
+  Average clustering: 0.5575
+
+================================================================================
+COMPARISON RATIOS
+================================================================================
+
+Path length ratio (network/random): 1.04
+Clustering ratio (network/random): 1.54

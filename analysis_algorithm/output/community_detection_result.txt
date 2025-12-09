@@ -1,0 +1,1580 @@
+================================================================================
+LOUVAIN COMMUNITY DETECTION RESULTS
+Generated: 2025-12-03 12:30:02
+================================================================================
+
+Graph: 1022 nodes, 277924 edges
+Detected 28 communities
+Modularity: 0.1236
+
+Top 10 communities (by size):
+  Community 2: 546 nodes
+  Community 0: 439 nodes
+  Community 8: 9 nodes
+  Community 6: 3 nodes
+  Community 4: 2 nodes
+  Community 5: 1 nodes
+  Community 7: 1 nodes
+  Community 9: 1 nodes
+  Community 11: 1 nodes
+  Community 12: 1 nodes
+
+================================================================================
+DETAILED COMMUNITY INFORMATION
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 2 (546 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q102291              - Francis William Aston
+    2. Q102419              - Derek Barton
+    3. Q102804              - Henri Moissan
+    4. Q102822              - Jacobus Henricus van 't Hoff
+    5. Q102830              - Frederick Soddy
+    6. Q103835              - Peter Debye
+    7. Q104575              - Paul Sabatier
+    8. Q104582              - Victor Grignard
+    9. Q105572              - Benjamin List
+   10. Q105949              - Akira Suzuki
+   11. Q106624              - Ahmed Zewail
+   12. Q106762              - George Porter
+   13. Q107690              - Jean-Marie Lehn
+   14. Q110916              - Hideki Shirakawa
+   15. Q110942              - Alan MacDiarmid
+   16. Q110957              - Kurt Wüthrich
+   17. Q110963              - Koichi Tanaka
+   18. Q11401680            - Susumu Kitagawa
+   19. Q122272              - Richard R. Ernst
+   20. Q122996              - Leopold Ružička
+   21. Q123014              - Alfred Werner
+   22. Q12658               - Wilhelm Ostwald
+   23. Q135139              - Paul Josef Crutzen
+   24. Q135154              - John Cornforth
+   25. Q150989              - Frédéric Joliot-Curie
+   26. Q151564              - Frederick Sanger
+   27. Q1545000             - Greg Winter
+   28. Q157210              - Ryōji Noyori
+   29. Q157212              - Odd Hassel
+   30. Q157239              - Artturi Ilmari Virtanen
+   31. Q157242              - Alexander R. Todd, Baron Todd
+   32. Q157250              - Harry Kroto
+   33. Q157701              - Jaroslav Heyrovský
+   34. Q1678456             - Richard Henderson
+   35. Q1687170             - Jens Christian Skou
+   36. Q17280087            - Emmanuelle Charpentier
+   37. Q183509              - Ilya Prigogine
+   38. Q184286              - Irving Langmuir
+   39. Q186391              - Theodor Svedberg
+   40. Q1886068             - Tomas Lindahl
+   41. Q189803              - Arthur Harden
+   42. Q190626              - Aaron Klug
+   43. Q202146              - Yves Chauvin
+   44. Q204600              - Norman Haworth
+   45. Q205345              - Osamu Shimomura
+   46. Q207992              - Peter D. Mitchell
+   47. Q217734              - Kenichi Fukui
+   48. Q23073819            - Richard Robson
+   49. Q232289              - Michael Smith
+   50. Q232295              - John Kendrew
+   51. Q233026              - Arne Tiselius
+   52. Q233205              - Aaron Ciechanover
+   53. Q233973              - John Pople
+   54. Q233985              - Luis Federico Leloir
+   55. Q234145              - Giulio Natta
+   56. Q235184              - John E. Walker
+   57. Q235834              - Ronald George Wreyford Norrish
+   58. Q237825              - John Polanyi
+   59. Q273279              - Roald Hoffmann
+   60. Q274128              - Geoffrey Wilkinson
+   61. Q285062              - M. Stanley Whittingham
+   62. Q3022141             - Demis Hassabis
+   63. Q3169751             - Jean-Pierre Sauvage
+   64. Q3259614             - Ben Feringa
+   65. Q376243              - Fraser Stoddart
+   66. Q41585344            - Jacques Dubochet
+   67. Q43917               - Eduard Buchner
+   68. Q44594               - Ernst Otto Fischer
+   69. Q4701206             - Akira Yoshino
+   70. Q48956               - Hermann Staudinger
+   71. Q48973               - Glenn T. Seaborg
+   72. Q48977               - Archer John Porter Martin
+   73. Q48979               - Richard Laurence Millington Synge
+   74. Q48983               - Linus Pauling
+   75. Q48986               - Cyril Norman Hinshelwood
+   76. Q48990               - Nikolay Semyonov
+   77. Q49351               - Robert Robinson
+   78. Q5327                - Adolf Butenandt
+   79. Q57065               - Otto Hahn
+   80. Q57075               - Fritz Haber
+   81. Q57078               - Adolf von Baeyer
+   82. Q57125               - Walther Nernst
+   83. Q57127               - Otto Wallach
+   84. Q60061               - Venkatraman Ramakrishnan
+   85. Q60066               - Gerhard Ertl
+   86. Q6832227             - Michael Levitt
+   87. Q6914509             - Morten P. Meldal
+   88. Q70554               - Emil Fischer
+   89. Q7186                - Marie Curie
+   90. Q73093               - Paul Karrer
+   91. Q7426                - Ada Yonath
+   92. Q7487                - Dorothy Hodgkin
+   93. Q7504                - Irène Joliot-Curie
+   94. Q76595               - Kurt Alder
+   95. Q76600               - Manfred Eigen
+   96. Q76602               - Gerhard Herzberg
+   97. Q76604               - Hans Fischer
+   98. Q76606               - Carl Bosch
+   99. Q76610               - Heinrich Wieland
+  100. Q76613               - Hans von Euler-Chelpin
+  101. Q76614               - Friedrich Bergius
+  102. Q76616               - Otto Diels
+  103. Q76623               - Robert Huber
+  104. Q76624               - Karl Ziegler
+  105. Q76951               - George de Hevesy
+  106. Q77072               - Richard Willstätter
+  107. Q77086               - Hartmut Michel
+  108. Q77142               - Adolf Windaus
+  109. Q77171               - Georg Wittig
+  110. Q78480               - Max Perutz
+  111. Q78481               - Richard Adolf Zsigmondy
+  112. Q78482               - Fritz Pregl
+  113. Q78483               - Richard Kuhn
+  114. Q80956               - Svante August Arrhenius
+  115. Q83501               - Vladimir Prelog
+  116. Q9123                - Ernest Rutherford
+  117. Q91410               - Stefan Hell
+  118. Q950726              - William Ramsay
+  119. Q105962              - Maurice Allais
+  120. Q107441              - Leonid Kantorovich
+  121. Q109582              - Christophoros A. Pissarides
+  122. Q12830               - Reinhard Selten
+  123. Q1325                - Friedrich Hayek
+  124. Q152452              - Gunnar Myrdal
+  125. Q176643              - James Mirrlees
+  126. Q179493              - Bertil Ohlin
+  127. Q184862              - John Richard Hicks
+  128. Q187988              - Ragnar Frisch
+  129. Q188113              - Ronald Coase
+  130. Q219733              - Richard Stone
+  131. Q235843              - James Meade
+  132. Q272519              - Arthur Lewis
+  133. Q312575              - Clive Granger
+  134. Q102483              - Jaroslav Seifert
+  135. Q1153825             - Annie Ernaux
+  136. Q121180              - Władysław Reymont
+  137. Q127349              - José Echegaray
+  138. Q129155              - Roger Martin du Gard
+  139. Q129173              - Verner von Heidenstam
+  140. Q129187              - Patrick White
+  141. Q131318              - Juan Ramón Jiménez
+  142. Q131326              - Eyvind Johnson
+  143. Q131487              - Karl Adolph Gjellerup
+  144. Q131549              - Claude Simon
+  145. Q132589              - Camilo José Cela
+  146. Q132695              - Harry Martinson
+  147. Q132701              - Derek Walcott
+  148. Q132723              - Frans Eemil Sillanpää
+  149. Q133042              - Shmuel Yosef Agnon
+  150. Q134641              - Erik Axel Karlfeldt
+  151. Q134644              - Vicente Aleixandre
+  152. Q1403                - Luigi Pirandello
+  153. Q159552              - Johannes V. Jensen
+  154. Q18143               - Gao Xingjian
+  155. Q19185               - George Bernard Shaw
+  156. Q222944              - Patrick Modiano
+  157. Q225554              - Henrik Pontoppidan
+  158. Q226525              - Carl Spitteler
+  159. Q25351               - Theodor Mommsen
+  160. Q254032              - Olga Tokarczuk
+  161. Q25973               - Hermann Hesse
+  162. Q272855              - Kazuo Ishiguro
+  163. Q274334              - Svetlana Alexievich
+  164. Q317877              - Abdulrazak Gurnah
+  165. Q33760               - Bertrand Russell
+  166. Q34474               - Aleksandr Solzhenitsyn
+  167. Q34670               - Albert Camus
+  168. Q34743               - Rudyard Kipling
+  169. Q37060               - José Saramago
+  170. Q37327               - Samuel Beckett
+  171. Q38049               - Herta Müller
+  172. Q40213               - William Butler Yeats
+  173. Q40826               - Knut Hamsun
+  174. Q40874               - Doris Lessing
+  175. Q41042               - Harold Pinter
+  176. Q41223               - Boris Pasternak
+  177. Q41502               - Henryk Sienkiewicz
+  178. Q42037               - Jean-Marie Gustave Le Clézio
+  179. Q42122               - Tomas Tranströmer
+  180. Q42156               - Henri Bergson
+  181. Q42247               - Sully Prudhomme
+  182. Q42398               - Mikhail Sholokhov
+  183. Q42443               - Anatole France
+  184. Q42596               - Frédéric Mistral
+  185. Q42747               - Heinrich Böll
+  186. Q43440               - Giosuè Carducci
+  187. Q43523               - Gerhart Hauptmann
+  188. Q43736               - Yasunari Kawabata
+  189. Q44107               - Peter Handke
+  190. Q44183               - William Golding
+  191. Q443868              - Jon Fosse
+  192. Q44519               - Selma Lagerlöf
+  193. Q44593               - V. S. Naipaul
+  194. Q46405               - Bjørnstjerne Bjørnson
+  195. Q46602               - Ivan Bunin
+  196. Q47162               - Romain Rolland
+  197. Q47243               - Elfriede Jelinek
+  198. Q47484               - André Gide
+  199. Q47561               - Ivo Andrić
+  200. Q47695               - Rudolf Christoph Eucken
+  201. Q47755               - Imre Kertész
+  202. Q49747               - Maurice Maeterlinck
+  203. Q512062              - László Krasznahorkai
+  204. Q5646626             - Han Kang
+  205. Q57074               - Nelly Sachs
+  206. Q5878                - Gabriel García Márquez
+  207. Q6538                - Günter Grass
+  208. Q7241                - Rabindranath Tagore
+  209. Q75603               - Miguel Ángel Asturias
+  210. Q76487               - Paul Heyse
+  211. Q7728                - Grazia Deledda
+  212. Q80064               - Elias Canetti
+  213. Q8016                - Winston Churchill
+  214. Q80889               - Sigrid Undset
+  215. Q81685               - François Mauriac
+  216. Q82248               - John Galsworthy
+  217. Q83174               - Eugenio Montale
+  218. Q83184               - Jacinto Benavente
+  219. Q93137               - Pär Lagerkvist
+  220. Q9364                - Jean-Paul Sartre
+  221. Q102034              - Ronald Ross
+  222. Q103598              - Luc Montagnier
+  223. Q103844              - Françoise Barré-Sinoussi.
+  224. Q104607              - Andrew Huxley
+  225. Q104913              - Robert Edwards
+  226. Q105605              - Jules Hoffmann
+  227. Q107462              - Har Gobind Khorana
+  228. Q107609              - Christiaan Eijkman
+  229. Q110974              - James Black
+  230. Q115448              - Daniel Bovet
+  231. Q115470              - Walter Rudolf Hess
+  232. Q115475              - Paul Hermann Müller
+  233. Q115478              - Emil Theodor Kocher
+  234. Q115490              - Tadeusz Reichstein
+  235. Q115495              - Werner Arber
+  236. Q116064              - Rolf M. Zinkernagel
+  237. Q123280              - Francis Crick
+  238. Q137106              - Howard Florey
+  239. Q150526              - Santiago Ramón y Cajal
+  240. Q150630              - Camillo Golgi
+  241. Q152187              - August Krogh
+  242. Q152760              - Jean Dausset
+  243. Q153890              - Niko Tinbergen
+  244. Q155375              - Archibald Hill
+  245. Q155525              - César Milstein
+  246. Q156480              - Hugo Theorell
+  247. Q156482              - Corneille Heymans
+  248. Q1701279             - John O'Keefe
+  249. Q170342              - Svante Pääbo
+  250. Q172254              - Élie Metchnikoff
+  251. Q17502433            - Shimon Sakaguchi
+  252. Q177681              - Thomas Hunt Morgan
+  253. Q180350              - Frederick Banting
+  254. Q180468              - Albert Szent-Györgyi
+  255. Q182964              - Niels Ryberg Finsen
+  256. Q184659              - Maurice Wilkins
+  257. Q185007              - Rita Levi-Montalcini
+  258. Q185777              - Alexis Carrel
+  259. Q189006              - Charles Louis Alphonse Laveran
+  260. Q189488              - Willem Einthoven
+  261. Q190501              - Henrik Dam
+  262. Q192651              - Allvar Gullstrand
+  263. Q1927895             - Michael Houghton
+  264. Q193550              - Frank Macfarlane Burnet
+  265. Q193650              - Alan Lloyd Hodgkin
+  266. Q202136              - Barry Marshall
+  267. Q2075967             - Peter J. Ratcliffe
+  268. Q207719              - Martin Evans
+  269. Q208670              - Robin Warren
+  270. Q21061207            - Satoshi Ōmura
+  271. Q211787              - Jules Bordet
+  272. Q213504              - Charles Scott Sherrington
+  273. Q214209              - Peter Medawar
+  274. Q214851              - Charles Richet
+  275. Q216318              - Oliver Smithies
+  276. Q216324              - Johannes Fibiger
+  277. Q217722              - Ragnar Granit
+  278. Q218311              - François Jacob
+  279. Q219716              - Paul Nurse
+  280. Q223309              - André Lwoff
+  281. Q231292              - Edgar Douglas Adrian
+  282. Q231402              - Jacques Monod
+  283. Q232024              - John James Rickard Macleod
+  284. Q233957              - Severo Ochoa
+  285. Q233965              - Charles Nicolle
+  286. Q233976              - Frederick Hopkins
+  287. Q234463              - Sydney Brenner
+  288. Q234590              - Christian de Duve
+  289. Q237142              - Ulf von Euler
+  290. Q237160              - Bernardo Houssay
+  291. Q2395341             - Tasuku Honjo
+  292. Q243601              - Peter Mansfield
+  293. Q271532              - John Sulston
+  294. Q273219              - António Egas Moniz
+  295. Q273223              - John Eccles
+  296. Q273769              - Godfrey Hounsfield
+  297. Q295696              - Sune Bergström
+  298. Q295700              - Rodney Robert Porter
+  299. Q295768              - Bengt I. Samuelsson
+  300. Q298045              - Arvid Carlsson
+  301. Q309814              - Peter C. Doherty
+  302. Q309816              - Richard Roberts
+  303. Q309876              - Niels Kaj Jerne
+  304. Q309971              - John Vane
+  305. Q309977              - Tim Hunt
+  306. Q37064               - Alexander Fleming
+  307. Q37193               - Robert Koch
+  308. Q42985               - Ivan Pavlov
+  309. Q44597               - Feodor Felix Konrad Lynen
+  310. Q4517                - Bernard Katz
+  311. Q5341373             - Edvard Moser
+  312. Q57089               - Paul Ehrlich
+  313. Q57128               - Albrecht Kossel
+  314. Q57132               - Otto Fritz Meyerhof
+  315. Q57191               - Hans Krebs
+  316. Q57192               - Gerhard Domagk
+  317. Q57568               - Hans Spemann
+  318. Q58054               - Ernst Chain
+  319. Q60060               - Karl von Frisch
+  320. Q60108               - Günter Blobel
+  321. Q6796222             - May-Britt Moser
+  322. Q72194               - Henry Hallett Dale
+  323. Q75847               - Harald zur Hausen
+  324. Q76425               - Emil von Behring
+  325. Q76464               - Otto Heinrich Warburg
+  326. Q76807               - Max Delbrück
+  327. Q77081               - Bert Sakmann
+  328. Q77104               - Fritz Albert Lipmann
+  329. Q77126               - Erwin Neher
+  330. Q77152               - Werner Forssmann
+  331. Q77160               - Georges J. F. Köhler
+  332. Q77173               - Otto Loewi
+  333. Q77174               - Christiane Nüsslein-Volhard
+  334. Q78478               - Robert Bárány
+  335. Q78479               - Julius Wagner-Jauregg
+  336. Q78496               - Konrad Lorenz
+  337. Q8056214             - Yoshinori Ohsumi
+  338. Q80917               - Shinya Yamanaka
+  339. Q81218               - John Gurdon
+  340. Q83333               - James D. Watson
+  341. Q83598               - Hermann Joseph Muller
+  342. Q84405               - Karl Landsteiner
+  343. Q103955              - Gustav Stresemann
+  344. Q104622              - Tawakkol Karman
+  345. Q115095              - Institut de Droit International
+  346. Q118263              - Ales Bialiatski
+  347. Q12086               - Ernesto Teodoro Moneta
+  348. Q12091               - Henry Dunant
+  349. Q122368              - Élie Ducommun
+  350. Q1267                - Dag Hammarskjöld
+  351. Q12702               - Robert Cecil
+  352. Q130873              - Menachem Begin
+  353. Q131152              - Shirin Ebadi
+  354. Q133308              - Mohamed ElBaradei
+  355. Q152437              - Alva Myrdal
+  356. Q155415              - Léon Jouhaux
+  357. Q157655              - Mairead Maguire
+  358. Q157690              - Betty Williams
+  359. Q158850              - Dominique Pire
+  360. Q159723              - Nathan Söderblom
+  361. Q179458              - Charles Albert Gobat
+  362. Q179871              - Eisaku Satō
+  363. Q179888              - Aristide Briand
+  364. Q180409              - Frédéric Passy
+  365. Q1823418             - Dmitri Muratov
+  366. Q18456               - Bertha von Suttner
+  367. Q188620              - Rigoberta Menchú
+  368. Q188999              - Austen Chamberlain
+  369. Q189841              - Randal Cremer
+  370. Q190894              - Henri La Fontaine
+  371. Q191016              - Fredrik Bajer
+  372. Q192556              - David Trimble
+  373. Q192618              - Klas Pontus Arnoldson
+  374. Q193630              - John Hume
+  375. Q193672              - Carlos Saavedra Lamas
+  376. Q202049              - Auguste Beernaert
+  377. Q203843              - Alfonso García Robles
+  378. Q206446              - Christian Lous Lange
+  379. Q206505              - Adolfo Pérez Esquivel
+  380. Q208665              - Arthur Henderson
+  381. Q211856              - Philip Noel-Baker, Baron Noel-Baker
+  382. Q212955              - Albert John Mvumbi Luthuli
+  383. Q216872              - Tobias Asser
+  384. Q217706              - Léon Bourgeois
+  385. Q219982              - Joseph Rotblat
+  386. Q22007112            - Nadia Murad Basee
+  387. Q230814              - Louis Renault
+  388. Q232873              - René Cassin
+  389. Q233969              - Le Duc Tho
+  390. Q238731              - Paul-Henri-Benjamin d'Estournelles de Constant
+  391. Q244395              - Seán MacBride
+  392. Q2514                - Willy Brandt
+  393. Q272224              - Norman Angell
+  394. Q273607              - Ferdinand Buisson
+  395. Q29230               - Martti Ahtisaari
+  396. Q30487               - Mikhail Gorbachev
+  397. Q30547               - Mother Teresa
+  398. Q315143              - John Boyd Orr
+  399. Q32732               - Malala Yousafzai
+  400. Q34211               - Yasser Arafat
+  401. Q3442375             - Kailash Satyarthi
+  402. Q36740               - Aung San Suu Kyi
+  403. Q42013               - Anwar Sadat
+  404. Q43033               - Desmond Tutu
+  405. Q444                 - Lech Wałęsa
+  406. Q45785               - Kim Dae-jung
+  407. Q46795               - Wangari Muta Maathai
+  408. Q49325               - Albert Schweitzer
+  409. Q4967771             - Narges Mohammadi
+  410. Q53620               - Hjalmar Branting
+  411. Q57311               - Juan Manuel Santos
+  412. Q72292               - Fridtjof Nansen
+  413. Q76358               - Carl von Ossietzky
+  414. Q76696               - Ludwig Quidde
+  415. Q78488               - Alfred Hermann Fried
+  416. Q8023                - Nelson Mandela
+  417. Q997                 - Andrei Sakharov
+  418. Q1002250             - Duncan Haldane
+  419. Q103854              - Aage Bohr
+  420. Q104104              - Andre Geim
+  421. Q104668              - Vitaly Ginzburg
+  422. Q104779              - Simon van der Meer
+  423. Q106494              - Konstantin Novoselov
+  424. Q109370              - Klaus Hasselmann
+  425. Q109588              - Serge Haroche
+  426. Q11443689            - Hiroshi Amano
+  427. Q11538917            - Takaaki Kajita
+  428. Q122298              - Karl Alexander Müller
+  429. Q123026              - Charles Édouard Guillaume
+  430. Q123029              - Heinrich Rohrer
+  431. Q1235614             - Giorgio Parisi
+  432. Q123975              - Michel Mayor
+  433. Q124013              - Didier Queloz
+  434. Q127234              - Albert A. Michelson
+  435. Q130975              - Robert A. Millikan
+  436. Q131721              - Johannes Diderik van der Waals
+  437. Q131729              - William Lawrence Bragg
+  438. Q133232              - Gabriel Lippmann
+  439. Q133267              - Lev Landau
+  440. Q133747              - William Henry Bragg
+  441. Q133846              - George Paget Thomson
+  442. Q134085              - Jean Perrin
+  443. Q148109              - Subrahmanyan Chandrasekhar
+  444. Q151746              - François Englert
+  445. Q153178              - Georges Charpak
+  446. Q153194              - Edward Victor Appleton
+  447. Q153219              - Albert Fert
+  448. Q155759              - Igor Tamm
+  449. Q155773              - Masatoshi Koshiba
+  450. Q155777              - Hideki Yukawa
+  451. Q155781              - Louis Néel
+  452. Q155786              - Dennis Gabor
+  453. Q155794              - Hans Bethe
+  454. Q160518              - Gustaf Dalén
+  455. Q160522              - Charles Glover Barkla
+  456. Q162900              - Charles Thomson Rees Wilson
+  457. Q16389               - Charles K. Kao
+  458. Q1673706             - Isamu Akasaki
+  459. Q169330              - Owen Willans Richardson
+  460. Q170741              - Manne Siegbahn
+  461. Q172844              - Pyotr Kapitsa
+  462. Q178103              - C. F. Powell
+  463. Q179852              - Leo Esaki
+  464. Q181363              - Brian David Josephson
+  465. Q183279              - Zhores Alferov
+  466. Q183631              - Ernest Walton
+  467. Q184499              - Patrick Blackett
+  468. Q184563              - Shin'ichirō Tomonaga
+  469. Q184592              - Gerard 't Hooft
+  470. Q187199              - Carlo Rubbia
+  471. Q187224              - Pierre-Gilles de Gennes
+  472. Q188128              - Alexei Abrikosov
+  473. Q188293              - Frits Zernike
+  474. Q189485              - Nevill Francis Mott
+  475. Q189990              - Antony Hewish
+  476. Q190697              - Claude Cohen-Tannoudji
+  477. Q190766              - Martin Ryle
+  478. Q192112              - Peter Higgs
+  479. Q192689              - Bertram Brockhouse
+  480. Q192703              - Ilya Frank
+  481. Q192712              - Kai Siegbahn
+  482. Q192718              - Anthony James Leggett
+  483. Q193803              - Roger Penrose
+  484. Q201470              - Richard E. Taylor
+  485. Q202149              - Martinus J. G. Veltman
+  486. Q202164              - Makoto Kobayashi
+  487. Q202168              - Toshihide Maskawa
+  488. Q28189               - Abdus Salam
+  489. Q35149               - Wilhelm Röntgen
+  490. Q36488               - Guglielmo Marconi
+  491. Q364997              - Alain Aspect
+  492. Q37463               - Pierre Curie
+  493. Q40904               - Werner Heisenberg
+  494. Q41269               - Henri Becquerel
+  495. Q41688               - Hendrik Lorentz
+  496. Q44286               - Rudolf Mössbauer
+  497. Q47285               - J. J. Thomson
+  498. Q47480               - Paul Dirac
+  499. Q54945               - Hannes Alfvén
+  500. Q555849              - John Clarke
+  501. Q556543              - Gérard Mourou
+  502. Q565544              - Anne L'Huillier
+  503. Q56855591            - Donna Strickland
+  504. Q57020342            - Pierre Agostini
+  505. Q57063               - Philipp Lenard
+  506. Q57066               - James Franck
+  507. Q57067               - Max von Laue
+  508. Q57068               - Wilhelm Wien
+  509. Q57070               - Gustav Ludwig Hertz
+  510. Q57077               - Ferdinand Braun
+  511. Q57092               - Johannes Stark
+  512. Q57120               - Peter Grünberg
+  513. Q57227               - Wolfgang Paul
+  514. Q58978               - Max Born
+  515. Q60429               - Chandrasekhara Venkata Raman
+  516. Q62891               - Heike Kamerlingh Onnes
+  517. Q62897               - John Cockcroft
+  518. Q65807               - Reinhard Genzel
+  519. Q65989               - Wolfgang Pauli
+  520. Q7085                - Niels Bohr
+  521. Q71013               - Theodor W. Hänsch
+  522. Q71015               - Horst Ludwig Störmer
+  523. Q71022               - Ernst Ruska
+  524. Q71023               - Alfred Kastler
+  525. Q71024               - Klaus von Klitzing
+  526. Q710597              - Arthur B. McDonald
+  527. Q726394              - David J. Thouless
+  528. Q76462               - Wolfgang Ketterle
+  529. Q76474               - Walther Bothe
+  530. Q76687               - Georg Bednorz
+  531. Q76766               - Gerd Binnig
+  532. Q76797               - J. Hans D. Jensen
+  533. Q76970               - Pavel Cherenkov
+  534. Q78610               - Anton Zeilinger
+  535. Q79000               - Pieter Zeeman
+  536. Q80884               - James Chadwick
+  537. Q83297               - John Strutt, 3rd Baron Rayleigh
+  538. Q83331               - Louis de Broglie
+  539. Q83552               - Alexander Prokhorov
+  540. Q83557               - Nikolay Basov
+  541. Q86970               - Ferenc Krausz
+  542. Q8753                - Enrico Fermi
+  543. Q9021                - Max Planck
+  544. Q9130                - Erwin Schrödinger
+  545. Q92894               - Geoffrey Hinton
+  546. Q937                 - Albert Einstein
+
+Internal edges: 67145
+Total internal weight: 166442
+Density: 0.4513
+
+Edge details (showing first 50 of 67145):
+    1. Q102291 (Francis William Aston) <-> Q102419 (Derek Barton)
+       Weight: 4, Relations: [country, organization]
+    2. Q102291 (Francis William Aston) <-> Q102804 (Henri Moissan)
+       Weight: 3, Relations: [field, organization]
+    3. Q102291 (Francis William Aston) <-> Q102822 (Jacobus Henricus van 't Hoff)
+       Weight: 2, Relations: [organization]
+    4. Q102291 (Francis William Aston) <-> Q102830 (Frederick Soddy)
+       Weight: 5, Relations: [country, organization]
+    5. Q102291 (Francis William Aston) <-> Q103835 (Peter Debye)
+       Weight: 4, Relations: [field, organization]
+    6. Q102291 (Francis William Aston) <-> Q104575 (Paul Sabatier)
+       Weight: 2, Relations: [field, organization]
+    7. Q102291 (Francis William Aston) <-> Q104582 (Victor Grignard)
+       Weight: 1, Relations: [field]
+    8. Q102291 (Francis William Aston) <-> Q105572 (Benjamin List)
+       Weight: 1, Relations: [field]
+    9. Q102291 (Francis William Aston) <-> Q105949 (Akira Suzuki)
+       Weight: 1, Relations: [field]
+   10. Q102291 (Francis William Aston) <-> Q106624 (Ahmed Zewail)
+       Weight: 3, Relations: [field, organization]
+   11. Q102291 (Francis William Aston) <-> Q106762 (George Porter)
+       Weight: 4, Relations: [country, field, organization]
+   12. Q102291 (Francis William Aston) <-> Q107690 (Jean-Marie Lehn)
+       Weight: 1, Relations: [organization]
+   13. Q102291 (Francis William Aston) <-> Q110916 (Hideki Shirakawa)
+       Weight: 1, Relations: [field]
+   14. Q102291 (Francis William Aston) <-> Q110942 (Alan MacDiarmid)
+       Weight: 2, Relations: [field, organization]
+   15. Q102291 (Francis William Aston) <-> Q110957 (Kurt Wüthrich)
+       Weight: 3, Relations: [field, organization]
+   16. Q102291 (Francis William Aston) <-> Q110963 (Koichi Tanaka)
+       Weight: 1, Relations: [field]
+   17. Q102291 (Francis William Aston) <-> Q11401680 (Susumu Kitagawa)
+       Weight: 1, Relations: [field]
+   18. Q102291 (Francis William Aston) <-> Q122272 (Richard R. Ernst)
+       Weight: 3, Relations: [field, organization]
+   19. Q102291 (Francis William Aston) <-> Q122996 (Leopold Ružička)
+       Weight: 3, Relations: [organization]
+   20. Q102291 (Francis William Aston) <-> Q123014 (Alfred Werner)
+       Weight: 1, Relations: [field]
+   21. Q102291 (Francis William Aston) <-> Q12658 (Wilhelm Ostwald)
+       Weight: 1, Relations: [organization]
+   22. Q102291 (Francis William Aston) <-> Q135139 (Paul Josef Crutzen)
+       Weight: 2, Relations: [organization]
+   23. Q102291 (Francis William Aston) <-> Q135154 (John Cornforth)
+       Weight: 2, Relations: [organization]
+   24. Q102291 (Francis William Aston) <-> Q150989 (Frédéric Joliot-Curie)
+       Weight: 4, Relations: [field, organization]
+   25. Q102291 (Francis William Aston) <-> Q151564 (Frederick Sanger)
+       Weight: 3, Relations: [country, organization]
+   26. Q102291 (Francis William Aston) <-> Q1545000 (Greg Winter)
+       Weight: 3, Relations: [country, organization]
+   27. Q102291 (Francis William Aston) <-> Q157210 (Ryōji Noyori)
+       Weight: 2, Relations: [field, organization]
+   28. Q102291 (Francis William Aston) <-> Q157242 (Alexander R. Todd, Baron Todd)
+       Weight: 5, Relations: [country, organization]
+   29. Q102291 (Francis William Aston) <-> Q157250 (Harry Kroto)
+       Weight: 3, Relations: [country, field, organization]
+   30. Q102291 (Francis William Aston) <-> Q157701 (Jaroslav Heyrovský)
+       Weight: 4, Relations: [field, organization]
+   31. Q102291 (Francis William Aston) <-> Q1678456 (Richard Henderson)
+       Weight: 2, Relations: [country, organization]
+   32. Q102291 (Francis William Aston) <-> Q183509 (Ilya Prigogine)
+       Weight: 4, Relations: [field, organization]
+   33. Q102291 (Francis William Aston) <-> Q184286 (Irving Langmuir)
+       Weight: 2, Relations: [field, organization]
+   34. Q102291 (Francis William Aston) <-> Q186391 (Theodor Svedberg)
+       Weight: 3, Relations: [organization]
+   35. Q102291 (Francis William Aston) <-> Q1886068 (Tomas Lindahl)
+       Weight: 2, Relations: [field, organization]
+   36. Q102291 (Francis William Aston) <-> Q189803 (Arthur Harden)
+       Weight: 2, Relations: [country, organization]
+   37. Q102291 (Francis William Aston) <-> Q190626 (Aaron Klug)
+       Weight: 5, Relations: [country, field, organization]
+   38. Q102291 (Francis William Aston) <-> Q204600 (Norman Haworth)
+       Weight: 5, Relations: [country, field, organization]
+   39. Q102291 (Francis William Aston) <-> Q207992 (Peter D. Mitchell)
+       Weight: 2, Relations: [country, organization]
+   40. Q102291 (Francis William Aston) <-> Q217734 (Kenichi Fukui)
+       Weight: 1, Relations: [organization]
+   41. Q102291 (Francis William Aston) <-> Q23073819 (Richard Robson)
+       Weight: 2, Relations: [country, organization]
+   42. Q102291 (Francis William Aston) <-> Q232289 (Michael Smith)
+       Weight: 1, Relations: [organization]
+   43. Q102291 (Francis William Aston) <-> Q232295 (John Kendrew)
+       Weight: 4, Relations: [country, organization]
+   44. Q102291 (Francis William Aston) <-> Q233026 (Arne Tiselius)
+       Weight: 1, Relations: [organization]
+   45. Q102291 (Francis William Aston) <-> Q233205 (Aaron Ciechanover)
+       Weight: 1, Relations: [field]
+   46. Q102291 (Francis William Aston) <-> Q233973 (John Pople)
+       Weight: 4, Relations: [country, field, organization]
+   47. Q102291 (Francis William Aston) <-> Q233985 (Luis Federico Leloir)
+       Weight: 1, Relations: [organization]
+   48. Q102291 (Francis William Aston) <-> Q234145 (Giulio Natta)
+       Weight: 2, Relations: [organization]
+   49. Q102291 (Francis William Aston) <-> Q235184 (John E. Walker)
+       Weight: 3, Relations: [country, organization]
+   50. Q102291 (Francis William Aston) <-> Q235834 (Ronald George Wreyford Norrish)
+       Weight: 3, Relations: [country, field, organization]
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 0 (439 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q102250              - Peter Agre
+    2. Q102266              - Sidney Altman
+    3. Q102278              - Christian B. Anfinsen
+    4. Q102379              - Paul Berg
+    5. Q102395              - Paul D. Boyer
+    6. Q102406              - Herbert C. Brown
+    7. Q105927              - Ei-ichi Negishi
+    8. Q105937              - Wendell Meredith Stanley
+    9. Q106399              - John Howard Northrop
+   10. Q106471              - Richard F. Heck
+   11. Q106699              - Martin Chalfie
+   12. Q106733              - Jerome Karle
+   13. Q106738              - John Fenn
+   14. Q106746              - Richard Smalley
+   15. Q106751              - Alan J. Heeger
+   16. Q106756              - James B. Sumner
+   17. Q107405              - Lars Onsager
+   18. Q107422              - Herbert A. Hauptman
+   19. Q109559              - Thomas A. Steitz
+   20. Q110073              - William Giauque
+   21. Q110925              - Karl Barry Sharpless
+   22. Q110930              - Robert Curl
+   23. Q110935              - William Lipscomb
+   24. Q110947              - William Standish Knowles
+   25. Q110952              - Stanford Moore
+   26. Q111190              - F. Sherwood Rowland
+   27. Q1351105             - Eric Betzig
+   28. Q135151              - Donald J. Cram
+   29. Q135171              - Elias James Corey
+   30. Q135180              - Thomas Cech
+   31. Q1387059             - William E. Moerner
+   32. Q15118973            - Aziz Sancar
+   33. Q15433043            - Moungi Bawendi
+   34. Q1547368             - Alexey Ekimov
+   35. Q156492              - William Howard Stein
+   36. Q157224              - Kary Mullis
+   37. Q170676              - Roger D. Kornberg
+   38. Q176351              - Paul Flory
+   39. Q179777              - Harold Urey
+   40. Q189465              - Theodore William Richards
+   41. Q19009               - Edwin McMillan
+   42. Q19045               - Mario Molina
+   43. Q190486              - Willard Libby
+   44. Q192603              - George Andrew Olah
+   45. Q194646              - Louis E. Brus
+   46. Q200470              - Roger Y. Tsien
+   47. Q202140              - Robert H. Grubbs
+   48. Q202159              - Richard R. Schrock
+   49. Q211482              - Roderick MacKinnon
+   50. Q217486              - Walter Gilbert
+   51. Q224153              - Robert Bruce Merrifield
+   52. Q230652              - Irwin Rose
+   53. Q232302              - Avram Hershko
+   54. Q232316              - Robert Burns Woodward
+   55. Q233355              - Robert S. Mulliken
+   56. Q235983              - Henry Taube
+   57. Q239067              - Rudolph A. Marcus
+   58. Q243190              - Yuan T. Lee
+   59. Q243196              - Dudley R. Herschbach
+   60. Q244998              - Charles J. Pedersen
+   61. Q28833112            - Joachim Frank
+   62. Q33128               - Vincent du Vigneaud
+   63. Q3814528             - David Baker
+   64. Q4273363             - Frances Arnold
+   65. Q44111               - Dan Shechtman
+   66. Q4790366             - Arieh Warshel
+   67. Q49347               - Melvin Calvin
+   68. Q5237001             - David MacMillan
+   69. Q56068               - Jennifer Doudna
+   70. Q56868017            - George Smith
+   71. Q7151888             - Paul L. Modrich
+   72. Q743252              - Omar M. Yaghi
+   73. Q7442                - Carolyn Bertozzi
+   74. Q76612               - Johann Deisenhofer
+   75. Q78510               - Walter Kohn
+   76. Q80907               - Brian Kobilka
+   77. Q80910               - Robert Lefkowitz
+   78. Q89620738            - John Michael Jumper
+   79. Q903471              - Martin Karplus
+   80. Q906529              - John B. Goodenough
+   81. Q102454              - Paul Samuelson
+   82. Q107264              - Robert Lucas
+   83. Q107964              - Thomas J. Sargent
+   84. Q109570              - Peter Diamond
+   85. Q109721              - Dale T. Mortensen
+   86. Q109737              - Christopher A. Sims
+   87. Q1097475             - Claudia Goldin
+   88. Q110968              - Tjalling Koopmans
+   89. Q1173928             - David Card
+   90. Q128736              - John Forbes Nash
+   91. Q131112              - Paul Krugman
+   92. Q132489              - Amartya Sen
+   93. Q1359990             - Paul Milgrom
+   94. Q1386049             - Lars Peter Hansen
+   95. Q1461050             - Simon Johnson
+   96. Q153761              - Elinor Ostrom
+   97. Q157235              - Robert Aumann
+   98. Q157245              - Michael Spence
+   99. Q157255              - Merton Miller
+  100. Q157262              - Leonid Hurwicz
+  101. Q157268              - Robert Solow
+  102. Q1635006             - Michael Kremer
+  103. Q16730042            - Guido Imbens
+  104. Q173994              - Jean Tirole
+  105. Q181529              - Herbert Simon
+  106. Q183181              - Jan Tinbergen
+  107. Q18430               - Joseph E. Stiglitz
+  108. Q185871              - Douglas Diamond
+  109. Q191020              - Gary Becker
+  110. Q192566              - Edmund Phelps
+  111. Q192577              - Simon Kuznets
+  112. Q192592              - Kenneth Arrow
+  113. Q19520018            - James A. Robinson
+  114. Q201795              - Ben Bernanke
+  115. Q204078              - Angus Deaton
+  116. Q205353              - James M. Buchanan
+  117. Q205850              - Franco Modigliani
+  118. Q206460              - Thomas Schelling
+  119. Q208124              - Trygve Haavelmo
+  120. Q210960              - Gérard Debreu
+  121. Q211097              - Finn E. Kydland
+  122. Q211776              - James Tobin
+  123. Q219721              - Robert Mundell
+  124. Q222541              - George Akerlof
+  125. Q232062              - Oliver E. Williamson
+  126. Q232949              - Roger Myerson
+  127. Q233051              - Eric Maskin
+  128. Q233947              - Theodore Schultz
+  129. Q233950              - Daniel Kahneman
+  130. Q237821              - Robert Fogel
+  131. Q243193              - Douglass North
+  132. Q243534              - George Stigler
+  133. Q244739              - Lloyd Shapley
+  134. Q24565948            - Philip H. Dybvig
+  135. Q272508              - Harry Markowitz
+  136. Q272510              - John Harsanyi
+  137. Q274111              - William F. Sharpe
+  138. Q28542               - Alvin Eliot Roth
+  139. Q287542              - Robert C. Merton
+  140. Q2899100             - Joel Mokyr
+  141. Q295647              - Myron Scholes
+  142. Q295653              - Robert F. Engle
+  143. Q295673              - William Vickrey
+  144. Q295717              - Vernon L. Smith
+  145. Q295761              - Lawrence Klein
+  146. Q312560              - Daniel McFadden
+  147. Q312561              - James Heckman
+  148. Q312585              - Edward C. Prescott
+  149. Q320578              - Abhijit Banerjee
+  150. Q338151              - Robert J. Shiller
+  151. Q354897              - Bengt Holmström
+  152. Q359317              - Eugene Fama
+  153. Q371212              - Richard Thaler
+  154. Q376364              - Philippe Aghion
+  155. Q377265              - Robert B. Wilson
+  156. Q432890              - Oliver Hart
+  157. Q434509              - Esther Duflo
+  158. Q44061               - Wassily Leontief
+  159. Q47426               - Milton Friedman
+  160. Q509262              - Paul M. Romer
+  161. Q562481              - William Nordhaus
+  162. Q7174757             - Peter Howitt
+  163. Q718581              - Daron Acemoğlu
+  164. Q921499              - Joshua Angrist
+  165. Q123469              - Sinclair Lewis
+  166. Q132684              - Saint-John Perse
+  167. Q23434               - Ernest Hemingway
+  168. Q2344210             - Louise Glück
+  169. Q234819              - Alice Munro
+  170. Q241248              - Orhan Pamuk
+  171. Q34189               - Pablo Neruda
+  172. Q37030               - Thomas Mann
+  173. Q37767               - T. S. Eliot
+  174. Q38392               - William Faulkner
+  175. Q392                 - Bob Dylan
+  176. Q39212               - John Steinbeck
+  177. Q39803               - Mario Vargas Llosa
+  178. Q41488               - Wole Soyinka
+  179. Q42552               - Wisława Szymborska
+  180. Q43293               - J. M. Coetzee
+  181. Q45970               - Czesław Miłosz
+  182. Q46739               - Octavio Paz
+  183. Q47619               - Nadine Gordimer
+  184. Q7176                - Naguib Mahfouz
+  185. Q72334               - Toni Morrison
+  186. Q75612               - Isaac Bashevis Singer
+  187. Q765                 - Dario Fo
+  188. Q80095               - Kenzaburō Ōe
+  189. Q80871               - Gabriela Mistral
+  190. Q80900               - Pearl S. Buck
+  191. Q83038               - Salvatore Quasimodo
+  192. Q83059               - Saul Bellow
+  193. Q862                 - Joseph Brodsky
+  194. Q93157               - Eugene O'Neill
+  195. Q93356               - Seamus Heaney
+  196. Q104592              - Bruce Beutler
+  197. Q104600              - Jack Szostak
+  198. Q105494              - Ralph Steinman
+  199. Q105830              - Baruch Samuel Blumberg
+  200. Q106547              - Paul Lauterbur
+  201. Q107402              - Rosalyn Sussman Yalow
+  202. Q108576              - Daniel Carleton Gajdusek
+  203. Q108602              - Susumu Tonegawa
+  204. Q108880              - Robert F. Furchgott
+  205. Q108891              - Robert W. Holley
+  206. Q108896              - Hamilton Smith
+  207. Q109553              - Renato Dulbecco
+  208. Q109726              - Edmond H. Fischer
+  209. Q109731              - Edwin G. Krebs
+  210. Q110060              - Marshall Warren Nirenberg
+  211. Q110101              - Edward Calvin Kendall
+  212. Q110106              - Julius Axelrod
+  213. Q114564137           - Mary E. Brunkow
+  214. Q1174906             - David Julius
+  215. Q1297741             - Michael Rosbash
+  216. Q141147              - Andrew Schally
+  217. Q1545025             - Gregg L. Semenza
+  218. Q155371              - Charles Brenton Huggins
+  219. Q155380              - Stanley B. Prusiner
+  220. Q155529              - Eric Kandel
+  221. Q1603351             - William G. Kaelin
+  222. Q1686435             - Jeffrey C. Hall
+  223. Q192282              - Joseph Murray
+  224. Q1929672             - Michael W. Young
+  225. Q199654              - Barbara McClintock
+  226. Q200136              - Linda B. Buck
+  227. Q202152              - Andrew Fire
+  228. Q204733              - Gerty Cori
+  229. Q205667              - Salvador Luria
+  230. Q206455              - Craig Mello
+  231. Q21061212            - William C. Campbell
+  232. Q211940              - Richard Axel
+  233. Q215574              - Mario Capecchi
+  234. Q218823              - Joshua Lederberg
+  235. Q219718              - George Emil Palade
+  236. Q223542              - Allan McLeod Cormack
+  237. Q22669757            - Charles M. Rice
+  238. Q230612              - Edward Adelbert Doisy
+  239. Q232299              - Stanley Cohen
+  240. Q232305              - Roger Sperry
+  241. Q232308              - Selman Abraham Waksman
+  242. Q233943              - Albert Claude
+  243. Q234701              - Baruj Benacerraf
+  244. Q234949              - David Baltimore
+  245. Q235651              - Philip Showalter Hench
+  246. Q237499              - Edward Tatum
+  247. Q238716              - Georg von Békésy
+  248. Q238739              - George Beadle
+  249. Q242169              - Roger Guillemin
+  250. Q243532              - Joseph Erlanger
+  251. Q243536              - Howard Temin
+  252. Q245000              - George Minot
+  253. Q26321               - Elizabeth Blackburn
+  254. Q26322               - Carol Greider
+  255. Q271421              - Torsten Nils Wiesel
+  256. Q271424              - Joseph L. Goldstein
+  257. Q271703              - Alfred Hershey
+  258. Q271757              - André Frédéric Cournand
+  259. Q271766              - Gerald Edelman
+  260. Q273201              - Herbert Spencer Gasser
+  261. Q273238              - George Whipple
+  262. Q274123              - Edward B. Lewis
+  263. Q28212107            - Fred Ramsdell
+  264. Q295644              - David H. Hubel
+  265. Q295659              - H. Robert Horvitz
+  266. Q295666              - George Davis Snell
+  267. Q295678              - Arthur Kornberg
+  268. Q295684              - Michael Stuart Brown
+  269. Q295691              - Harold E. Varmus
+  270. Q295706              - Daniel Nathans
+  271. Q295724              - George Wald
+  272. Q295869              - Lee Hartwell
+  273. Q295999              - Ferid Murad
+  274. Q296423              - Alfred G. Gilman
+  275. Q298707              - Francis Peyton Rous
+  276. Q301438              - Eric F. Wieschaus
+  277. Q309820              - Louis Ignarro
+  278. Q309879              - Haldan Keffer Hartline
+  279. Q309885              - Frederick Chapman Robbins
+  280. Q309979              - Paul Greengard
+  281. Q310131              - Thomas Huckle Weller
+  282. Q310485              - E. Donnall Thomas
+  283. Q310487              - George H. Hitchings
+  284. Q311358              - J. Michael Bishop
+  285. Q312961              - John Franklin Enders
+  286. Q312963              - Dickinson W. Richards
+  287. Q312977              - Phillip Sharp
+  288. Q35698               - Konrad Emil Bloch
+  289. Q35703               - Gertrude B. Elion
+  290. Q444270              - James Rothman
+  291. Q46928               - Max Theiler
+  292. Q504021              - Gary Ruvkun
+  293. Q5677307             - Harvey J. Alter
+  294. Q60031               - Martin Rodbell
+  295. Q60322501            - Ardem Patapoutian
+  296. Q6140731             - James P. Allison
+  297. Q68118               - Earl Wilbur Sutherland, Jr.
+  298. Q740638              - Randy Schekman
+  299. Q78501               - Carl Ferdinand Cori
+  300. Q80323               - William P. Murphy
+  301. Q88608397            - Katalin Karikó
+  302. Q88608402            - Drew Weissman
+  303. Q97270               - Thomas C. Südhof
+  304. Q983858              - Victor Ambros
+  305. Q107037              - Leymah Roberta Gbowee
+  306. Q11665               - José Ramos-Horta
+  307. Q1187542             - Denis Mukwege
+  308. Q1254                - Kofi Annan
+  309. Q128604              - Lester B. Pearson
+  310. Q151414              - George Marshall
+  311. Q151813              - F. W. de Klerk
+  312. Q154824              - Norman Borlaug
+  313. Q159726              - John Mott
+  314. Q180989              - Jane Addams
+  315. Q18391               - Elie Wiesel
+  316. Q184565              - Charles G. Dawes
+  317. Q193009              - Frank B. Kellogg
+  318. Q19673               - Al Gore
+  319. Q202979              - Cordell Hull
+  320. Q211239              - Jody Williams
+  321. Q213500              - Ralph Bunche
+  322. Q215139              - Emily Greene Balch
+  323. Q220619              - Elihu Root
+  324. Q234001              - Carlos Filipe Ximenes Belo
+  325. Q23685               - Jimmy Carter
+  326. Q271517              - Nicholas Murray Butler
+  327. Q33866               - Theodore Roosevelt
+  328. Q34060               - Yizhak Rabin
+  329. Q34296               - Woodrow Wilson
+  330. Q41617               - Liu Xiaobo
+  331. Q43179               - Ellen Johnson Sirleaf
+  332. Q439564              - María Corina Machado
+  333. Q43969               - Muhammad Yunus
+  334. Q49344               - Óscar Arias Sánchez
+  335. Q57410               - Shimon Peres
+  336. Q66107               - Henry Kissinger
+  337. Q6761526             - Maria Ressa
+  338. Q76                  - Barack Obama
+  339. Q8027                - Martin Luther King Jr.
+  340. Q104651              - John C. Mather
+  341. Q106454              - Adam Riess
+  342. Q106949              - Saul Perlmutter
+  343. Q107407              - Hugh David Politzer
+  344. Q107416              - Martin Lewis Perl
+  345. Q107419              - Norman Foster Ramsey
+  346. Q107420              - Sheldon Glashow
+  347. Q107423              - Ben Roy Mottelson
+  348. Q107450              - Frank Wilczek
+  349. Q123022              - Felix Bloch
+  350. Q127944              - Arthur Holly Compton
+  351. Q130113              - Robert Hofstadter
+  352. Q133222              - Clinton Davisson
+  353. Q1365270             - John Clauser
+  354. Q153201              - John Robert Schrieffer
+  355. Q153210              - Jack Steinberger
+  356. Q155790              - Eugene Wigner
+  357. Q156286              - Russell Alan Hulse
+  358. Q15900993            - Barry C. Barish
+  359. Q163415              - William Shockley
+  360. Q165969              - Isidor Isaac Rabi
+  361. Q169366              - Carl David Anderson
+  362. Q169577              - Ernest Lawrence
+  363. Q1700920             - Michael Kosterlitz
+  364. Q171034              - Robert Wilson
+  365. Q172118              - Percy Williams Bridgman
+  366. Q172466              - Steven Chu
+  367. Q172840              - Murray Gell-Mann
+  368. Q172877              - Arno Allan Penzias
+  369. Q173028              - Emilio G. Segrè
+  370. Q175519              - Raymond Davis Jr.
+  371. Q178344              - Luis Walter Alvarez
+  372. Q179282              - Steven Weinberg
+  373. Q179572              - George F. Smoot
+  374. Q181369              - Chen-ning Yang
+  375. Q182031              - Jack Kilby
+  376. Q183270              - Edward Mills Purcell
+  377. Q183655              - Owen Chamberlain
+  378. Q183679              - Tsung-Dao Lee
+  379. Q184566              - Charles Hard Townes
+  380. Q184571              - Polykarp Kusch
+  381. Q184577              - Walter Houser Brattain
+  382. Q186465              - Julian Schwinger
+  383. Q186481              - Riccardo Giacconi
+  384. Q186497              - Willis Lamb
+  385. Q187822              - Jerome Isaac Friedman
+  386. Q188120              - Yoichiro Nambu
+  387. Q189741              - Melvin Schwartz
+  388. Q189987              - Nicolaas Bloembergen
+  389. Q189997              - Robert B. Laughlin
+  390. Q190495              - Henry Way Kendall
+  391. Q190503              - Arthur Leonard Schawlow
+  392. Q190745              - James Rainwater
+  393. Q190756              - William Daniel Phillips
+  394. Q190770              - Philip W. Anderson
+  395. Q191922              - Frederick Reines
+  396. Q192106              - Burton Richter
+  397. Q192685              - Joseph Hooton Taylor
+  398. Q192688              - Ivar Giæver
+  399. Q192695              - Leon M. Lederman
+  400. Q192708              - Robert Coleman Richardson
+  401. Q192715              - Samuel C. C. Ting
+  402. Q193496              - James Cronin
+  403. Q193503              - Kenneth G. Wilson
+  404. Q193655              - John Hasbrouck Van Vleck
+  405. Q201452              - Brian Schmidt
+  406. Q201506              - Clifford Shull
+  407. Q201853              - David Lee
+  408. Q202138              - Daniel C. Tsui
+  409. Q205954              - Eric Allin Cornell
+  410. Q206379              - Carl Wieman
+  411. Q206390              - John L. Hall
+  412. Q206405              - Douglas Osheroff
+  413. Q206499              - Val Logsdon Fitch
+  414. Q2128461             - Rainer Weiss
+  415. Q26703310            - Michel Devoret
+  416. Q28976188            - John M. Martinis
+  417. Q323320              - Kip S. Thorne
+  418. Q3675789             - Syukuro Manabe
+  419. Q391237              - John Hopfield
+  420. Q39246               - Richard Feynman
+  421. Q40262               - David Gross
+  422. Q46120               - William Alfred Fowler
+  423. Q493956              - Andrea M. Ghez
+  424. Q57072               - Otto Stern
+  425. Q57100               - Maria Goeppert Mayer
+  426. Q61045               - David J. Wineland
+  427. Q629583              - Sheldon Cooper
+  428. Q64188               - Roy J. Glauber
+  429. Q70532               - Hans Georg Dehmelt
+  430. Q708472              - Arthur Ashkin
+  431. Q71016               - Herbert Kroemer
+  432. Q728331              - Jim Peebles
+  433. Q730065              - Shuji Nakamura
+  434. Q73058               - Willard Boyle
+  435. Q76373               - George E. Smith
+  436. Q78520               - Victor Francis Hess
+  437. Q80905               - Donald Arthur Glaser
+  438. Q82563               - Leon Cooper
+  439. Q949                 - John Bardeen
+
+Internal edges: 89529
+Total internal weight: 254721
+Density: 0.9312
+
+Edge details (showing first 50 of 89529):
+    1. Q102250 (Peter Agre) <-> Q102266 (Sidney Altman)
+       Weight: 6, Relations: [country, field, organization]
+    2. Q102250 (Peter Agre) <-> Q102278 (Christian B. Anfinsen)
+       Weight: 4, Relations: [country, organization]
+    3. Q102250 (Peter Agre) <-> Q102379 (Paul Berg)
+       Weight: 5, Relations: [country, organization]
+    4. Q102250 (Peter Agre) <-> Q102395 (Paul D. Boyer)
+       Weight: 4, Relations: [country, organization]
+    5. Q102250 (Peter Agre) <-> Q102406 (Herbert C. Brown)
+       Weight: 3, Relations: [country, organization]
+    6. Q102250 (Peter Agre) <-> Q105927 (Ei-ichi Negishi)
+       Weight: 4, Relations: [country, organization]
+    7. Q102250 (Peter Agre) <-> Q105937 (Wendell Meredith Stanley)
+       Weight: 4, Relations: [country, organization]
+    8. Q102250 (Peter Agre) <-> Q106399 (John Howard Northrop)
+       Weight: 3, Relations: [country, organization]
+    9. Q102250 (Peter Agre) <-> Q106471 (Richard F. Heck)
+       Weight: 1, Relations: [country]
+   10. Q102250 (Peter Agre) <-> Q106699 (Martin Chalfie)
+       Weight: 3, Relations: [country, organization]
+   11. Q102250 (Peter Agre) <-> Q106733 (Jerome Karle)
+       Weight: 4, Relations: [country, organization]
+   12. Q102250 (Peter Agre) <-> Q106738 (John Fenn)
+       Weight: 3, Relations: [country, organization]
+   13. Q102250 (Peter Agre) <-> Q106746 (Richard Smalley)
+       Weight: 4, Relations: [country, organization]
+   14. Q102250 (Peter Agre) <-> Q106751 (Alan J. Heeger)
+       Weight: 2, Relations: [country, organization]
+   15. Q102250 (Peter Agre) <-> Q106756 (James B. Sumner)
+       Weight: 4, Relations: [country, organization]
+   16. Q102250 (Peter Agre) <-> Q107405 (Lars Onsager)
+       Weight: 5, Relations: [country, organization]
+   17. Q102250 (Peter Agre) <-> Q107422 (Herbert A. Hauptman)
+       Weight: 3, Relations: [country, organization]
+   18. Q102250 (Peter Agre) <-> Q109559 (Thomas A. Steitz)
+       Weight: 4, Relations: [country, organization]
+   19. Q102250 (Peter Agre) <-> Q110073 (William Giauque)
+       Weight: 4, Relations: [country, organization]
+   20. Q102250 (Peter Agre) <-> Q110925 (Karl Barry Sharpless)
+       Weight: 4, Relations: [country, organization]
+   21. Q102250 (Peter Agre) <-> Q110930 (Robert Curl)
+       Weight: 3, Relations: [country, organization]
+   22. Q102250 (Peter Agre) <-> Q110935 (William Lipscomb)
+       Weight: 3, Relations: [country, organization]
+   23. Q102250 (Peter Agre) <-> Q110947 (William Standish Knowles)
+       Weight: 2, Relations: [country, organization]
+   24. Q102250 (Peter Agre) <-> Q110952 (Stanford Moore)
+       Weight: 3, Relations: [country, organization]
+   25. Q102250 (Peter Agre) <-> Q111190 (F. Sherwood Rowland)
+       Weight: 5, Relations: [country, organization]
+   26. Q102250 (Peter Agre) <-> Q1351105 (Eric Betzig)
+       Weight: 2, Relations: [country, organization]
+   27. Q102250 (Peter Agre) <-> Q135151 (Donald J. Cram)
+       Weight: 3, Relations: [country, organization]
+   28. Q102250 (Peter Agre) <-> Q135171 (Elias James Corey)
+       Weight: 4, Relations: [country, organization]
+   29. Q102250 (Peter Agre) <-> Q135180 (Thomas Cech)
+       Weight: 4, Relations: [country, field, organization]
+   30. Q102250 (Peter Agre) <-> Q1387059 (William E. Moerner)
+       Weight: 4, Relations: [country, organization]
+   31. Q102250 (Peter Agre) <-> Q15118973 (Aziz Sancar)
+       Weight: 4, Relations: [country, field, organization]
+   32. Q102250 (Peter Agre) <-> Q15433043 (Moungi Bawendi)
+       Weight: 3, Relations: [country, organization]
+   33. Q102250 (Peter Agre) <-> Q1547368 (Alexey Ekimov)
+       Weight: 1, Relations: [country]
+   34. Q102250 (Peter Agre) <-> Q156492 (William Howard Stein)
+       Weight: 4, Relations: [country, organization]
+   35. Q102250 (Peter Agre) <-> Q157224 (Kary Mullis)
+       Weight: 2, Relations: [country, field]
+   36. Q102250 (Peter Agre) <-> Q170676 (Roger D. Kornberg)
+       Weight: 3, Relations: [country, organization]
+   37. Q102250 (Peter Agre) <-> Q176351 (Paul Flory)
+       Weight: 3, Relations: [country, organization]
+   38. Q102250 (Peter Agre) <-> Q179777 (Harold Urey)
+       Weight: 6, Relations: [country, organization]
+   39. Q102250 (Peter Agre) <-> Q189465 (Theodore William Richards)
+       Weight: 4, Relations: [country, organization]
+   40. Q102250 (Peter Agre) <-> Q19009 (Edwin McMillan)
+       Weight: 4, Relations: [country, organization]
+   41. Q102250 (Peter Agre) <-> Q19045 (Mario Molina)
+       Weight: 3, Relations: [country, organization]
+   42. Q102250 (Peter Agre) <-> Q190486 (Willard Libby)
+       Weight: 3, Relations: [country, organization]
+   43. Q102250 (Peter Agre) <-> Q192603 (George Andrew Olah)
+       Weight: 4, Relations: [country, organization]
+   44. Q102250 (Peter Agre) <-> Q194646 (Louis E. Brus)
+       Weight: 3, Relations: [country, organization]
+   45. Q102250 (Peter Agre) <-> Q200470 (Roger Y. Tsien)
+       Weight: 3, Relations: [country, organization]
+   46. Q102250 (Peter Agre) <-> Q202140 (Robert H. Grubbs)
+       Weight: 3, Relations: [country, organization]
+   47. Q102250 (Peter Agre) <-> Q202159 (Richard R. Schrock)
+       Weight: 3, Relations: [country, organization]
+   48. Q102250 (Peter Agre) <-> Q211482 (Roderick MacKinnon)
+       Weight: 3, Relations: [country, organization]
+   49. Q102250 (Peter Agre) <-> Q217486 (Walter Gilbert)
+       Weight: 3, Relations: [country, organization]
+   50. Q102250 (Peter Agre) <-> Q224153 (Robert Bruce Merrifield)
+       Weight: 2, Relations: [country, organization]
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 8 (9 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q1069175             - International Federation of Red Cross and Red Crescent Societies
+    2. Q132551              - Office of the United Nations High Commissioner for Refugees
+    3. Q187052              - Human Rights Watch
+    4. Q245385              - International Physicians for the Prevention of Nuclear War
+    5. Q252420              - International Peace Bureau
+    6. Q381282              - Pugwash Conferences on Science and World Affairs
+    7. Q42970               - Amnesty International
+    8. Q5987345             - International Committee of the Red Cross
+    9. Q7178                - International Red Cross and Red Crescent Movement
+
+Internal edges: 18
+Total internal weight: 20
+Density: 0.5000
+
+Edge details (showing first 50 of 18):
+    1. Q1069175 (International Federation of Red Cross and Red Crescent Societies) <-> Q132551 (Office of the United Nations High Commissioner for Refugees)
+       Weight: 1, Relations: [field]
+    2. Q1069175 (International Federation of Red Cross and Red Crescent Societies) <-> Q187052 (Human Rights Watch)
+       Weight: 1, Relations: [field]
+    3. Q1069175 (International Federation of Red Cross and Red Crescent Societies) <-> Q5987345 (International Committee of the Red Cross)
+       Weight: 1, Relations: [field]
+    4. Q1069175 (International Federation of Red Cross and Red Crescent Societies) <-> Q7178 (International Red Cross and Red Crescent Movement)
+       Weight: 1, Relations: [field]
+    5. Q132551 (Office of the United Nations High Commissioner for Refugees) <-> Q187052 (Human Rights Watch)
+       Weight: 1, Relations: [field]
+    6. Q132551 (Office of the United Nations High Commissioner for Refugees) <-> Q5987345 (International Committee of the Red Cross)
+       Weight: 1, Relations: [field]
+    7. Q132551 (Office of the United Nations High Commissioner for Refugees) <-> Q7178 (International Red Cross and Red Crescent Movement)
+       Weight: 1, Relations: [field]
+    8. Q187052 (Human Rights Watch) <-> Q245385 (International Physicians for the Prevention of Nuclear War)
+       Weight: 2, Relations: [organization]
+    9. Q187052 (Human Rights Watch) <-> Q252420 (International Peace Bureau)
+       Weight: 2, Relations: [organization]
+   10. Q187052 (Human Rights Watch) <-> Q381282 (Pugwash Conferences on Science and World Affairs)
+       Weight: 1, Relations: [organization]
+   11. Q187052 (Human Rights Watch) <-> Q42970 (Amnesty International)
+       Weight: 1, Relations: [organization]
+   12. Q187052 (Human Rights Watch) <-> Q5987345 (International Committee of the Red Cross)
+       Weight: 1, Relations: [field]
+   13. Q187052 (Human Rights Watch) <-> Q7178 (International Red Cross and Red Crescent Movement)
+       Weight: 1, Relations: [field]
+   14. Q245385 (International Physicians for the Prevention of Nuclear War) <-> Q252420 (International Peace Bureau)
+       Weight: 1, Relations: [organization]
+   15. Q252420 (International Peace Bureau) <-> Q381282 (Pugwash Conferences on Science and World Affairs)
+       Weight: 1, Relations: [organization]
+   16. Q252420 (International Peace Bureau) <-> Q42970 (Amnesty International)
+       Weight: 1, Relations: [organization]
+   17. Q381282 (Pugwash Conferences on Science and World Affairs) <-> Q42970 (Amnesty International)
+       Weight: 1, Relations: [organization]
+   18. Q5987345 (International Committee of the Red Cross) <-> Q7178 (International Red Cross and Red Crescent Movement)
+       Weight: 1, Relations: [field]
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 6 (3 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q8998                - Mo Yan
+    2. Q462843              - Tu Youyou
+    3. Q17293               - Tenzin Gyatso
+
+Internal edges: 3
+Total internal weight: 3
+Density: 1.0000
+
+Edge details (showing first 50 of 3):
+    1. Q462843 (Tu Youyou) <-> Q8998 (Mo Yan)
+       Weight: 1, Relations: [country]
+    2. Q17293 (Tenzin Gyatso) <-> Q8998 (Mo Yan)
+       Weight: 1, Relations: [country]
+    3. Q17293 (Tenzin Gyatso) <-> Q462843 (Tu Youyou)
+       Weight: 1, Relations: [country]
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 4 (2 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q160478              - Odysseas Elytis
+    2. Q165823              - Giorgos Seferis
+
+Internal edges: 1
+Total internal weight: 1
+Density: 1.0000
+
+Edge details (showing first 50 of 1):
+    1. Q160478 (Odysseas Elytis) <-> Q165823 (Giorgos Seferis)
+       Weight: 1, Relations: [country]
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 5 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q80321               - Halldór Laxness
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 7 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q1065                - United Nations
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 9 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q114452906           - Center for Civil Liberties
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 11 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q170208              - Quakers
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 12 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q171183              - Intergovernmental Panel on Climate Change
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 13 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q188567              - Grameen Bank
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 14 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q1989908             - Japan Confederation of A- and H-Bomb Sufferers Organizations
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 15 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q204344              - World Food Programme
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 16 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q21078159            - Tunisian National Dialogue Quartet
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 17 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q219575              - United Nations peacekeeping
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 18 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q325523              - International Campaign to Ban Landmines
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 19 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q41984               - International Atomic Energy Agency
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 20 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q458                 - European Union
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 21 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q464677              - American Friends Service Committee
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 22 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q49330               - Doctors Without Borders
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 23 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q50365049            - Abiy Ahmed
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 24 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q54129               - International Labour Organization
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 25 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q547940              - International Campaign to Abolish Nuclear Weapons
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 26 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q677499              - Quaker Peace and Social Witness
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 27 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q740308              - UNICEF
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 1 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q743558              - Nansen International Office for Refugees
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 10 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q842490              - Organisation for the Prohibition of Chemical Weapons
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000
+
+────────────────────────────────────────────────────────────────────────────────
+COMMUNITY 3 (1 nodes)
+────────────────────────────────────────────────────────────────────────────────
+
+Members:
+    1. Q851563              - Memorial
+
+Internal edges: 0
+Total internal weight: 0
+Density: 0.0000

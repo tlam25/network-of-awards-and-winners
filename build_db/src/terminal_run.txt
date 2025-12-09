@@ -1,0 +1,3 @@
+/opt/homebrew/opt/neo4j/bin/neo4j console
+
+brew services restart neo4j

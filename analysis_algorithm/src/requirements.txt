@@ -1,0 +1,7 @@
+neo4j
+python-dotenv
+networkx
+python-louvain
+scipy
+matplotlib
+seaborn
